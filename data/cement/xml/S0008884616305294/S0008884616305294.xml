@@ -1,0 +1,3004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0008884616305294</prism:url><dc:identifier>doi:10.1016/j.cemconres.2016.11.021</dc:identifier><eid>1-s2.0-S0008884616305294</eid><prism:doi>10.1016/j.cemconres.2016.11.021</prism:doi><pii>S0008-8846(16)30529-4</pii><dc:title>FTIR study on the polymorphic structure of tricalcium silicate </dc:title><prism:publicationName>Cement and Concrete Research</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00088846</prism:issn><prism:volume>99</prism:volume><prism:startingPage>129</prism:startingPage><prism:endingPage>136</prism:endingPage><prism:pageRange>129-136</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-09-30</prism:coverDate><prism:coverDisplayDate>September 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Ren, Xuehong</dc:creator><dc:creator>Zhang, Wensheng</dc:creator><dc:creator>Ye, Jiayuan</dc:creator><dc:description>
+                  The infrared (IR) spectra of various tricalcium silicate (C3S) polymorphs were studied. The effects of variation in the polymorph and substituent ions on the IR spectra of C3S were discerned by synthesizing samples with differing types and amounts of foreign ions but the same polymorphic form. The IR spectrum of C3S mainly depends on the polymorphic form. Substituent ions have a weak influence. The IR spectra of T1 and T2 are very similar. Both show forbidden bands corresponding to symmetric vibration, indicating that [SiO4]4− tetrahedra are strongly distorted from an ideal tetrahedron. With an increase in the crystal symmetry of C3S, the number of bands for the polymorphs T1→T2→T3→M1→M3→R decrease, and the peaks become broader. The absence of symmetric stretching bands with a sharp peak at approximately 812cm−1 indicates that the [SiO4]4− tetrahedra retain an approximately regular tetrahedron symmetry in T3, M1, M3 and R C3S.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Ca3SiO5 (D)</dcterms:subject><dcterms:subject>Crystal structure (B)</dcterms:subject><dcterms:subject>Spectroscopy (B)</dcterms:subject><dcterms:subject>Cement (D)</dcterms:subject><dcterms:subject>Characterization (B)</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0008884616305294" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0008884616305294" rel="scidir"/></coredata><objects><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="5205" type="IMAGE-THUMBNAIL" width="107">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr1.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr2ac" size="7819" type="IMAGE-THUMBNAIL" width="155">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr2ac.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr2df" size="7235" type="IMAGE-THUMBNAIL" width="151">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr2df.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="163" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="5000" type="IMAGE-THUMBNAIL" width="87">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr3.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="163" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="8089" type="IMAGE-THUMBNAIL" width="104">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr4.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="122" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="12943" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="480" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="42285" type="IMAGE-DOWNSAMPLED" width="313">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="849" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2ac" size="175979" type="IMAGE-DOWNSAMPLED" width="802">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr2ac.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="869" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2df" size="161152" type="IMAGE-DOWNSAMPLED" width="802">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr2df.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="542" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="29251" type="IMAGE-DOWNSAMPLED" width="289">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="457" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="74315" type="IMAGE-DOWNSAMPLED" width="291">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="322" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="101513" type="IMAGE-DOWNSAMPLED" width="576">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="2128" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="350981" type="IMAGE-HIGH-RES" width="1388">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="3760" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2ac" size="1612356" type="IMAGE-HIGH-RES" width="3553">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr2ac_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="3850" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2df" size="1211966" type="IMAGE-HIGH-RES" width="3553">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr2df_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="2400" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="258933" type="IMAGE-HIGH-RES" width="1280">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="2028" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="562489" type="IMAGE-HIGH-RES" width="1290">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="1426" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="879626" type="IMAGE-HIGH-RES" width="2552">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="standard" mimetype="application/word" multimediatype="Microsoft Word file" ref="mmc1" size="13338" type="APPLICATION">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-mmc1.docx?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="246" type="ALTIMG" width="24">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884616305294-si1.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85019264868</scopus-id><scopus-eid>2-s2.0-85019264868</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85019264868" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271509</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291788</xocs:ssid>
+<xocs:ssid type="subj">291885</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Cement and Concrete Research</xocs:srctitle>
+<xocs:normalized-srctitle>CEMENTCONCRETERESEARCH</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20170517">2017-05-17</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20170517">2017-05-17</xocs:available-online-date>
+<xocs:vor-load-date yyyymmdd="20170517">2017-05-17</xocs:vor-load-date>
+<xocs:vor-available-online-date yyyymmdd="20170517">2017-05-17</xocs:vor-available-online-date>
+<xocs:ew-transaction-id>2017-05-31T21:03:11</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0008884616305294</xocs:eid>
+<xocs:pii-formatted>S0008-8846(16)30529-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0008884616305294</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.cemconres.2016.11.021</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0008884617X00070</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20250716">2025-07-16T15:44:11.89929Z</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20170901</xocs:date-search-begin>
+<xocs:date-search-end>20170930</xocs:date-search-end>
+<xocs:year-nav>2017</xocs:year-nav>
+<xocs:indexeddate epoch="1495015476">2017-05-17T10:04:36.014362Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid primabst ref</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0008-8846</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>00088846</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+<xocs:vol-first>99</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>99</xocs:volume>
+</xocs:volume-list>
+<xocs:suppl>C</xocs:suppl>
+<xocs:vol-iss-suppl-text>Volume 99</xocs:vol-iss-suppl-text>
+<xocs:sort-order>14</xocs:sort-order>
+<xocs:first-fp>129</xocs:first-fp>
+<xocs:last-lp>136</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>129</xocs:first-page>
+<xocs:last-page>136</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>201709</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>September 2017</xocs:cover-date-text>
+<xocs:cover-date-start>2017-09-01</xocs:cover-date-start>
+<xocs:cover-date-end>2017-09-30</xocs:cover-date-end>
+<xocs:cover-date-year>2017</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>RESEARCH ARTICLES</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>© 2017 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>FTIRSTUDYPOLYMORPHICSTRUCTURETRICALCIUMSILICATE</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>REN</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Material and methods</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Preparation of specimens</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Testing method</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Analysis of C<ce:inf loc="post">3</ce:inf>S polymorphs</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>IR spectra of different C<ce:inf loc="post">3</ce:inf>S polymorphs</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>The effect of foreign ions on the IR spectra of C<ce:inf loc="post">3</ce:inf>S</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:appendices">
+<xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+<xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="rf0005">
+<xocs:ref-normalized-surname>LUDWIG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2015</xocs:ref-pub-year>
+<xocs:ref-first-fp>24</xocs:ref-first-fp>
+<xocs:ref-last-lp>37</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0010">
+<xocs:ref-normalized-surname>DUNSTETTER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2006</xocs:ref-pub-year>
+<xocs:ref-first-fp>39</xocs:ref-first-fp>
+<xocs:ref-last-lp>53</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0015">
+<xocs:ref-normalized-surname>TAYLOR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>CEMENTCHEMISTRY</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0020">
+<xocs:ref-normalized-surname>JEFFERY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1952</xocs:ref-pub-year>
+<xocs:ref-first-fp>24</xocs:ref-first-fp>
+<xocs:ref-last-lp>35</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0025">
+<xocs:ref-normalized-surname>GOLOVASTIKOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1975</xocs:ref-pub-year>
+<xocs:ref-first-fp>441</xocs:ref-first-fp>
+<xocs:ref-last-lp>445</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0030">
+<xocs:ref-normalized-surname>NISHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>197</xocs:ref-first-fp>
+<xocs:ref-last-lp>212</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0035">
+<xocs:ref-normalized-surname>LLINETS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>191</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0040">
+<xocs:ref-normalized-surname>NISHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>297</xocs:ref-first-fp>
+<xocs:ref-last-lp>314</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0045">
+<xocs:ref-normalized-surname>MUMME</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>145</xocs:ref-first-fp>
+<xocs:ref-last-lp>160</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0050">
+<xocs:ref-normalized-surname>MAKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>35</xocs:ref-first-fp>
+<xocs:ref-last-lp>47</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>RELATIONSHIPPROCESSINGPARAMETERSCLINKERPROPERTIESINFLUENCEMINORCOMPONENTS8THICCC</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0055">
+<xocs:ref-normalized-surname>URABE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>1253</xocs:ref-first-fp>
+<xocs:ref-last-lp>1258</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0060">
+<xocs:ref-normalized-surname>URABE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>423</xocs:ref-first-fp>
+<xocs:ref-last-lp>429</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0065">
+<xocs:ref-normalized-surname>BIGARE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1967</xocs:ref-pub-year>
+<xocs:ref-first-fp>609</xocs:ref-first-fp>
+<xocs:ref-last-lp>619</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0070">
+<xocs:ref-normalized-surname>PETERSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>1625</xocs:ref-first-fp>
+<xocs:ref-last-lp>1634</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0075">
+<xocs:ref-normalized-surname>TORRE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>1347</xocs:ref-first-fp>
+<xocs:ref-last-lp>1356</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0080">
+<xocs:ref-normalized-surname>DELATORRE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2008</xocs:ref-pub-year>
+<xocs:ref-first-fp>1261</xocs:ref-first-fp>
+<xocs:ref-last-lp>1269</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0085">
+<xocs:ref-normalized-surname>DENOIRFONTAINE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2012</xocs:ref-pub-year>
+<xocs:ref-first-fp>102</xocs:ref-first-fp>
+<xocs:ref-last-lp>112</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0090">
+<xocs:ref-normalized-surname>DENOIRFONTAINE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2006</xocs:ref-pub-year>
+<xocs:ref-first-fp>54</xocs:ref-first-fp>
+<xocs:ref-last-lp>64</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0095">
+<xocs:ref-normalized-surname>PETERSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>356</xocs:ref-first-fp>
+<xocs:ref-last-lp>358</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0100">
+<xocs:ref-normalized-surname>BERLINER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>551</xocs:ref-first-fp>
+<xocs:ref-last-lp>575</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0105">
+<xocs:ref-normalized-surname>GHOSH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-first-fp>771</xocs:ref-first-fp>
+<xocs:ref-last-lp>778</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0110">
+<xocs:ref-normalized-surname>GHOSH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1974</xocs:ref-pub-year>
+<xocs:ref-first-fp>1577</xocs:ref-first-fp>
+<xocs:ref-last-lp>1584</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0115">
+<xocs:ref-normalized-surname>HANDKS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1979</xocs:ref-pub-year>
+<xocs:ref-first-fp>145</xocs:ref-first-fp>
+<xocs:ref-last-lp>160</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0120">
+<xocs:ref-normalized-surname>OMOTOSOA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>87</xocs:ref-first-fp>
+<xocs:ref-last-lp>102</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0125">
+<xocs:ref-normalized-surname>DELGADO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>970</xocs:ref-first-fp>
+<xocs:ref-last-lp>976</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0130">
+<xocs:ref-normalized-surname>HUGHES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1976</xocs:ref-pub-year>
+<xocs:ref-first-fp>91</xocs:ref-first-fp>
+<xocs:ref-last-lp>104</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0135">
+<xocs:ref-normalized-surname>GHOSH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1978</xocs:ref-pub-year>
+<xocs:ref-first-fp>1877</xocs:ref-first-fp>
+<xocs:ref-last-lp>1886</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0140">
+<xocs:ref-normalized-surname>YLMEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2009</xocs:ref-pub-year>
+<xocs:ref-first-fp>433</xocs:ref-first-fp>
+<xocs:ref-last-lp>439</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0145">
+<xocs:ref-normalized-surname>BARNETT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>719</xocs:ref-first-fp>
+<xocs:ref-last-lp>730</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0150">
+<xocs:ref-normalized-surname>GARCIALODEIRO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2009</xocs:ref-pub-year>
+<xocs:ref-first-fp>147</xocs:ref-first-fp>
+<xocs:ref-last-lp>153</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0155">
+<xocs:ref-normalized-surname>STEVULA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>413</xocs:ref-first-fp>
+<xocs:ref-last-lp>423</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0160">
+<xocs:ref-normalized-surname>PULIGILLA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2015</xocs:ref-pub-year>
+<xocs:ref-first-fp>39</xocs:ref-first-fp>
+<xocs:ref-last-lp>49</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0165">
+<xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>150</xocs:ref-first-fp>
+<xocs:ref-last-lp>158</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0170">
+<xocs:ref-normalized-surname>PUERBSS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>127</xocs:ref-first-fp>
+<xocs:ref-last-lp>133</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0175">
+<xocs:ref-normalized-surname>XUEHONG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2012</xocs:ref-pub-year>
+<xocs:ref-first-fp>664</xocs:ref-first-fp>
+<xocs:ref-last-lp>670</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0180">
+<xocs:ref-normalized-surname>MIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2012</xocs:ref-pub-year>
+<xocs:ref-first-fp>2444</xocs:ref-first-fp>
+<xocs:ref-last-lp>2450</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0185">
+<xocs:ref-normalized-surname>VIANI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>384</xocs:ref-first-fp>
+<xocs:ref-last-lp>389</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0190">
+<xocs:ref-normalized-surname>MAKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1978</xocs:ref-pub-year>
+<xocs:ref-first-fp>407</xocs:ref-first-fp>
+<xocs:ref-last-lp>414</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0195">
+<xocs:ref-normalized-surname>MORANVILLEREGOURD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>3</xocs:ref-first-fp>
+<xocs:ref-last-lp>45</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>CHEMISTRYSTRUCTUREPROPERTIESQUALITYCLINKER9THICCCNEWDELHIINDIA</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>RENX2017X129</xocs:refkey3>
+<xocs:refkey4lp>RENX2017X129X136</xocs:refkey4lp>
+<xocs:refkey4ai>RENX2017X129XX</xocs:refkey4ai>
+<xocs:refkey5>RENX2017X129X136XX</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+</xocs:open-access>
+<xocs:self-archiving>
+<xocs:sa-start-date>2019-05-17T00:00:00.000Z</xocs:sa-start-date>
+<xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+</xocs:self-archiving>
+<xocs:copyright-info>
+<xocs:cp-notices>
+<xocs:cp-notice lang="en">© 2017 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+</xocs:cp-notices>
+</xocs:copyright-info>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0008-8846(16)30529-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0008884616305294</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0008884616305294</xocs:eid>
+<xocs:doi>10.1016/j.cemconres.2016.11.021</xocs:doi>
+<xocs:cid>271509</xocs:cid>
+<xocs:timestamp>2024-01-01T14:18:22.264648Z</xocs:timestamp>
+<xocs:cover-date-start>2017-09-01</xocs:cover-date-start>
+<xocs:cover-date-end>2017-09-30</xocs:cover-date-end>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/MAIN/application/pdf/300930eecf4198562e3147f7a6be13c2/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/MAIN/application/pdf/300930eecf4198562e3147f7a6be13c2/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>1375069</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/PREVIEW/image/png/a2c907598f8ae19a83bf878a30d98eb2/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/PREVIEW/image/png/a2c907598f8ae19a83bf878a30d98eb2/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>56839</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr1/THUMBNAIL/image/gif/02cfff89c518fffeda558f333ea3ea1f/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr1/THUMBNAIL/image/gif/02cfff89c518fffeda558f333ea3ea1f/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5205</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>107</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr2ac.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr2ac/THUMBNAIL/image/gif/5aeaade5f24e1c1c0dffe59a2da338ed/gr2ac.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr2ac/THUMBNAIL/image/gif/5aeaade5f24e1c1c0dffe59a2da338ed/gr2ac.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2ac</xocs:file-basename>
+<xocs:filename>gr2ac.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>7819</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>155</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr2df.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr2df/THUMBNAIL/image/gif/ceac0e661cd71eaa3bafe29654bc7c15/gr2df.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr2df/THUMBNAIL/image/gif/ceac0e661cd71eaa3bafe29654bc7c15/gr2df.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2df</xocs:file-basename>
+<xocs:filename>gr2df.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>7235</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>151</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr3/THUMBNAIL/image/gif/d937dc3b65c023e2041b5c17fadc631e/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr3/THUMBNAIL/image/gif/d937dc3b65c023e2041b5c17fadc631e/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5000</xocs:filesize>
+<xocs:pixel-height>163</xocs:pixel-height>
+<xocs:pixel-width>87</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr4/THUMBNAIL/image/gif/9bc4831e414d5f7c48f3cf98e290cd0e/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr4/THUMBNAIL/image/gif/9bc4831e414d5f7c48f3cf98e290cd0e/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>8089</xocs:filesize>
+<xocs:pixel-height>163</xocs:pixel-height>
+<xocs:pixel-width>104</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr5/THUMBNAIL/image/gif/d93d02f4628a4d3bbf9567c9e84b1841/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr5/THUMBNAIL/image/gif/d93d02f4628a4d3bbf9567c9e84b1841/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>12943</xocs:filesize>
+<xocs:pixel-height>122</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr1/DOWNSAMPLED/image/jpeg/65ada2ce5970a45c7da0c9aa5a8c49a6/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr1/DOWNSAMPLED/image/jpeg/65ada2ce5970a45c7da0c9aa5a8c49a6/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>42285</xocs:filesize>
+<xocs:pixel-height>480</xocs:pixel-height>
+<xocs:pixel-width>313</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr2ac.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr2ac/DOWNSAMPLED/image/jpeg/7d68dd7388f58d4934b09c2602d8c505/gr2ac.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr2ac/DOWNSAMPLED/image/jpeg/7d68dd7388f58d4934b09c2602d8c505/gr2ac.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2ac</xocs:file-basename>
+<xocs:filename>gr2ac.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>175979</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>802</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr2df.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr2df/DOWNSAMPLED/image/jpeg/d1136ac4020b8f760cc40262147385fd/gr2df.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr2df/DOWNSAMPLED/image/jpeg/d1136ac4020b8f760cc40262147385fd/gr2df.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2df</xocs:file-basename>
+<xocs:filename>gr2df.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>161152</xocs:filesize>
+<xocs:pixel-height>869</xocs:pixel-height>
+<xocs:pixel-width>802</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr3/DOWNSAMPLED/image/jpeg/333e83ada4aec824d9399aefb5632546/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr3/DOWNSAMPLED/image/jpeg/333e83ada4aec824d9399aefb5632546/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>29251</xocs:filesize>
+<xocs:pixel-height>542</xocs:pixel-height>
+<xocs:pixel-width>289</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr4/DOWNSAMPLED/image/jpeg/e7ba8f44024d48cec2de37d134803fb5/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr4/DOWNSAMPLED/image/jpeg/e7ba8f44024d48cec2de37d134803fb5/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>74315</xocs:filesize>
+<xocs:pixel-height>457</xocs:pixel-height>
+<xocs:pixel-width>291</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr5/DOWNSAMPLED/image/jpeg/91a122f08d860fccdb5b91ba81227749/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr5/DOWNSAMPLED/image/jpeg/91a122f08d860fccdb5b91ba81227749/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>101513</xocs:filesize>
+<xocs:pixel-height>322</xocs:pixel-height>
+<xocs:pixel-width>576</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr1_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr1/HIGHRES/image/jpeg/f0ca9becef5a64609eb2ec05f66ababa/gr1_lrg.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr1/HIGHRES/image/jpeg/f0ca9becef5a64609eb2ec05f66ababa/gr1_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>350981</xocs:filesize>
+<xocs:pixel-height>2128</xocs:pixel-height>
+<xocs:pixel-width>1388</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr2ac_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr2ac/HIGHRES/image/jpeg/5870064f005c38c306b977aa23a505b8/gr2ac_lrg.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr2ac/HIGHRES/image/jpeg/5870064f005c38c306b977aa23a505b8/gr2ac_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2ac</xocs:file-basename>
+<xocs:filename>gr2ac_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>1612356</xocs:filesize>
+<xocs:pixel-height>3760</xocs:pixel-height>
+<xocs:pixel-width>3553</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr2df_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr2df/HIGHRES/image/jpeg/db7332639854f9c27070f2e72e9f0c15/gr2df_lrg.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr2df/HIGHRES/image/jpeg/db7332639854f9c27070f2e72e9f0c15/gr2df_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2df</xocs:file-basename>
+<xocs:filename>gr2df_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>1211966</xocs:filesize>
+<xocs:pixel-height>3850</xocs:pixel-height>
+<xocs:pixel-width>3553</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr3_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr3/HIGHRES/image/jpeg/591fdb6fa81b6d5b4e60314a8b1b6edc/gr3_lrg.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr3/HIGHRES/image/jpeg/591fdb6fa81b6d5b4e60314a8b1b6edc/gr3_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>258933</xocs:filesize>
+<xocs:pixel-height>2400</xocs:pixel-height>
+<xocs:pixel-width>1280</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr4_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr4/HIGHRES/image/jpeg/73747beac219f062235f114b107533b9/gr4_lrg.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr4/HIGHRES/image/jpeg/73747beac219f062235f114b107533b9/gr4_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>562489</xocs:filesize>
+<xocs:pixel-height>2028</xocs:pixel-height>
+<xocs:pixel-width>1290</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-gr5_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/gr5/HIGHRES/image/jpeg/62e729d1c5e409d66036200a660271e1/gr5_lrg.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/gr5/HIGHRES/image/jpeg/62e729d1c5e409d66036200a660271e1/gr5_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>879626</xocs:filesize>
+<xocs:pixel-height>1426</xocs:pixel-height>
+<xocs:pixel-width>2552</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-mmc1.docx</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/mmc1/MAIN/application/msword/1fbab2dd78ff346b9d7e4d9ea06ddddc/mmc1.docx</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/mmc1/MAIN/application/msword/1fbab2dd78ff346b9d7e4d9ea06ddddc/mmc1.docx</xocs:ucs-locator>
+<xocs:file-basename>mmc1</xocs:file-basename>
+<xocs:filename>mmc1.docx</xocs:filename>
+<xocs:extension>docx</xocs:extension>
+<xocs:filesize>13338</xocs:filesize>
+<xocs:attachment-type>APPLICATION</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884616305294-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884616305294/STRIPIN/image/gif/fea05c79fd07ad57991e29c1fa066511/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884616305294/STRIPIN/image/gif/fea05c79fd07ad57991e29c1fa066511/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>246</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>24</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.4" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>CEMCON</jid>
+<aid>5323</aid>
+<ce:pii>S0008-8846(16)30529-4</ce:pii>
+<ce:doi>10.1016/j.cemconres.2016.11.021</ce:doi>
+<ce:copyright type="full-transfer" year="2017">Elsevier Ltd</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="f0005">
+<ce:label>Fig. 1</ce:label>
+<ce:caption id="ca0005">
+<ce:simple-para id="sp0005" view="all">XRD patterns of the samples.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0005" role="short">Fig. 1</ce:alt-text>
+<ce:link id="lk0005" locator="gr1" xlink:href="pii:S0008884616305294/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0010">
+<ce:label>Fig. 2</ce:label>
+<ce:caption id="ca0010">
+<ce:simple-para id="sp0010" view="all">Measured and calculated XRD patterns of C<ce:inf loc="post">3</ce:inf>S samples after refinement. The insets show the fit of two representative regions: 28–35° and 50–53° for C<ce:inf loc="post">3</ce:inf>S. a) Sample X1: T1 C<ce:inf loc="post">3</ce:inf>S; b) Sample X2: T2 C<ce:inf loc="post">3</ce:inf>S; c) Sample X3: T3 C<ce:inf loc="post">3</ce:inf>S; d) Sample X4: M1<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>T3 (De La Torre-type) C<ce:inf loc="post">3</ce:inf>S; e) Sample X5: M3 C<ce:inf loc="post">3</ce:inf>S; f) Sample X6: R C<ce:inf loc="post">3</ce:inf>S.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0010" role="short">Fig. 2</ce:alt-text>
+<ce:link id="lk9000" locator="gr2ac" xlink:href="pii:S0008884616305294/gr2ac" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+<ce:link id="lk9005" locator="gr2df" xlink:href="pii:S0008884616305294/gr2df" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0015">
+<ce:label>Fig. 3</ce:label>
+<ce:caption id="ca0015">
+<ce:simple-para id="sp0015" view="all">SAED pattern and corresponding reciprocal plane for M1 C<ce:inf loc="post">3</ce:inf>S recorded in C<ce:inf loc="post">3</ce:inf>S doped with 0.75% MgO: a) SAED pattern indices based on a pseudohexagonal subcell along the [010] direction; b) corresponding reciprocal plane for M1: (●) reflection from the subcell and (○) characteristic reflections from the supercell of M1.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0015" role="short">Fig. 3</ce:alt-text>
+<ce:link id="lk0015" locator="gr3" xlink:href="pii:S0008884616305294/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0020">
+<ce:label>Fig. 4</ce:label>
+<ce:caption id="ca0020">
+<ce:simple-para id="sp0020" view="all">IR spectra of different C<ce:inf loc="post">3</ce:inf>S polymorphs.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0020" role="short">Fig. 4</ce:alt-text>
+<ce:link id="lk0020" locator="gr4" xlink:href="pii:S0008884616305294/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0025">
+<ce:label>Fig. 5</ce:label>
+<ce:caption id="ca0025">
+<ce:simple-para id="sp0025" view="all">IR spectra of C<ce:inf loc="post">3</ce:inf>S with different compositions: a) T1 C<ce:inf loc="post">3</ce:inf>S; b) T3 C<ce:inf loc="post">3</ce:inf>S; c) M3 C<ce:inf loc="post">3</ce:inf>S.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0025" role="short">Fig. 5</ce:alt-text>
+<ce:link id="lk0025" locator="gr5" xlink:href="pii:S0008884616305294/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="t0005" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption id="ca0030">
+<ce:simple-para id="sp0030" view="all">Chemical composition of different polymorphs of C<ce:inf loc="post">3</ce:inf>S (wt%).</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0030" role="short">Table 1</ce:alt-text>
+<tgroup cols="12" colsep="1" rowsep="1">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<colspec colname="col8"/>
+<colspec colname="col9"/>
+<colspec colname="col10"/>
+<colspec colname="col11"/>
+<colspec colname="col12"/>
+<thead>
+<row rowsep="1" valign="top">
+<entry colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">No.</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">CaO</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf>
+</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Na<inf loc="post">2</inf>O</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">K<inf loc="post">2</inf>O</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">MgO</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">BaO</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">Fe<inf loc="post">2</inf>O<inf loc="post">3</inf>
+</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">P<inf loc="post">2</inf>O<inf loc="post">5</inf>
+</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">SO<inf loc="post">3</inf>
+</entry>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">Phase present</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">73.65</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">26.35</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">T1 C<inf loc="post">3</inf>S</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X2</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">73.65</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">26.48</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">T2 C<inf loc="post">3</inf>S</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X3</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.7</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">T3 C<inf loc="post">3</inf>S</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X4</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">73.65</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">26.72</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">0.75</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">Mainly M1 C<inf loc="post">3</inf>S</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X5</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.7</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">M3 C<inf loc="post">3</inf>S</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X6</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.7</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">R C<inf loc="post">3</inf>S</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="t0010" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption id="ca0035">
+<ce:simple-para id="sp0035" view="all">The results of Rietveld analyses of XRD data.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0035" role="short">Table 2</ce:alt-text>
+<tgroup cols="4" colsep="1" rowsep="1">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<thead>
+<row rowsep="1" valign="top">
+<entry colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">NO.</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Composition</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Rp (%)</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Rwp (%)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">T1</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">5.53</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">8.27</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X2</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">T2</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">5.76</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">8.39</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X3</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">T3</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">6.45</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">9.26</entry>
+</row>
+<row valign="top">
+<entry colname="col1" morerows="1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X4</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">69%M1<hsp sp="0.25"/>+<hsp sp="0.25"/>31%T3 (Golovastikov-type)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">5.95</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">8.77</entry>
+</row>
+<row valign="top">
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">51%M1<hsp sp="0.25"/>+<hsp sp="0.25"/>49%T3 (De la Torre-type)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">5.27</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">7.47</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X5</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">M3</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">5.53</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">8.89</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">X6</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">R</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">8.69</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">11.8</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="t0015" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption id="ca0040">
+<ce:simple-para id="sp0040" view="all">Lattice parameters of the pseudohexagonal average structure of different C<ce:inf loc="post">3</ce:inf>S polymorphs.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0040" role="short">Table 3</ce:alt-text>
+<tgroup cols="8" colsep="1" rowsep="1">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<colspec colname="col8"/>
+<thead>
+<row valign="top">
+<entry colname="col1" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">No.</entry>
+<entry nameend="col7" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Pseudohexagonal</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+</row>
+<row rowsep="1" valign="top">
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">a (Å)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">b (Å)</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">c (Å)</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">α (°)</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">β (°)</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">γ (°)</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">V (Å<sup loc="post">3</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">6.9791 (1)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">7.0604 (3)</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">24.9663 (8)</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">90.19 (4)</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">88.98 (1)</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">119.25 (5)</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1073.13</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T2</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">7.0597 (2)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">7.0957 (0)</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">25.0171 (3)</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">90.15 (2)</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">89.78 (1)</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">120.45 (1)</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1080.33</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T3</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">7.0429 (4)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">7.0888 (1)</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">25.0505 (7)</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">89.96 (8)</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">90.20 (4)</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">120.05 (2)</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1082.35</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">7.0618 (3)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">7.0628 (5)</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">25.0257 (4)</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">89.89 (4)</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">90.40 (9)</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">119.59 (2)</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1085.35</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M3</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">6.9570 (3)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">7.0311 (5)</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">24.8582 (2)</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">90.04 (0)</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">90.16 (6)</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">120.11 (0)</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1045.18</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">R</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">7.0651 (8)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">7.0651 (8)</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">25.0309 (1)</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">90.00 (0)</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">90.00 (0)</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">120.00 (0)</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1082.06</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="t0020" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 4</ce:label>
+<ce:caption id="ca0045">
+<ce:simple-para id="sp0045" view="all">FTIR spectra assignments for different polymorphs of C<ce:inf loc="post">3</ce:inf>S.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0045" role="short">Table 4</ce:alt-text>
+<tgroup cols="5" colsep="1" rowsep="1">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<thead>
+<row valign="top">
+<entry colname="col1" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">No.</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Absorption IR band/cm<sup loc="post">−<hsp sp="0.10"/>1</sup>
+</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+</row>
+<row rowsep="1" valign="top">
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">ν<inf loc="post">1</inf>
+</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">ν<inf loc="post">2</inf>
+</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">ν<inf loc="post">3</inf>
+</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">ν<inf loc="post">4</inf>
+</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">846, 834, 812</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">464, 455</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">996, 938, 906, 883</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">525</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T2</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">846, 834, 813</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">464, 455</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">996, 938, 884</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">525</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T3</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">454</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">938, 884</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">524</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">461</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">938, 887</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">524</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M3</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">460</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">925, 890</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">525</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">R</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">461</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">938, 886</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">524</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="t0025" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 5</ce:label>
+<ce:caption id="ca0050">
+<ce:simple-para id="sp0050" view="all">Chemical compositions of T1, T3 and M3 C<ce:inf loc="post">3</ce:inf>S solid solutions (wt%).</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0050" role="short">Table 5</ce:alt-text>
+<tgroup cols="12" colsep="1" rowsep="1">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<colspec colname="col8"/>
+<colspec colname="col9"/>
+<colspec colname="col10"/>
+<colspec colname="col11"/>
+<colspec colname="col12"/>
+<thead>
+<row rowsep="1" valign="top">
+<entry colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">No.</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">CaO</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf>
+</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Na<inf loc="post">2</inf>O</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">K<inf loc="post">2</inf>O</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">MgO</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">BaO</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">Fe<inf loc="post">2</inf>O<inf loc="post">3</inf>
+</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">P<inf loc="post">2</inf>O<inf loc="post">5</inf>
+</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">SO<inf loc="post">3</inf>
+</entry>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">Polymorphic form</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T1X0</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">73.65</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">26.35</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col12" morerows="3" xmlns="http://www.elsevier.com/xml/common/dtd">T1</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T1A1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">73.65</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">26.35</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T1A2</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">73.65</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">26.35</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">0.5</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T1F1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">73.65</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">26.35</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.4</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T3A1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1.0</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col12" morerows="3" xmlns="http://www.elsevier.com/xml/common/dtd">T3</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T3F1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">1.0</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T3M0</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.7</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">T3A0</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.7</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M3A1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">0.5</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.7</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col12" morerows="5" xmlns="http://www.elsevier.com/xml/common/dtd">M3</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M3A2</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.7</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M3F0</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M3F1</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M3F2</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.4</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+</row>
+<row valign="top">
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">M3F3</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">71.60</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">25.57</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">1.0</entry>
+<entry colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<head>
+<ce:title id="ti0005">FTIR study on the polymorphic structure of tricalcium silicate</ce:title>
+<ce:author-group id="ag0005">
+<ce:author author-id="S0008884616305294-3d0e90f4df95fa4aaafb92a1ca6b4bc7" id="au0005">
+<ce:given-name>Xuehong</ce:given-name>
+<ce:surname>Ren</ce:surname>
+</ce:author>
+<ce:author author-id="S0008884616305294-878c2fc752ae24b584c35c92c7511731" id="au0010">
+<ce:given-name>Wensheng</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+<ce:cross-ref id="cf0005" refid="cr0005">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author author-id="S0008884616305294-4c9d93167b4de539ef688c5feb110e26" id="au0015">
+<ce:given-name>Jiayuan</ce:given-name>
+<ce:surname>Ye</ce:surname>
+</ce:author>
+<ce:affiliation id="af0005">
+<ce:textfn id="tn0005">State Key Laboratory of Green Building Materials, China Building Materials Academy, Beijing, China</ce:textfn>
+<sa:affiliation>
+<sa:organization>State Key Laboratory of Green Building Materials</sa:organization>
+<sa:organization>China Building Materials Academy</sa:organization>
+<sa:city>Beijing</sa:city>
+<sa:country>China</sa:country>
+</sa:affiliation>
+</ce:affiliation>
+<ce:correspondence id="cr0005">
+<ce:label>⁎</ce:label>
+<ce:text id="tx0005">Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="28" month="6" year="2016"/>
+<ce:date-revised day="19" month="10" year="2016"/>
+<ce:date-accepted day="10" month="11" year="2016"/>
+<ce:abstract class="author" id="ab0005" view="all" xml:lang="en"><ce:abstract-sec id="as0005" view="all">
+<ce:simple-para id="sp0055" view="all">The infrared (IR) spectra of various tricalcium silicate (C<ce:inf loc="post">3</ce:inf>S) polymorphs were studied. The effects of variation in the polymorph and substituent ions on the IR spectra of C<ce:inf loc="post">3</ce:inf>S were discerned by synthesizing samples with differing types and amounts of foreign ions but the same polymorphic form. The IR spectrum of C<ce:inf loc="post">3</ce:inf>S mainly depends on the polymorphic form. Substituent ions have a weak influence. The IR spectra of T1 and T2 are very similar. Both show forbidden bands corresponding to symmetric vibration, indicating that [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra are strongly distorted from an ideal tetrahedron. With an increase in the crystal symmetry of C<ce:inf loc="post">3</ce:inf>S, the number of bands for the polymorphs T1<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>T2<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>T3<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>M1<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>M3<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>R decrease, and the peaks become broader. The absence of symmetric stretching bands with a sharp peak at approximately 812<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> indicates that the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra retain an approximately regular tetrahedron symmetry in T3, M1, M3 and R C<ce:inf loc="post">3</ce:inf>S.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword" id="ks0005" view="all">
+<ce:section-title id="st0010">Keywords</ce:section-title>
+<ce:keyword id="kw0005">
+<ce:text id="tx0010">Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf> (D)</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0010">
+<ce:text id="tx0015">Crystal structure (B)</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0015">
+<ce:text id="tx0020">Spectroscopy (B)</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0020">
+<ce:text id="tx0025">Cement (D)</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0025">
+<ce:text id="tx0030">Characterization (B)</ce:text>
+</ce:keyword>
+</ce:keywords>
+</head>
+<body view="all">
+<ce:sections>
+<ce:section id="s0005" view="all">
+<ce:label>1</ce:label>
+<ce:section-title id="st0015">Introduction</ce:section-title>
+<ce:para id="p0005" view="all">Tricalcium silicate (Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf>, C<ce:inf loc="post">3</ce:inf>S) is the most important constituent of ordinary Portland cement clinker, exhibiting a complex polymorphism depending on the temperature and impurities <ce:cross-refs id="cf0010" refid="bb0005 bb0010 bb0015">[1–3]</ce:cross-refs>. Pure C<ce:inf loc="post">3</ce:inf>S can be triclinic (T1, T2, or T3), monoclinic (M1, M2, or M3), or rhombohedral (R) when heated. At room temperature, pure C3S only exists in the T1 form, and various impurities have to be introduced into C<ce:inf loc="post">3</ce:inf>S to obtain the other higher temperature forms <ce:cross-refs id="cf0015" refid="bb0005 bb0010 bb0015">[1–3]</ce:cross-refs>. Extensive efforts have been made to study the polymorphic structure of C<ce:inf loc="post">3</ce:inf>S in past decades. However, due to the complicated structure and the difficulty in preparing single crystals of C<ce:inf loc="post">3</ce:inf>S, the analysis of the crystal structure of C<ce:inf loc="post">3</ce:inf>S has been mainly based on powder X-ray diffraction (XRD), differential thermal analysis (DTA) and optical microscopy <ce:cross-refs id="cf0020" refid="bb0005 bb0010 bb0015">[1–3]</ce:cross-refs>. Consequently, the atomic structure of different C<ce:inf loc="post">3</ce:inf>S polymorphs and the relations between the polymorphs have not been fully understood. Only three polymorphs (R, M3, and T1) have been solved by X-ray single-crystal methods <ce:cross-refs id="cf0025" refid="bb0020 bb0025 bb0030 bb0035 bb0040 bb0045">[4–9]</ce:cross-refs>. The measured structures are similar with respect to the positions of the Ca<ce:sup loc="post">2<ce:hsp sp="0.10"/>+</ce:sup> and O<ce:sup loc="post">2<ce:hsp sp="0.10"/>−</ce:sup> ions and the Si atoms but differ markedly in the orientations of the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra, which show varying degrees of disorder <ce:cross-refs id="cf0030" refid="bb0015 bb0050">[3,10]</ce:cross-refs>. The orientational disorder of the tetrahedra that characterize the M3 superstructure has features intermediate between those of R and T1 <ce:cross-refs id="cf0035" refid="bb0040 bb0050">[8,10]</ce:cross-refs>. In addition, the mean coordination number of Ca<ce:sup loc="post">2<ce:hsp sp="0.10"/>+</ce:sup> ions in M3 is also between those of R and T1 <ce:cross-refs id="cf0040" refid="bb0040 bb0050">[8,10]</ce:cross-refs>. All C<ce:inf loc="post">3</ce:inf>S polymorphs, except T3 and R, have been confirmed to possess structural modulations <ce:cross-refs id="cf0045" refid="bb0010 bb0035 bb0040 bb0055 bb0060 bb0065 bb0070 bb0075 bb0080">[2,7,8,11–16]</ce:cross-refs>. The structural modulations of T1, M1, M2 and M3 C<ce:inf loc="post">3</ce:inf>S were systematically investigated by Urabe et al. using transmission electron microscopy (TEM) <ce:cross-refs id="cf0050" refid="bb0055 bb0060">[11,12]</ce:cross-refs>. The superstructure of T1 was found to include both distortion of the silicate tetrahedra in their orientations and periodic deviation of cations from their average positions <ce:cross-ref id="cf0055" refid="bb0055">[11]</ce:cross-ref>. The monoclinic superstructures are believed to be caused by the periodic ordering of the orientations of the apices of the silicate tetrahedral <ce:cross-refs id="cf0060" refid="bb0025 bb0030 bb0040 bb0060">[5,6,8,12]</ce:cross-refs>. With the development of Rietveld analysis and power diffraction, various structural models for T2, T3, M1 and M3 polymorphs have been developed based on the atomic models determined by the previous single-crystal experiments <ce:cross-refs id="cf0065" refid="bb0070 bb0075 bb0080 bb0085 bb0090 bb0095 bb0100">[14–20]</ce:cross-refs>. It has been shown that the structural differences between the polymorphs include slight shifts of the atomic positions and changes in the orientational order or disorder of the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra associated with consequent changes in the coordination of calcium ions <ce:cross-refs id="cf0070" refid="bb0010 bb0015 bb0020 bb0025 bb0030 bb0035 bb0040 bb0045 bb0050 bb0055 bb0060 bb0065 bb0070 bb0075 bb0080 bb0085 bb0090 bb0095 bb0100">[2–20]</ce:cross-refs>.</ce:para>
+<ce:para id="p0010" view="all">Infrared (IR) spectroscopy can be used to identify structures because molecules and functional groups absorb specific frequencies that are characteristic of their structure. The application of IR spectroscopy in the field of cement chemistry dates back to the 5th international symposium on the chemistry of cement, Tokyo (1968). As a simple, quick, and inexpensive analytical technique, IR spectroscopy can provide ample information on the structure of minerals and has been widely used to study cement and hydration products <ce:cross-refs id="cf0075" refid="bb0105 bb0110 bb0115 bb0120 bb0125 bb0130 bb0135 bb0140 bb0145 bb0150 bb0155 bb0160 bb0165">[21–33]</ce:cross-refs>. The IR spectra of pure C<ce:inf loc="post">3</ce:inf>S and its ion-stabilized forms have been studied <ce:cross-refs id="cf0080" refid="bb0105 bb0110 bb0115 bb0120 bb0125 bb0130 bb0135">[21–27]</ce:cross-refs>. However, changes in the IR spectra of C<ce:inf loc="post">3</ce:inf>S solid solutions were mainly attributed to the effect of substituent ions, and little attention has been given to the influence of variation in polymorphs.</ce:para>
+<ce:para id="p0015" view="all">Like C<ce:inf loc="post">3</ce:inf>S, dicalcium silicate (C<ce:inf loc="post">2</ce:inf>S) has a nesosilicate type structure with isolated [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra, and the different C<ce:inf loc="post">2</ce:inf>S polymorphs mainly differ in the orientations of their [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra. The vibration frequencies of C<ce:inf loc="post">2</ce:inf>S vary considerably depending on polymorphs <ce:cross-ref id="cf0085" refid="bb0170">[34]</ce:cross-ref>. Therefore, it is reasonable to hypothesize that variations in the polymorphs of C<ce:inf loc="post">3</ce:inf>S contribute to the differences in the IR spectra of C<ce:inf loc="post">3</ce:inf>S as well. Our recent research has shown that the IR spectra of C<ce:inf loc="post">3</ce:inf>S solid solutions (M3 form) with different compositions are similar but are quite different from that of T1 C<ce:inf loc="post">3</ce:inf>S <ce:cross-ref id="cf0090" refid="bb0175">[35]</ce:cross-ref>. However, there are few studies focused on the IR spectra of different C<ce:inf loc="post">3</ce:inf>S polymorphs due to the complexity of the C<ce:inf loc="post">3</ce:inf>S structure. The relations between foreign ions, the polymorphic structure and the IR spectra of C<ce:inf loc="post">3</ce:inf>S are not fully understood.</ce:para>
+<ce:para id="p0020" view="all">The main objective of this work is to obtain IR spectra of different C<ce:inf loc="post">3</ce:inf>S polymorphs and to understand the polymorphic structure of C<ce:inf loc="post">3</ce:inf>S. The effects of variation in the polymorphs and the introduction of substituent ions on the IR spectra of C<ce:inf loc="post">3</ce:inf>S were discerned by synthesizing samples with differing types and amounts of foreign ions but the same polymorphic form. The results from this study will help to further understand the polymorphic structure of C<ce:inf loc="post">3</ce:inf>S and to promote better use of IR spectroscopy in the study of cement and hydration products.</ce:para>
+</ce:section>
+<ce:section id="s0010" view="all">
+<ce:label>2</ce:label>
+<ce:section-title id="st0020">Material and methods</ce:section-title>
+<ce:section id="s0015" view="all">
+<ce:label>2.1</ce:label>
+<ce:section-title id="st0025">Preparation of specimens</ce:section-title>
+<ce:para id="p0025" view="all">C<ce:inf loc="post">3</ce:inf>S and its solid solutions were synthesized by a conventional ceramic method. Analytical grade chemical reagents CaCO<ce:inf loc="post">3</ce:inf>, SiO<ce:inf loc="post">2</ce:inf>, Na<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>·10H<ce:inf loc="post">2</ce:inf>O, K<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>, MgO, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, BaO, CaHPO<ce:inf loc="post">4</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O and CaSO<ce:inf loc="post">4</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O were used as the starting materials. <ce:cross-ref id="cf0095" refid="t0005">Table 1</ce:cross-ref>
+<ce:float-anchor refid="t0005"/> shows the nominal dosages, expressed as oxide, used to prepare different polymorphs of C<ce:inf loc="post">3</ce:inf>S solid solutions. SiO<ce:inf loc="post">2</ce:inf> was first calcined at 950<ce:hsp sp="0.25"/>°C to eliminate the volatile constituents and was then ground in an agate mortar for 1<ce:hsp sp="0.25"/>h to promote the formation of C<ce:inf loc="post">3</ce:inf>S. Second, a mixture of 3<ce:hsp sp="0.25"/>mol CaCO<ce:inf loc="post">3</ce:inf> and 1<ce:hsp sp="0.25"/>mol SiO<ce:inf loc="post">2</ce:inf> with different types and amounts of impurities was homogenized for 5<ce:hsp sp="0.25"/>h in a homemade mixer (prepared pure C<ce:inf loc="post">3</ce:inf>S was used as the starting material for single-ion doping). The mixtures were ground again in an agate mortar for 0.5<ce:hsp sp="0.25"/>h and then pressed into cylindrical pellets. The pellets were calcined at 1600<ce:hsp sp="0.25"/>°C for 6<ce:hsp sp="0.25"/>h and rapidly cooled with a flow of air. The samples were reground, pelletized and heated until a constant free lime (f-CaO) content was reached (less than 0.2%, mass weight, the same as below).</ce:para>
+</ce:section>
+<ce:section id="s0020" view="all">
+<ce:label>2.2</ce:label>
+<ce:section-title id="st0030">Testing method</ce:section-title>
+<ce:para id="p0030" view="all">The free lime contents were determined by the ethylene glycol method. All powder diffraction data were recorded with a Bruker D8 Advance X-ray diffraction diffractometer in the range of 5–65° (2θ) with a step size of 0.01° using CuKα<ce:inf loc="post">1,2</ce:inf> and a 1D position sensitive detector (PSD) (Lynxeye) at 38<ce:hsp sp="0.25"/>kV and 270<ce:hsp sp="0.25"/>mA.</ce:para>
+<ce:para id="p0035" view="all">The Rietveld analyses of X-ray data were done using the Topas3 program. The Pearson VII function was used to fit the profile. The final globally optimized parameters were: zero shift, background, scaling factor, absorption correction, Pearson VII coefficients, lattice parameters and preferred orientation when appropriate. The atomic positions were not refined. FT-IR spectra of the samples were measured in the region 400–4000<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> using a Bruker TENSOR 27 Fourier transform infrared spectrometer. Selected area electron diffraction (SAED) patterns were recorded using a TEM instrument (Model JEM-2010UHR, JEOL, Tokyo, Japan) at an accelerating voltage of 200<ce:hsp sp="0.25"/>kV.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="s0025" view="all">
+<ce:label>3</ce:label>
+<ce:section-title id="st0035">Results and discussion</ce:section-title>
+<ce:section id="s0030" view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title id="st0040">Analysis of C<ce:inf loc="post">3</ce:inf>S polymorphs</ce:section-title>
+<ce:para id="p0040" view="all">All specimens were identified as C<ce:inf loc="post">3</ce:inf>S. The XRD peaks of C<ce:inf loc="post">3</ce:inf>S between 31.5° and 33° and between 51° and 52.5° are good indicators of the symmetries of the polymorphs <ce:cross-refs id="cf0100" refid="bb0015 bb0060 bb0065">[3,12,13]</ce:cross-refs>. <ce:cross-ref id="cf0105" refid="f0005">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="f0005"/> shows selected angular ranges of the XRD patterns (CuKα<ce:inf loc="post">2</ce:inf> stripped) for the C<ce:inf loc="post">3</ce:inf>S samples. The differences between samples are evident. In the XRD pattern of R C<ce:inf loc="post">3</ce:inf>S, there are two characteristic peaks between 31.5° and 33°, and one between 51° and 52.5°, corresponding to the 009, <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo stretchy="true">−</mml:mo>
+</mml:mover>
+<mml:mn>04</mml:mn>
+</mml:math> and 220 reflections, respectively. The <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo stretchy="true">−</mml:mo>
+</mml:mover>
+<mml:mn>04</mml:mn>
+</mml:math> and 220 reflections split with a decrease in crystal symmetry of C<ce:inf loc="post">3</ce:inf>S. Pure C<ce:inf loc="post">3</ce:inf>S (Sample X1) is triclinic, T1, as expected, and both the <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo stretchy="true">−</mml:mo>
+</mml:mover>
+<mml:mn>04</mml:mn>
+</mml:math> and 220 reflections are split into triplet peaks, presenting four reflections between 31.5° and 33° and three between 51° and 52.5°. The XRD pattern of T2 C<ce:inf loc="post">3</ce:inf>S is similar to that of T1 C<ce:inf loc="post">3</ce:inf>S. The main difference is that the central doublet peaks between 31.5° and 33° are closer for T2 C<ce:inf loc="post">3</ce:inf>S <ce:cross-ref id="cf0110" refid="bb0060">[12]</ce:cross-ref> and show a tendency to merge into a single peak. In the T3 powder pattern, there are only three peaks between 31.5° and 33°, and the last two peaks between 51° to 52.5° have a tendency to merge. In the monoclinic polymorph, the <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo stretchy="true">−</mml:mo>
+</mml:mover>
+<mml:mn>04</mml:mn>
+</mml:math> and 220 reflections only split into doublets. Sample X4 presents phase coexistence. The main phase can be identified as M1 C<ce:inf loc="post">3</ce:inf>S <ce:cross-ref id="cf0115" refid="bb0060">[12]</ce:cross-ref>. Sample X5 presents an M3-type powder pattern <ce:cross-ref id="cf0120" refid="bb0080">[16]</ce:cross-ref>.</ce:para>
+<ce:para id="p0045" view="all">Based on the X-ray diffraction data, quantitative analysis of C<ce:inf loc="post">3</ce:inf>S polymorph was performed using the Rietveld method. The T1 and T2 structures were fitted to that of Golovastikov et al. (triclinic C<ce:inf loc="post">3</ce:inf>S) <ce:cross-ref id="cf0125" refid="bb0025">[5]</ce:cross-ref>. T3 was fitted to the T3 structural model provided by De la Torre et al. <ce:cross-ref id="cf0130" refid="bb0080">[16]</ce:cross-ref>. M1 was fitted to the average monoclinic model provided by de Noirfontaine et al. <ce:cross-ref id="cf0135" refid="bb0090">[18]</ce:cross-ref>. The M3 and R structures were fitted to that of Nishi et al. (monoclinic) <ce:cross-ref id="cf0140" refid="bb0040">[8]</ce:cross-ref> and Jeffery (rhombohedral) <ce:cross-ref id="cf0145" refid="bb0020">[4]</ce:cross-ref>, respectively. In <ce:cross-ref id="cf0150" refid="f0010">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="f0010"/>, the measured and calculated X-ray diffractions of different samples are shown together with the difference plots. The insets feature the fingerprint regions which are unique to different polymorphs. <ce:cross-ref id="cf0155" refid="t0010">Table 2</ce:cross-ref>
+<ce:float-anchor refid="t0010"/> gives the Rietveld quantitative phase analysis results of the C<ce:inf loc="post">3</ce:inf>S polymorph. It can be seen from <ce:cross-ref id="cf0160" refid="f0010">Fig. 2</ce:cross-ref> and <ce:cross-ref id="cf0165" refid="t0010">Table 2</ce:cross-ref> that the five samples (X1, X2, X3, X5 and X6) fit well with the corresponding structural model. However, two crystal structures are required to fit the XRD pattern of sample X4. Although the T1 structure of Golovastikov can be used for T3 C<ce:inf loc="post">3</ce:inf>S, the combined use of the T3 and M1 structure model resulted in better fits than the mixed use of T1 and M1, indicating that the quantification of C<ce:inf loc="post">3</ce:inf>S polymorphs is strongly affected by the choice of the structural model. TEM further confirmed that the main phase present in X4 is M1 C<ce:inf loc="post">3</ce:inf>S. Based on the pseudohexagonal subcell (a<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7.062<ce:hsp sp="0.25"/>Å, b<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7.063<ce:hsp sp="0.25"/>Å, c<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>25.026<ce:hsp sp="0.25"/>Å, α<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>89.89°, β<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>90.41°, γ<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>119.59°), a typical SAED pattern for M1 with a one-dimensional incommensurate structure was identified (shown in <ce:cross-ref id="cf0170" refid="f0015">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="f0015"/>). It can be expressed as a linear combination of reciprocal vectors ±<ce:hsp sp="0.10"/>m/5.4 (2<ce:italic>a</ce:italic>
+<ce:inf loc="post">H</ce:inf>
+<ce:sup loc="post">∗</ce:sup>
+<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>5<ce:italic>c</ce:italic>
+<ce:inf loc="post">H</ce:inf>
+<ce:sup loc="post">∗</ce:sup>), where m<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>±<ce:hsp sp="0.10"/>1 or ±<ce:hsp sp="0.10"/>2, in accordance with the data given by Urabe et al. <ce:cross-ref id="cf0175" refid="bb0060">[12]</ce:cross-ref> and Min et al. <ce:cross-ref id="cf0180" refid="bb0180">[36]</ce:cross-ref>.</ce:para>
+<ce:para id="p0050" view="all">All polymorphs can be regarded as minute deformations of the rhombohedral structure <ce:cross-refs id="cf0185" refid="bb0055 bb0060 bb0065">[11–13]</ce:cross-refs>. The lattice parameters of the pseudohexagonal or hexagonal average structures (based on the R polymorph) for different polymorphs were refined by the least-squares method and are given in <ce:cross-ref id="cf0190" refid="t0015">Table 3</ce:cross-ref>
+<ce:float-anchor refid="t0015"/>. The lattice parameters of the M3 subcell are smaller than those of the other polymorphs, especially the parameter c and the cell volume. De la Torre et al. found that the unit cell volumes of M3 alite decrease with increasing amount of MgO by comparing the works of Mumme <ce:cross-ref id="cf0195" refid="bb0045">[9]</ce:cross-ref> and Nishi <ce:cross-ref id="cf0200" refid="bb0040">[8]</ce:cross-ref>. However, the MgO content of X5 is the same as sample X6, indicating that the shrinkage was probably related to the structure of the M3 polymorph rather than its composition. M3 C<ce:inf loc="post">3</ce:inf>S synthesized with different compositions also gave similar results. Viani et al. also found that there is a clear change in the lattice parameters and the thermal expansion coefficients of the monoclinic C<ce:inf loc="post">3</ce:inf>S solid solution (Ca<ce:inf loc="post">2.879</ce:inf>Mg<ce:inf loc="post">0.112</ce:inf>Al<ce:inf loc="post">0.0439</ce:inf>Si<ce:inf loc="post">0.971</ce:inf>O<ce:inf loc="post">5</ce:inf>) at approximately 900<ce:hsp sp="0.25"/>°C, which is due to the phase change between two monoclinic forms <ce:cross-ref id="cf0205" refid="bb0185">[37]</ce:cross-ref>. Thus, changes in the lattice parameters of M3 C<ce:inf loc="post">3</ce:inf>S are probably related to the variations in the polymorph. The differences in the deformation of the subcells of monoclinic C<ce:inf loc="post">3</ce:inf>S were attributed to differences in the ordering of the orientations of the apices of the silicate tetrahedra occurring along special directions (directions of the modulation waves) <ce:cross-ref id="cf0210" refid="bb0060">[12]</ce:cross-ref>. According to the literatures <ce:cross-refs id="cf0215" refid="bb0020 bb0035">[4,7]</ce:cross-refs>, silicon ions are on the c axis, approximately two of the three tetrahedra point down the c axis, and the others point up the c<ce:inf loc="post">H</ce:inf> axis in R C<ce:inf loc="post">3</ce:inf>S. However, there are additional ill-defined G–gauche–orientations in M3 C<ce:inf loc="post">3</ce:inf>S <ce:cross-ref id="cf0220" refid="bb0040">[8]</ce:cross-ref>. Thus, the shrinkage of the M3 subcell might correlate with unique changes in the arrangement of [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> along the c<ce:inf loc="post">H</ce:inf> axis. More IR evidence will be discussed in the following sections.</ce:para>
+</ce:section>
+<ce:section id="s0035" view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title id="st0045">IR spectra of different C<ce:inf loc="post">3</ce:inf>S polymorphs</ce:section-title>
+<ce:para id="p0055" view="all">The infrared absorption bands of C<ce:inf loc="post">3</ce:inf>S in the region 400–4000<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> are mainly from the vibration of [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> groups. Isolated [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra have four vibration modes, including symmetric stretching vibration (ν<ce:inf loc="post">1</ce:inf>), asymmetric stretching (ν<ce:inf loc="post">3</ce:inf>), in-plane bending vibration (ν<ce:inf loc="post">2</ce:inf>) and out-of-plane bending (ν<ce:inf loc="post">4</ce:inf>). Ideally, the four Si-O sp3 hybrid orbits in a [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedron are completely equivalent with the same number of electrons on each track. These electrons repel each other and keep as far away as possible; thus, [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> can maintain a regular tetrahedron symmetry when free of outside interference. Theoretically, the symmetric stretching ν<ce:inf loc="post">1</ce:inf> of an ideal [SiO4]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedron is not active for IR.</ce:para>
+<ce:para id="p0060" view="all">The IR spectra of different C<ce:inf loc="post">3</ce:inf>S polymorphs are given in <ce:cross-ref id="cf0225" refid="f0020">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="f0020"/>, which shows that there is a decrease in the band splitting with increasing structural symmetry of C<ce:inf loc="post">3</ce:inf>S. The vibration bands for different C<ce:inf loc="post">3</ce:inf>S polymorphs are listed in <ce:cross-ref id="cf0230" refid="t0020">Table 4</ce:cross-ref>
+<ce:float-anchor refid="t0020"/>. The main vibrations of pure C<ce:inf loc="post">3</ce:inf>S (T1 form) are: symmetric stretching of the silicate tetrahedra [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> (ν<ce:inf loc="post">3</ce:inf>) at 996, 938, 906 and 883<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>; symmetric stretching (ν<ce:inf loc="post">1</ce:inf>) at 846, 834 and 812<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>; out-of-plane bending vibration (ν<ce:inf loc="post">4</ce:inf>) at 525<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>; and in-plane bending vibration (ν<ce:inf loc="post">2</ce:inf>) centred at approximately 464 and 455<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>. These assignments are in accordance with the data given in previous studies <ce:cross-refs id="cf0235" refid="bb0110 bb0115 bb0120 bb0125 bb0130">[22–26]</ce:cross-refs>. The IR spectrum of T2 C<ce:inf loc="post">3</ce:inf>S is quite similar to that of T1 C<ce:inf loc="post">3</ce:inf>S. Both T1 and T2 C<ce:inf loc="post">3</ce:inf>S show forbidden bands corresponding to symmetric vibrations, indicating that the distortion from an ideal tetrahedron structure is caused by [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup>. This is supported by the finding of Peterson <ce:cross-ref id="cf0240" refid="bb0070">[14]</ce:cross-ref>, who determined the structure of pure C<ce:inf loc="post">3</ce:inf>S with the T2 polymorph using in situ, high-temperature synchrotron powder diffraction combined with Rietveld refinement and showed that the SiO<ce:inf loc="post">4</ce:inf> tetrahedra of T2 C<ce:inf loc="post">3</ce:inf>S were highly distorted and the O<ce:glyph name="sbnd"/>Si<ce:glyph name="sbnd"/>O bond angles showed significant deviation from the tetrahedral angle. Since the charge of the oxygen ion in [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> was balanced by Ca<ce:sup loc="post">2<ce:hsp sp="0.10"/>+</ce:sup> ions, the distortion of [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> is probably due to the effect of the asymmetrical Ca<ce:sup loc="post">2<ce:hsp sp="0.10"/>+</ce:sup> ion force field resulting from the poor structural symmetry of the T1 and T2 polymorphs. It is supported by the finding of Urabe et al., who found that cations periodically deviated from their average positions in T1 C<ce:inf loc="post">3</ce:inf>S <ce:cross-ref id="cf0245" refid="bb0055">[11]</ce:cross-ref>.</ce:para>
+<ce:para id="p0065" view="all">Although T3 C<ce:inf loc="post">3</ce:inf>S belongs to the same triclinic system as T1 and T2, there are significant changes in the IR spectrum of T3. It has a smaller number of bands than the previous spectra. The symmetric stretching bands disappear, the most striking feature of which is that the sharp peak at approximately 812<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> vanishes, indicating that the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra in T3 C<ce:inf loc="post">3</ce:inf>S retain a regular tetrahedron symmetry. This result is in agreement with the structural descriptions for T3 C<ce:inf loc="post">3</ce:inf>S given by De la Torre and Peterson <ce:cross-refs id="cf0250" refid="bb0080 bb0095">[16,19]</ce:cross-refs>. Therefore, there are larger differences in the structure between T3 and T2 C<ce:inf loc="post">3</ce:inf>S than between T2 and T1 C<ce:inf loc="post">3</ce:inf>S. This conclusion is in agreement with the relatively large transformation enthalpy for the T2–T3 transition <ce:cross-refs id="cf0255" refid="bb0010 bb0065">[2,13]</ce:cross-refs>. The T1–T2 transition has an extremely small transformation enthalpy and can be detected by microscopy, while the T2–T3 transition has a large transformation enthalpy and is invisible to light microscopy <ce:cross-ref id="cf0260" refid="bb0190">[38]</ce:cross-ref>. The collapse of the superstructure was first proposed by Bigare et al. <ce:cross-ref id="cf0265" refid="bb0065">[13]</ce:cross-ref> to explain the large peak in the DTA curve for the T2–T3 transition. This explanation was further supported by Peterson, who observed the existence of the superstructure in T1 and T2 for pure C<ce:inf loc="post">3</ce:inf>S using in situ, high-temperature synchrotron powder diffraction <ce:cross-ref id="cf0270" refid="bb0070">[14]</ce:cross-ref>. Regourd also suggested that the transition, which has no influence on the “megascopic” optical properties, might be attributed to the formation of the superstructure due to the orientation disorder of the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra and changes in the Ca coordination <ce:cross-ref id="cf0275" refid="bb0195">[39]</ce:cross-ref>. Based on the above results from the IR spectra of T1, T2 and T3 C<ce:inf loc="post">3</ce:inf>S, this phenomenon can be attributed to the fact that the position of the Ca<ce:sup loc="post">2<ce:hsp sp="0.10"/>+</ce:sup> and O<ce:sup loc="post">2<ce:hsp sp="0.10"/>−</ce:sup> ions and the Si atoms probably does not change, nor does the atomic packing density; consequently, there is no change in the refractive index. The large transformation enthalpy for the T2–T3 transition is mainly caused by changes in the deformation and orientation disorder of [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra in the T2–T3 transition due to the displacement of the O atoms of [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra, which also causes subsequent changes in the coordination of the surrounding Ca<ce:sup loc="post">2<ce:hsp sp="0.10"/>+</ce:sup> ions.</ce:para>
+<ce:para id="p0070" view="all">Despite the fact that there are major changes in the IR spectrum of T3 compared with that of T1 and T2, the IR spectra of the other three higher symmetry (temperature) polymorphs, M1, M3 and R C<ce:inf loc="post">3</ce:inf>S, are similar to that of T3, and only small shifts of the in-plane bending (ν<ce:inf loc="post">2</ce:inf>) to higher wave numbers were observed. The absence of the symmetric stretching bands shows that the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra in M1, M3 and R have an approximately regular tetrahedron symmetry. Special shifts of the asymmetric stretching bands (ν<ce:inf loc="post">3</ce:inf>) at approximately 938<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> and 884<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> to 925<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> and 890<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>, respectively, were observed for M3 C<ce:inf loc="post">3</ce:inf>S, which indicates that the chemical environment of [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> in M3 C<ce:inf loc="post">3</ce:inf>S is different from that in the other polymorphs. It corresponds with the analytical results of XRD and can be explained by the changes in the arrangement of [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> along the c<ce:inf loc="post">H</ce:inf> axis.</ce:para>
+<ce:para id="p0075" view="all">With the increase in the crystal symmetry of C<ce:inf loc="post">3</ce:inf>S, the number of bands for the polymorphs T1<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>T2<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>T3<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>M1<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>M3<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>R decreases, and the peaks are broadened. The symmetric stretching bands with a sharp peak approximately 812<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> disappear in the spectra of T3, M1, M3 and R C<ce:inf loc="post">3</ce:inf>S, indicating that the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra retain a regular tetrahedron symmetry in their structures. The structure of M3 C<ce:inf loc="post">3</ce:inf>S is slightly different from that of the other polymorphs with respect to the orientation of the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra along the c<ce:inf loc="post">H</ce:inf> axis. The monoclinic superstructures are caused by periodical ordering of the orientations of the apices of the silicate tetrahedral <ce:cross-ref id="cf0280" refid="bb0060">[12]</ce:cross-ref>. Thus, the transitions between R, M3, M2 and M1 mainly involve changes in the orientation of the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra. However, the differences in the superstructures of the average monoclinic and triclinic unit cells consist of both small displacements of calcium atoms and changes in the orientational order or disorder of the SiO4 tetrahedra <ce:cross-ref id="cf0285" refid="bb0010">[2]</ce:cross-ref>. The T3–T2 transition involves both local tetrahedral distortion of [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> and changes in their orientation of. In T1 C<ce:inf loc="post">3</ce:inf>S, periodic deviations of cations from their average positions occurs, in addition to the distortion of silicate tetrahedral <ce:cross-ref id="cf0290" refid="bb0055">[11]</ce:cross-ref>. The relationship between C<ce:inf loc="post">3</ce:inf>S polymorphs remains unclear. To understand the atomic structure of the polymorphs and their relations, more work has to be done.</ce:para>
+</ce:section>
+<ce:section id="s0040" view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title id="st0050">The effect of foreign ions on the IR spectra of C<ce:inf loc="post">3</ce:inf>S</ce:section-title>
+<ce:para id="p0080" view="all">T1, T3 and M3 C<ce:inf loc="post">3</ce:inf>S with various types and amounts of foreign ions were systematically synthesized (see <ce:cross-ref id="cf0295" refid="t0025">Table 5</ce:cross-ref>
+<ce:float-anchor refid="t0025"/>). Special attention is given to the amount of both Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, which are amphoteric in nature and are usually considered top provide the best evidence to assess the effect of foreign ions on the IR spectra of C<ce:inf loc="post">3</ce:inf>S. <ce:cross-ref id="cf0300" refid="f0025">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="f0025"/> shows the IR spectra of T1, T3 and M3 C<ce:inf loc="post">3</ce:inf>S. The IR spectra of the C<ce:inf loc="post">3</ce:inf>S samples with different compositions but the same polymorphic form are almost identical. There are no changes in the peak position or number of peaks in the IR spectra of T1 C<ce:inf loc="post">3</ce:inf>S with single doping of either Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> or Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (see <ce:cross-ref id="cf0305" refid="f0025">Fig. 5</ce:cross-ref>a). The IR spectra of T3 C<ce:inf loc="post">3</ce:inf>S with single doping of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> or Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and with combined doping of multiple ions are shown in <ce:cross-ref id="cf0310" refid="f0025">Fig. 5</ce:cross-ref>b. No changes are observed in the IR spectra of T3 C<ce:inf loc="post">3</ce:inf>S with different compositions. Similarly, no effect of Al<ce:sup loc="post">3<ce:hsp sp="0.10"/>+</ce:sup> on the IR spectra of M3 C<ce:inf loc="post">3</ce:inf>S is observed (see <ce:cross-ref id="cf0315" refid="f0025">Fig. 5</ce:cross-ref>c). However, Fe<ce:sup loc="post">3<ce:hsp sp="0.10"/>+</ce:sup> has been shown to have a slight effect on the IR spectrum of M3 C<ce:inf loc="post">3</ce:inf>S. With increasing amount of Fe<ce:sup loc="post">3<ce:hsp sp="0.10"/>+</ce:sup>, slight shifts of the symmetric stretching bands (ν3) to lower waver number are observed for M3 C<ce:inf loc="post">3</ce:inf>S (<ce:cross-ref id="cf0320" refid="f0025">Fig. 5</ce:cross-ref>c). However, the most intense peak is still centred at lower wave numbers of approximately 924–932<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>, as described above. Thus, changes in the IR spectra of C<ce:inf loc="post">3</ce:inf>S solid solutions mainly result from changes in the polymorphic structures. The introduction of substituent ions has a weak effect on the IR spectra of C<ce:inf loc="post">3</ce:inf>S. Consequently, IR spectroscopy can be used to identify the polymorphs of C<ce:inf loc="post">3</ce:inf>S.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="s0045" view="all">
+<ce:label>4</ce:label>
+<ce:section-title id="st0055">Conclusion</ce:section-title>
+<ce:para id="p0085" view="all">The following conclusions may be drawn from the present study.<ce:list id="l0005">
+<ce:list-item id="li0005">
+<ce:label>1.</ce:label>
+<ce:para id="p0090" view="all">The IR spectrum of C<ce:inf loc="post">3</ce:inf>S mainly depends on the polymorph or the mixture of polymorphs present. With increasing crystal symmetry of C<ce:inf loc="post">3</ce:inf>S, the number of absorption bands for the polymorphs T1<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>T2<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>T3<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>M1<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>M3<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>R decreases, and the peaks are broadened. The effect of substituent ions in C<ce:inf loc="post">3</ce:inf>S on the IR characteristics is weak. FTIR spectroscopy can be used to help identify the polymorphs of C<ce:inf loc="post">3</ce:inf>S.</ce:para>
+</ce:list-item>
+<ce:list-item id="li0010">
+<ce:label>2.</ce:label>
+<ce:para id="p0095" view="all">The IR spectrum of T2 C<ce:inf loc="post">3</ce:inf>S is similar to that of T1 C<ce:inf loc="post">3</ce:inf>S. Both show forbidden bands corresponding to symmetric vibrations, indicating that the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra are strongly distorted from an ideal tetrahedron.</ce:para>
+</ce:list-item>
+<ce:list-item id="li0015">
+<ce:label>3.</ce:label>
+<ce:para id="p0100" view="all">Although T3 C<ce:inf loc="post">3</ce:inf>S belongs to the same triclinic system as T1 and T2, significant changes in the spectrum of T3 C<ce:inf loc="post">3</ce:inf>S are observed, indicating greater differences in the orientations and tetrahedral configurations of [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> in T3 C<ce:inf loc="post">3</ce:inf>S than in T1 and T2 C<ce:inf loc="post">3</ce:inf>S. It explains why the T2–T3 transition has the largest transformation enthalpy but is invisible to microscopy methods.</ce:para>
+</ce:list-item>
+<ce:list-item id="li0020">
+<ce:label>4.</ce:label>
+<ce:para id="p0105" view="all">The symmetric stretching bands with a sharp peak at approximately 812<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> are absent in the spectra of T3, M1, M3 and R C<ce:inf loc="post">3</ce:inf>S, indicating that the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra retain an approximately regular tetrahedron symmetry in their structures. The structure of M3 C<ce:inf loc="post">3</ce:inf>S is slightly different from that of the other polymorphs with respect to the orientation of the [SiO<ce:inf loc="post">4</ce:inf>]<ce:sup loc="post">4<ce:hsp sp="0.10"/>−</ce:sup> tetrahedra along the c<ce:inf loc="post">H</ce:inf> axis.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment id="ac0005" view="all">
+<ce:section-title id="st0060">Acknowledgements</ce:section-title>
+<ce:para id="p0110" view="all">The authors are grateful for the financial support of the <ce:grant-sponsor id="gts0005" sponsor-id="http://dx.doi.org/10.13039/501100001809" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">National Natural Science Foundation of China</ce:grant-sponsor> (No. <ce:grant-number id="gtn0005" refid="gts0005">51302256</ce:grant-number>).</ce:para>
+</ce:acknowledgment>
+<ce:appendices view="all">
+<ce:section id="s0050" view="extended">
+<ce:label>Appendix A</ce:label>
+<ce:section-title id="st0065">Supplementary data</ce:section-title>
+<ce:para id="p0115" view="all">The following is the supplementary data related to this article.<ce:display>
+<ce:e-component id="ec0005">
+<ce:label>Supplementary Table</ce:label>
+<ce:caption id="ca0055">
+<ce:simple-para id="sp0060" view="all">The analysis result of the O<ce:glyph name="sbnd"/>Si<ce:glyph name="sbnd"/>O bond angles for T3 structure of De la Torre.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0055" role="short">Supplementary Table</ce:alt-text>
+<ce:link id="lk0030" locator="mmc1" xlink:href="pii:S0008884616305294/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:type="simple"/>
+</ce:e-component>
+</ce:display>
+</ce:para>
+</ce:section>
+<ce:section id="s0055" view="compact-standard">
+<ce:label>Appendix A</ce:label>
+<ce:section-title id="st0070">Supplementary data</ce:section-title>
+<ce:para id="p0120" view="all">Supplementary data to this article can be found online at <ce:inter-ref id="ir0005" xlink:href="http://dx.doi.org/10.1016/j.cemconres.2016.11.021" xlink:type="simple">http://dx.doi.org/10.1016/j.cemconres.2016.11.021</ce:inter-ref>.</ce:para>
+</ce:section>
+</ce:appendices>
+</body>
+<tail view="all">
+<ce:bibliography id="bi0005" view="all">
+<ce:section-title id="st0075">References</ce:section-title>
+<ce:bibliography-sec id="bs0005" view="all">
+<ce:bib-reference id="bb0005">
+<ce:label>[1]</ce:label>
+<sb:reference id="rf0005">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.-M.</ce:given-name>
+<ce:surname>Ludwig</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Research review of cement clinker chemistry</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>78</sb:volume-nr>
+</sb:series>
+<sb:date>2015</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>24</sb:first-page>
+<sb:last-page>37</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0010">
+<ce:label>[2]</ce:label>
+<sb:reference id="rf0010">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Dunstetter</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.N.</ce:given-name>
+<ce:surname>de Noirfontaine</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Courtial</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Polymorphism of tricalcium silicate, the major compound of Portland cement clinker 1. Structural data: review and unified analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>36</sb:volume-nr>
+</sb:series>
+<sb:date>2006</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>39</sb:first-page>
+<sb:last-page>53</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0015">
+<ce:label>[3]</ce:label>
+<sb:reference id="rf0015">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.F.W.</ce:given-name>
+<ce:surname>Taylor</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Cement Chemistry</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>second ed.</sb:edition>
+<sb:date>1997</sb:date>
+<sb:publisher>
+<sb:name>Thomas Telford Edition</sb:name>
+<sb:location>London</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0020">
+<ce:label>[4]</ce:label>
+<sb:reference id="rf0020">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Jeffery</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The crystal structure of tricalcium silicate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Crystallogr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:date>1952</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>24</sb:first-page>
+<sb:last-page>35</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0025">
+<ce:label>[5]</ce:label>
+<sb:reference id="rf0025">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.I.</ce:given-name>
+<ce:surname>Golovastikov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.G.</ce:given-name>
+<ce:surname>Matveeva</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.V.</ce:given-name>
+<ce:surname>Belov</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal structure of the tricalcium silicate 3CaO·SiO<ce:inf loc="post">2</ce:inf>
+<ce:glyph name="dbnd"/>C<ce:inf loc="post">3</ce:inf>S</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Sov. Phys. Crystallogr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1975</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>441</sb:first-page>
+<sb:last-page>445</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0030">
+<ce:label>[6]</ce:label>
+<sb:reference id="rf0030">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Nishi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Takeuchi</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The rhombohedral structure of tricalcium silicate at 1200<ce:hsp sp="0.25"/>°C</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Krist.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>168</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>197</sb:first-page>
+<sb:last-page>212</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0035">
+<ce:label>[7]</ce:label>
+<sb:reference id="rf0035">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.M.</ce:given-name>
+<ce:surname>Ll'Inets</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.A.</ce:given-name>
+<ce:surname>Malinovskii</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.N.</ce:given-name>
+<ce:surname>Nevskii</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal structure of the rhombohedral modification of tricalcium silicate Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Sov. Phys. Dokl.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>191</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0040">
+<ce:label>[8]</ce:label>
+<sb:reference id="rf0040">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Nishi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Takéuchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Watanabe</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Tricalcium silicate Ca<ce:inf loc="post">3</ce:inf>O[SiO<ce:inf loc="post">4</ce:inf>]: the monoclinic superstructure</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Krist.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>172</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>297</sb:first-page>
+<sb:last-page>314</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0045">
+<ce:label>[9]</ce:label>
+<sb:reference id="rf0045">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.G.</ce:given-name>
+<ce:surname>Mumme</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal structure of tricalcium silicate from a Portland cement clinker and its application to quantitative XRD analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Neues Jahrb. Mineral. Mh. H</sb:maintitle>
+</sb:title>
+<sb:volume-nr>4</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>145</sb:first-page>
+<sb:last-page>160</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0050">
+<ce:label>[10]</ce:label>
+<sb:reference id="rf0050">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Maki</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Relationship of Processing Parameters to Clinker Properties; Influence of Minor Components, 8th ICCC</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1986</sb:date>
+</sb:book>
+<sb:pages>
+<sb:first-page>35</sb:first-page>
+<sb:last-page>47</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0055">
+<ce:label>[11]</ce:label>
+<sb:reference id="rf0055">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Urabe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Shirakami</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Iwashima</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Superstructure in triclinic phase of tricalcium silicate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>83</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1253</sb:first-page>
+<sb:last-page>1258</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0060">
+<ce:label>[12]</ce:label>
+<sb:reference id="rf0060">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Urabe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Nakano</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Morita</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Structural modulations in monoclinic tricalcium silicate solid solutions doped with zinc oxide, M(I), M(II), and M(III)</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>85</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>423</sb:first-page>
+<sb:last-page>429</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0065">
+<ce:label>[13]</ce:label>
+<sb:reference id="rf0065">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Bigare</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Guinier</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Mazihres</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Polymorphism of tricalcium silicate and its solid solution</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>50</sb:volume-nr>
+</sb:series>
+<sb:date>1967</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>609</sb:first-page>
+<sb:last-page>619</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0070">
+<ce:label>[14]</ce:label>
+<sb:reference id="rf0070">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Peterson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.A.</ce:given-name>
+<ce:surname>Hunter</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Ray</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Tricalcium silicate T1 and T2 polymorphic investigations: Rietveld refinement at various temperatures using synchrotron powder diffraction</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>87</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1625</sb:first-page>
+<sb:last-page>1634</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0075">
+<ce:label>[15]</ce:label>
+<sb:reference id="rf0075">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Á.G.D.L.</ce:given-name>
+<ce:surname>Torre</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Bruque</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Campo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.G.</ce:given-name>
+<ce:surname>Aranda</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The superstructure of C<ce:inf loc="post">3</ce:inf>S from synchrotron and neutron powder diffraction and its role in quantitative phase analyses</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1347</sb:first-page>
+<sb:last-page>1356</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0080">
+<ce:label>[16]</ce:label>
+<sb:reference id="rf0080">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Á.G.</ce:given-name>
+<ce:surname>De la Torre</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.N.</ce:given-name>
+<ce:surname>De Vera</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.J.M.</ce:given-name>
+<ce:surname>Cuberos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.G.</ce:given-name>
+<ce:surname>Aranda</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal structure of low magnesium-content alite: application to Rietveld quantitative phase analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>38</sb:volume-nr>
+</sb:series>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1261</sb:first-page>
+<sb:last-page>1269</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0085">
+<ce:label>[17]</ce:label>
+<sb:reference id="rf0085">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.N.</ce:given-name>
+<ce:surname>De Noirfontaine</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Courtial</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Dunstetter</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Gasecki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Signesfrehel</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Tricalcium silicate Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf>superstructure analysis: a route towards the structure of theM1polymorph</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Krist.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>227</sb:volume-nr>
+</sb:series>
+<sb:date>2012</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>102</sb:first-page>
+<sb:last-page>112</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0090">
+<ce:label>[18]</ce:label>
+<sb:reference id="rf0090">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.N.</ce:given-name>
+<ce:surname>de Noirfontaine</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Dunstetter</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Courtial</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Gasecki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Signes-Frehel</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Polymorphism of tricalcium silicate, the major compound of Portland cement clinker 2. Modelling alite for Rietveld analysis, an industrial challenge</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>36</sb:volume-nr>
+</sb:series>
+<sb:date>2006</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>54</sb:first-page>
+<sb:last-page>64</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0095">
+<ce:label>[19]</ce:label>
+<sb:reference id="rf0095">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Peterson</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>A Rietveld refinement investigation of a Mg-stabilized triclinic tricalcium silicate using synchrotron X-ray powder diffraction data</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Powder Diffract.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>19</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>356</sb:first-page>
+<sb:last-page>358</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0100">
+<ce:label>[20]</ce:label>
+<sb:reference id="rf0100">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Berliner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Ball</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>West</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Neutron powder diffraction investigation of model cement compounds</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>551</sb:first-page>
+<sb:last-page>575</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0105">
+<ce:label>[21]</ce:label>
+<sb:reference id="rf0105">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.N.</ce:given-name>
+<ce:surname>Ghosh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Handoo</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Infrared and Raman spectral studies in cement and concrete (review)</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>1980</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>771</sb:first-page>
+<sb:last-page>778</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0110">
+<ce:label>[22]</ce:label>
+<sb:reference id="rf0110">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.N.</ce:given-name>
+<ce:surname>Ghosh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.K.</ce:given-name>
+<ce:surname>Chatterjee</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Absorption and reflection infra-red spectra of major cement minerals, clinkers and cements</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:date>1974</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1577</sb:first-page>
+<sb:last-page>1584</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0115">
+<ce:label>[23]</ce:label>
+<sb:reference id="rf0115">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Handks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.S.</ce:given-name>
+<ce:surname>Jurkiewicz</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>IR and Ramans spectroscopy studies of tricalcium silicated structure</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ann. Chim. Fr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>4</sb:volume-nr>
+</sb:series>
+<sb:date>1979</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>145</sb:first-page>
+<sb:last-page>160</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0120">
+<ce:label>[24]</ce:label>
+<sb:reference id="rf0120">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>O.E.</ce:given-name>
+<ce:surname>Omotosoa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.G.</ce:given-name>
+<ce:surname>Ivey</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Mikulab</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Characterization of chromium doped tricalcium silicate using SEM/EDS, XRD and FTIR</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>87</sb:first-page>
+<sb:last-page>102</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0125">
+<ce:label>[25]</ce:label>
+<sb:reference id="rf0125">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.H.</ce:given-name>
+<ce:surname>Delgado</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.M.</ce:given-name>
+<ce:surname>Paroli</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Beaudoin</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Comparison of IR techniques for the characterization of construction cement minerals and hydrated products</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Spectrosc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>52</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>970</sb:first-page>
+<sb:last-page>976</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0130">
+<ce:label>[26]</ce:label>
+<sb:reference id="rf0130">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.L.</ce:given-name>
+<ce:surname>Hughes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Methven</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.G.J.</ce:given-name>
+<ce:surname>Jones</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Determining cement composition by Fourier transform infrared spectroscopy</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adv. Cem. Based Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>2</sb:volume-nr>
+</sb:series>
+<sb:date>1976</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>91</sb:first-page>
+<sb:last-page>104</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0135">
+<ce:label>[27]</ce:label>
+<sb:reference id="rf0135">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.N.</ce:given-name>
+<ce:surname>Ghosh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.K.</ce:given-name>
+<ce:surname>Chatterjee</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Infra-red spectra of some selected minerals, rocks and products</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:date>1978</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1877</sb:first-page>
+<sb:last-page>1886</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0140">
+<ce:label>[28]</ce:label>
+<sb:reference id="rf0140">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Ylmén</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Jäglid</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.-M.</ce:given-name>
+<ce:surname>Steenari</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Panas</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Early hydration and setting of Portland cement monitored by IR, SEM and Vicat techniques</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:date>2009</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>433</sb:first-page>
+<sb:last-page>439</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0145">
+<ce:label>[29]</ce:label>
+<sb:reference id="rf0145">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.J.</ce:given-name>
+<ce:surname>Barnett</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.E.</ce:given-name>
+<ce:surname>Macphee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.E.</ce:given-name>
+<ce:surname>Lachowski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.J.</ce:given-name>
+<ce:surname>Crammond</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>XRD, EDX and IR analysis of solid solutions between thaumasite and ettringite</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>719</sb:first-page>
+<sb:last-page>730</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0150">
+<ce:label>[30]</ce:label>
+<sb:reference id="rf0150">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>García Lodeiro</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.E.</ce:given-name>
+<ce:surname>Macphee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Palomo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Fernández-Jiménez</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effect of alkalis on fresh C<ce:glyph name="sbnd"/>S<ce:glyph name="sbnd"/>H gels. FTIR analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:date>2009</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>147</sb:first-page>
+<sb:last-page>153</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0155">
+<ce:label>[31]</ce:label>
+<sb:reference id="rf0155">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Števula</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Madej</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Kozánková</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Madejová</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Hydration products at the blastfurnace slag aggregate - cement paste interface</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>413</sb:first-page>
+<sb:last-page>423</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0160">
+<ce:label>[32]</ce:label>
+<sb:reference id="rf0160">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Puligilla</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Mondal</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Co-existence of aluminosilicate and calcium silicate gel characterized through selective dissolution and FTIR spectral subtraction</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>70</sb:volume-nr>
+</sb:series>
+<sb:date>2015</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>39</sb:first-page>
+<sb:last-page>49</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0165">
+<ce:label>[33]</ce:label>
+<sb:reference id="rf0165">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Nanru</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Hydration products of calcium aluminoferrite in the presence of gypsum</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>150</sb:first-page>
+<sb:last-page>158</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0170">
+<ce:label>[34]</ce:label>
+<sb:reference id="rf0170">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Puerbss</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Trivifio</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Examinations by infra-red spectroscopy for the polymorphs of dicalcium silicate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>127</sb:first-page>
+<sb:last-page>133</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0175">
+<ce:label>[35]</ce:label>
+<sb:reference id="rf0175">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Xuehong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Wensheng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Shixi</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effect of multiple foreign ions doping on metastable structure of alite</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Chin. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:date>2012</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>664</sb:first-page>
+<sb:last-page>670</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0180">
+<ce:label>[36]</ce:label>
+<sb:reference id="rf0180">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Min</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Structural evolution and characterization of modulated structure for alite doped with MgO</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Chinese J. Inorg. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>28</sb:volume-nr>
+</sb:series>
+<sb:date>2012</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2444</sb:first-page>
+<sb:last-page>2450</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0185">
+<ce:label>[37]</ce:label>
+<sb:reference id="rf0185">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Viani</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Artioli</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Bellotto</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Thermal expansion of C<ce:inf loc="post">3</ce:inf>S and Mg-doped alite</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>278-281</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>384</sb:first-page>
+<sb:last-page>389</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0190">
+<ce:label>[38]</ce:label>
+<sb:reference id="rf0190">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Maki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Chromy</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Microscopic study on the polymorphism of Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>1978</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>407</sb:first-page>
+<sb:last-page>414</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0195">
+<ce:label>[39]</ce:label>
+<sb:reference id="rf0195">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Moranville-Regourd</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.I.</ce:given-name>
+<ce:surname>Boikova</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Chemistry, Structure, Properties and Quality of Clinker, 9th ICCCNew Delhi, India</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1992</sb:date>
+</sb:book>
+<sb:pages>
+<sb:first-page>3</sb:first-page>
+<sb:last-page>45</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

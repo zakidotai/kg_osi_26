@@ -1,0 +1,3647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0008884609001744</prism:url><dc:identifier>doi:10.1016/j.cemconres.2009.07.013</dc:identifier><eid>1-s2.0-S0008884609001744</eid><prism:doi>10.1016/j.cemconres.2009.07.013</prism:doi><pii>S0008-8846(09)00174-4</pii><dc:title>Synthesis of pure Portland cement phases </dc:title><prism:publicationName>Cement and Concrete Research</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00088846</prism:issn><prism:volume>39</prism:volume><prism:issueIdentifier>11</prism:issueIdentifier><prism:startingPage>973</prism:startingPage><prism:endingPage>980</prism:endingPage><prism:pageRange>973-980</prism:pageRange><prism:number>11</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2009-11-30</prism:coverDate><prism:coverDisplayDate>November 2009</prism:coverDisplayDate><prism:copyright>Copyright © 2009 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Wesselsky, A.</dc:creator><dc:creator>Jensen, O.M.</dc:creator><dc:description>
+                  Pure clinker phases are often used to test cement hydration behavior in simplified experimental conditions. These phases are in general structurally identical to, but chemically much simpler than their heavily substituted counterparts found in technical clinkers. The synthesis of the pure phases is covered in this paper, starting with a description of phase relations and possible polymorphs of the four main phases in Portland cement, i.e. tricalcium silicate, dicalcium silicate, tricalcium aluminate and tetracalcium alumino ferrite. Details of the process of solid state synthesis are described including practical advice on equipment and techniques. In addition, mix compositions that have been successfully used are given.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Portland cement (D)</dcterms:subject><dcterms:subject>Cement manufacture (E)</dcterms:subject><dcterms:subject>Ca3SiO5 (D)</dcterms:subject><dcterms:subject>Ca2SiO4 (D)</dcterms:subject><dcterms:subject>Ca3Al2O6 (D)</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0008884609001744" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0008884609001744" rel="scidir"/></coredata><objects><object category="standard" height="225" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="11620" type="IMAGE-DOWNSAMPLED" width="373">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="510" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="57218" type="IMAGE-DOWNSAMPLED" width="391">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="292" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="37566" type="IMAGE-DOWNSAMPLED" width="391">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="346" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="19260" type="IMAGE-DOWNSAMPLED" width="369">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="245" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="21405" type="IMAGE-DOWNSAMPLED" width="390">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="81" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="5928" type="IMAGE-DOWNSAMPLED" width="359">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="519" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="47060" type="IMAGE-DOWNSAMPLED" width="512">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="132" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="2305" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr7.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="163" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="6883" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr6.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="9193" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr5.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="163" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2515" type="IMAGE-THUMBNAIL" width="174">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr4.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="138" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="3925" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr3.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="49" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1144" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr2.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="3482" type="IMAGE-THUMBNAIL" width="162">https://api.elsevier.com/content/object/eid/1-s2.0-S0008884609001744-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>70349746770</scopus-id><scopus-eid>2-s2.0-70349746770</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/70349746770" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271509</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291788</xocs:ssid>
+<xocs:ssid type="subj">291885</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Cement and Concrete Research</xocs:srctitle>
+<xocs:normalized-srctitle>CEMENTCONCRETERESEARCH</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20090820">2009-08-20</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20090820">2009-08-20</xocs:available-online-date>
+<xocs:ew-transaction-id>2015-10-05T03:40:35</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0008884609001744</xocs:eid>
+<xocs:pii-formatted>S0008-8846(09)00174-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0008884609001744</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.cemconres.2009.07.013</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.2</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0008884609X00116</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20240101">2024-01-01T14:17:10.864363Z</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20091101</xocs:date-search-begin>
+<xocs:date-search-end>20091130</xocs:date-search-end>
+<xocs:year-nav>2009</xocs:year-nav>
+<xocs:indexeddate epoch="1250726400">2009-08-20T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0008-8846</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>00088846</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+<xocs:vol-first>39</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>39</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>11</xocs:iss-first>
+<xocs:issue-list>
+<xocs:issue>11</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 39, Issue 11</xocs:vol-iss-suppl-text>
+<xocs:sort-order>2</xocs:sort-order>
+<xocs:first-fp>973</xocs:first-fp>
+<xocs:last-lp>980</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>973</xocs:first-page>
+<xocs:last-page>980</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>200911</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>November 2009</xocs:cover-date-text>
+<xocs:cover-date-start>2009-11-01</xocs:cover-date-start>
+<xocs:cover-date-end>2009-11-30</xocs:cover-date-end>
+<xocs:cover-date-year>2009</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Research articles</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2009 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>SYNTHESISPUREPORTLANDCEMENTPHASES</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>WESSELSKY</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Chemical background</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>C<ce:inf loc="post">3</ce:inf>S</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>C<ce:inf loc="post">2</ce:inf>S</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>C<ce:inf loc="post">3</ce:inf>A</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>C<ce:inf loc="post">4</ce:inf>AF</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Compositions and synthesis conditions</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Sample synthesis</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Equipment</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Raw materials</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Sintering procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Grinding and storage</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1.5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Material analysis</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>C<ce:inf loc="post">3</ce:inf>S</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>C<ce:inf loc="post">2</ce:inf>S</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>C<ce:inf loc="post">3</ce:inf>A</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.5</xocs:item-toc-label>
+<xocs:item-toc-section-title>C<ce:inf loc="post">4</ce:inf>AF</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>TAYLOR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>CEMENTCHEMISTRY</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>DAY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1906</xocs:ref-pub-year>
+<xocs:ref-first-fp>265</xocs:ref-first-fp>
+<xocs:ref-last-lp>302</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>GUTT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1968</xocs:ref-pub-year>
+<xocs:ref-first-fp>5</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>BUILDINGRESEARCHSTATIONPAPERCP9068</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>MANUFACTUREPORTLANDCEMENTPHOSPHATERAWMATERIALS</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>OLSHANSKII</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1951</xocs:ref-pub-year>
+<xocs:ref-first-fp>93</xocs:ref-first-fp>
+<xocs:ref-last-lp>96</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>RANKIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1915</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-last-lp>79</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>WELCH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1959</xocs:ref-pub-year>
+<xocs:ref-first-fp>11</xocs:ref-first-fp>
+<xocs:ref-last-lp>15</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>REGOURD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>109</xocs:ref-first-fp>
+<xocs:ref-last-lp>138</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>STRUCTUREPERFORMANCECEMENTS</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>CHRYSTALCHEMISTRYPORTLANDCEMENTPHASESCHAPTER3</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>DIOURI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1203</xocs:ref-first-fp>
+<xocs:ref-last-lp>1212</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>HAHN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1969</xocs:ref-pub-year>
+<xocs:ref-first-fp>61</xocs:ref-first-fp>
+<xocs:ref-last-lp>73</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>5THISCC</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>CRYSTALCHEMISTRYTRICALCIUMSILICATESOLIDSOLUTIONS</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>MOHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1977</xocs:ref-pub-year>
+<xocs:ref-first-fp>269</xocs:ref-first-fp>
+<xocs:ref-last-lp>276</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>NURSE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1963</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>7THCONFERENCESILICATEINDUSTRYBUDAPEST</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>EFFECTMINORCOMPONENTSCEMENTSETTINGHARDENING</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>LUDWIG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>99</xocs:ref-first-fp>
+<xocs:ref-last-lp>103</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>9THINTERNCONGRESSCHEMISTRYCEMENTNEWDELHIVOL2</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>FORMATIONSTABILITYC3SALITES</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>SKIBSTED</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>57</xocs:ref-first-fp>
+<xocs:ref-last-lp>59</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>JCPDS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2007</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>POWDERDIFFRACTIONFILEPDF</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>FIZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2007</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>INORGANICCRYSTALSTRUCTURESDATABASEICSD</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>RIETVELD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1969</xocs:ref-pub-year>
+<xocs:ref-first-fp>65</xocs:ref-first-fp>
+<xocs:ref-last-lp>71</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>RIETVELDMETHOD</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>REGOURD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1964</xocs:ref-pub-year>
+<xocs:ref-first-fp>241</xocs:ref-first-fp>
+<xocs:ref-last-lp>272</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>NISHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>297</xocs:ref-first-fp>
+<xocs:ref-last-lp>314</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>MUMME</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>145</xocs:ref-first-fp>
+<xocs:ref-last-lp>160</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>DELLAGIUSTA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>160</xocs:ref-first-fp>
+<xocs:ref-last-lp>165</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>JOST</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1977</xocs:ref-pub-year>
+<xocs:ref-first-fp>1696</xocs:ref-first-fp>
+<xocs:ref-last-lp>1700</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib23">
+<xocs:ref-normalized-surname>REGOURD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1969</xocs:ref-pub-year>
+<xocs:ref-first-fp>44</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>5THISCC</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib24">
+<xocs:ref-pub-year>1973</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>ICDDGRANTINAID</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>REFERENCE14</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib25">
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>ICDDGRANTINAID</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>REFERENCE14</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib26">
+<xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1979</xocs:ref-pub-year>
+<xocs:ref-first-fp>407</xocs:ref-first-fp>
+<xocs:ref-last-lp>410</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib27">
+<xocs:ref-normalized-surname>COLVILLE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1972</xocs:ref-pub-year>
+<xocs:ref-first-fp>3196</xocs:ref-first-fp>
+<xocs:ref-last-lp>3260</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib28">
+<xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1611</xocs:ref-first-fp>
+<xocs:ref-last-lp>1617</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib29">
+<xocs:ref-normalized-surname>STEPHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>1477</xocs:ref-first-fp>
+<xocs:ref-last-lp>1483</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib30">
+<xocs:ref-normalized-surname>BENARCHID</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>190</xocs:ref-first-fp>
+<xocs:ref-last-lp>194</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib31">
+<xocs:ref-normalized-surname>CHAE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>147</xocs:ref-first-fp>
+<xocs:ref-last-lp>151</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib32">
+<xocs:ref-normalized-surname>NURSE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1959</xocs:ref-pub-year>
+<xocs:ref-first-fp>1077</xocs:ref-first-fp>
+<xocs:ref-last-lp>1083</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib33"/>
+<xocs:ref-info refid="bib34">
+<xocs:ref-normalized-surname>FLETCHER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>2677</xocs:ref-first-fp>
+<xocs:ref-last-lp>2686</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib35">
+<xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1970</xocs:ref-pub-year>
+<xocs:ref-first-fp>17</xocs:ref-first-fp>
+<xocs:ref-last-lp>22</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib36">
+<xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>380</xocs:ref-first-fp>
+<xocs:ref-last-lp>385</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib37">
+<xocs:ref-normalized-surname>HONG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1681</xocs:ref-first-fp>
+<xocs:ref-last-lp>1686</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib38">
+<xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1982</xocs:ref-pub-year>
+<xocs:ref-first-fp>237</xocs:ref-first-fp>
+<xocs:ref-last-lp>246</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib39">
+<xocs:ref-normalized-surname>POLLITT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1969</xocs:ref-pub-year>
+<xocs:ref-first-fp>322</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>5THISCC</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib40">
+<xocs:ref-normalized-surname>MAKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1973</xocs:ref-pub-year>
+<xocs:ref-first-fp>295</xocs:ref-first-fp>
+<xocs:ref-last-lp>313</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib41">
+<xocs:ref-normalized-surname>TAKEUCHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-first-fp>259</xocs:ref-first-fp>
+<xocs:ref-last-lp>307</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib42">
+<xocs:ref-normalized-surname>NEUBAUER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>22NDINTERNATIONALCONFERENCECEMENTMICROSCOPYMONTREALCANADA</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>SOLIDSOLUTIONSERIESFERRATEALUMINATEPHASESINOPCPARTIFERRATEPHASE</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib43"/>
+<xocs:ref-info refid="bib44">
+<xocs:ref-normalized-surname>MARINHO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>360</xocs:ref-first-fp>
+<xocs:ref-last-lp>368</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib45">
+<xocs:ref-normalized-surname>BERGSTROM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>141</xocs:ref-first-fp>
+<xocs:ref-last-lp>147</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib46">
+<xocs:ref-normalized-surname>HALL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>28</xocs:ref-first-fp>
+<xocs:ref-last-lp>38</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib47">
+<xocs:ref-normalized-surname>MAJUMDAR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1965</xocs:ref-pub-year>
+<xocs:ref-first-fp>105</xocs:ref-first-fp>
+<xocs:ref-last-lp>109</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib48">
+<xocs:ref-pub-year>2007</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>ASTMSTANDARDC11407STANDARDTESTMETHODSFORCHEMICALANALYSISHYDRAULICCEMENT</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib49">
+<xocs:ref-normalized-surname>JAVELLANA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>RAPIDMETHODSFORCHEMICALANALYSISHYDRAULICCEMENT</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>EXTRACTIONFREELIMEINPORTLANDCEMENTCLINKERBYETHYLENEGLYCOL</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib50">
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>RAPIDMETHODSFORCHEMICALANALYSISHYDRAULICCEMENT</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>LAFARGECHEMICALMETHODNO42FREECAO</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib51">
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>HANDBOOKANALYTICALTECHNIQUESINCONCRETESCIENCETECHNOLOGYPRINCIPLESTECHNIQUESAPPLICATIONS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib52">
+<xocs:ref-normalized-surname>LEES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1982</xocs:ref-pub-year>
+<xocs:ref-first-fp>350</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib53">
+<xocs:ref-normalized-surname>BRUNAUER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1938</xocs:ref-pub-year>
+<xocs:ref-first-fp>309</xocs:ref-first-fp>
+<xocs:ref-last-lp>319</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib54">
+<xocs:ref-normalized-surname>WEISS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1976</xocs:ref-pub-year>
+<xocs:ref-first-fp>287</xocs:ref-first-fp>
+<xocs:ref-last-lp>293</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib55">
+<xocs:ref-normalized-surname>LOCHER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-first-fp>67</xocs:ref-first-fp>
+<xocs:ref-last-lp>73</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib56">
+<xocs:ref-normalized-surname>BABUSHKIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>THERMODYNAMICSSILICATES</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib57">
+<xocs:ref-normalized-surname>JENSEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>157</xocs:ref-first-fp>
+<xocs:ref-last-lp>164</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib58"/>
+<xocs:ref-info refid="bib59">
+<xocs:ref-normalized-surname>KLUG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1959</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>XRAYDIFFRACTIONPROCEDURES</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib60">
+<xocs:ref-normalized-surname>SKIBSTED</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>4423</xocs:ref-first-fp>
+<xocs:ref-last-lp>4430</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib61">
+<xocs:ref-normalized-surname>ANDERSEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>2280</xocs:ref-first-fp>
+<xocs:ref-last-lp>2287</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib62">
+<xocs:ref-normalized-surname>DELATORRE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2008</xocs:ref-pub-year>
+<xocs:ref-first-fp>1261</xocs:ref-first-fp>
+<xocs:ref-last-lp>1269</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib63">
+<xocs:ref-normalized-surname>NISHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1975</xocs:ref-pub-year>
+<xocs:ref-first-fp>1169</xocs:ref-first-fp>
+<xocs:ref-last-lp>1173</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib64">
+<xocs:ref-normalized-surname>STEPHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2006</xocs:ref-pub-year>
+<xocs:ref-first-fp>2011</xocs:ref-first-fp>
+<xocs:ref-last-lp>2020</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>WESSELSKYX2009X973</xocs:refkey3>
+<xocs:refkey4lp>WESSELSKYX2009X973X980</xocs:refkey4lp>
+<xocs:refkey4ai>WESSELSKYX2009X973XA</xocs:refkey4ai>
+<xocs:refkey5>WESSELSKYX2009X973X980XA</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0008-8846(09)00174-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0008884609001744</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0008884609001744</xocs:eid>
+<xocs:doi>10.1016/j.cemconres.2009.07.013</xocs:doi>
+<xocs:cid>271509</xocs:cid>
+<xocs:timestamp>2024-01-01T14:17:10.864363Z</xocs:timestamp>
+<xocs:cover-date-start>2009-11-01</xocs:cover-date-start>
+<xocs:cover-date-end>2009-11-30</xocs:cover-date-end>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/MAIN/application/pdf/62f5a33c9f946196b3f7a6cc1471b519/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/MAIN/application/pdf/62f5a33c9f946196b3f7a6cc1471b519/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>747477</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/PREVIEW/image/png/3321cb96d523d1a7f5fb4502176b214c/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/PREVIEW/image/png/3321cb96d523d1a7f5fb4502176b214c/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>53224</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr7/DOWNSAMPLED/image/jpeg/1ccaf5935f3229663ebc63d6093458a6/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr7/DOWNSAMPLED/image/jpeg/1ccaf5935f3229663ebc63d6093458a6/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>11620</xocs:filesize>
+<xocs:pixel-height>225</xocs:pixel-height>
+<xocs:pixel-width>373</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr6/DOWNSAMPLED/image/jpeg/1a1dff3348d975e5dfb11e4ce02ef017/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr6/DOWNSAMPLED/image/jpeg/1a1dff3348d975e5dfb11e4ce02ef017/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>57218</xocs:filesize>
+<xocs:pixel-height>510</xocs:pixel-height>
+<xocs:pixel-width>391</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr5/DOWNSAMPLED/image/jpeg/c28f55b5dd55cbb6e597105098a66b5d/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr5/DOWNSAMPLED/image/jpeg/c28f55b5dd55cbb6e597105098a66b5d/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>37566</xocs:filesize>
+<xocs:pixel-height>292</xocs:pixel-height>
+<xocs:pixel-width>391</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr4/DOWNSAMPLED/image/jpeg/4f6b6aaa814539486566c73d87cb1879/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr4/DOWNSAMPLED/image/jpeg/4f6b6aaa814539486566c73d87cb1879/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19260</xocs:filesize>
+<xocs:pixel-height>346</xocs:pixel-height>
+<xocs:pixel-width>369</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr3/DOWNSAMPLED/image/jpeg/c4b0ffa331df1d6a503c5a9149168635/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr3/DOWNSAMPLED/image/jpeg/c4b0ffa331df1d6a503c5a9149168635/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>21405</xocs:filesize>
+<xocs:pixel-height>245</xocs:pixel-height>
+<xocs:pixel-width>390</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr2/DOWNSAMPLED/image/jpeg/87da9991b7050c2d0050f683e28108e2/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr2/DOWNSAMPLED/image/jpeg/87da9991b7050c2d0050f683e28108e2/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>5928</xocs:filesize>
+<xocs:pixel-height>81</xocs:pixel-height>
+<xocs:pixel-width>359</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr1/DOWNSAMPLED/image/jpeg/08edba8b7e414975c2cd64ff855162a5/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr1/DOWNSAMPLED/image/jpeg/08edba8b7e414975c2cd64ff855162a5/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>47060</xocs:filesize>
+<xocs:pixel-height>519</xocs:pixel-height>
+<xocs:pixel-width>512</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr7/THUMBNAIL/image/gif/afb795742b8927876cdd1d701fa5e8c6/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr7/THUMBNAIL/image/gif/afb795742b8927876cdd1d701fa5e8c6/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2305</xocs:filesize>
+<xocs:pixel-height>132</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr6/THUMBNAIL/image/gif/514ee3d1eb566d8e349d29e5d13a618c/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr6/THUMBNAIL/image/gif/514ee3d1eb566d8e349d29e5d13a618c/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>6883</xocs:filesize>
+<xocs:pixel-height>163</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr5/THUMBNAIL/image/gif/09dfa0b71843c0168953642213fa2f51/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr5/THUMBNAIL/image/gif/09dfa0b71843c0168953642213fa2f51/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>9193</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr4/THUMBNAIL/image/gif/5c23bf857e49610b4bfcf544d6c9c12d/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr4/THUMBNAIL/image/gif/5c23bf857e49610b4bfcf544d6c9c12d/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2515</xocs:filesize>
+<xocs:pixel-height>163</xocs:pixel-height>
+<xocs:pixel-width>174</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr3/THUMBNAIL/image/gif/cc1677ed01aa0c3507b3790fe630ec23/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr3/THUMBNAIL/image/gif/cc1677ed01aa0c3507b3790fe630ec23/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3925</xocs:filesize>
+<xocs:pixel-height>138</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr2/THUMBNAIL/image/gif/247eb3f991c9b15d626fca30f62210e0/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr2/THUMBNAIL/image/gif/247eb3f991c9b15d626fca30f62210e0/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1144</xocs:filesize>
+<xocs:pixel-height>49</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0008884609001744-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0008884609001744/gr1/THUMBNAIL/image/gif/a64bfef0d17a34f1229494a57a838107/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0008884609001744/gr1/THUMBNAIL/image/gif/a64bfef0d17a34f1229494a57a838107/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3482</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>162</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>CEMCON</jid>
+<aid>3953</aid>
+<ce:pii>S0008-8846(09)00174-4</ce:pii>
+<ce:doi>10.1016/j.cemconres.2009.07.013</ce:doi>
+<ce:copyright type="full-transfer" year="2009">Elsevier Ltd</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0010" view="all">Phase diagram of the binary system CaO–SiO<ce:inf loc="post">2</ce:inf> after <ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 30. This diagram shows the composition, possible secondary phases and transition and melting temperatures for both C<ce:inf loc="post">2</ce:inf>S and C<ce:inf loc="post">3</ce:inf>S.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"/>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0015" view="all">Transition temperatures of C<ce:inf loc="post">2</ce:inf>S polymorphs after <ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 14. All phase transitions are reversible except the one of β to γ. When heated, the γ polymorph does not transform into the β-form but instead converts directly into the α'<ce:inf loc="post">L</ce:inf>-form upon reaching a temperature between 780 and 860 °C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"/>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0020" view="all">Binary system CaO–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> after <ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 31. Possible secondary phases for C<ce:inf loc="post">3</ce:inf>A can be found in this diagram as well as its (incongruent) melting temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"/>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0025" view="all">Part of the larger system CaO–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. This ternary phase diagram shows the sub-solidus phase relations in the CaO–C<ce:inf loc="post">2</ce:inf>F–CA sub-system. Hatched lines denote solid solution series. <ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 37.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"/>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0030" view="all">Crucible cleaning setup with HCl in a heated sand bed. Petri dishes covering the glass beakers reduce the evaporation rate of the acid, but the apparatus still needs to be placed under a fume hood.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"/>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0035" view="all">Sample during quenching — the sintered material has just been poured from a platinum crucible into a big steel receptacle to enhance cooling.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"/>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0040" view="all">Progress of sintering of triclinic C<ce:inf loc="post">3</ce:inf>S as seen by XRD. Top: After the first sintering cycle. C<ce:inf loc="post">3</ce:inf>S-content of the material is estimated as in the 90% range, since there is a small amount of CaO detectable in the XRD diagram. The arrow marks the CaO main peak, all other visible peaks belong to triclinic C<ce:inf loc="post">3</ce:inf>S. Bottom: The same sample as above after a second sintering cycle. The main peak of CaO has vanished; all visible peaks belong to triclinic C<ce:inf loc="post">3</ce:inf>S. The purity can be assumed to be 98–99%.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"/>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0045" view="all">Transition temperatures for C<ce:inf loc="post">3</ce:inf>S (<ce:cross-ref refid="bib7">[7]</ce:cross-ref> p. 111, <ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 5). T = triclinic, M = monoclinic and R = rhombohedral.</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<colspec colname="col5" colnum="5"/>
+<colspec colname="col6" colnum="6"/>
+<colspec colname="col7" colnum="7"/>
+<thead>
+<row rowsep="1">
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Transition step</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">T1 ⇆ T2</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">T2 ⇆ T3</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">T3 ⇆ M1a</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">M1a ⇆ M2a</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">M2a ⇆ M2b</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">M2b ⇆ R</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Temperature [°C]</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">620</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">920</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">980</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">990</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">1060</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">1070</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0050" view="all">XRD identification patterns for commonly used phases and their modifications.</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<colspec colname="col5" colnum="5"/>
+<thead>
+<row rowsep="1">
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Phase</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Crystal system</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">PDF2 database reference code</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">ICSD collection code</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Reference</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S stoichiometric</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Triclinic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">00-031-0301</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Not available</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib18">[18]</cross-ref>
+</entry>
+</row>
+<row>
+<entry morerows="1" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S — “alite”</entry>
+<entry morerows="1" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Monoclinic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">01-085-1378</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">064759</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib19">[19]</cross-ref>
+</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">01-086-0402</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">081100</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib20">[20]</cross-ref>
+</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">γ-C<inf loc="post">2</inf>S</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Orthorhombic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">01-080-0941</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">068753</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib21">[21]</cross-ref>
+</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">β-C<inf loc="post">2</inf>S — “belite”</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Monoclinic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">01-070-0388</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">000963</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib22">[22]</cross-ref>
+</entry>
+</row>
+<row>
+<entry morerows="2" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">α'-C<inf loc="post">2</inf>S</entry>
+<entry morerows="2" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Orthorhombic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">a'<inf loc="post">H</inf>: 00-031-0298</entry>
+<entry morerows="2" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Not available</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib23">[23]</cross-ref>
+</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">a'<inf loc="post">L</inf>: 00-031-0299</entry>
+<entry morerows="1" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib24">[24]</cross-ref>
+</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">a'<inf loc="post">L</inf>: 00-049-1672</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>A stoichiometric</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Cubic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">00-038-1429</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Not available</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib25">[25]</cross-ref>
+</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>A stabilized</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Orthorhombic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">00-032-0150</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Not available</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib26">[26]</cross-ref>
+</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">4</inf>AF</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Orthorhombic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">01-070-1498</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">002841</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib27">[27]</cross-ref>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0055" view="all">Influence of Na<ce:inf loc="post">2</ce:inf>O content on C<ce:inf loc="post">3</ce:inf>A crystal structure from <ce:cross-ref refid="bib1">[1]</ce:cross-ref> p.20 after <ce:cross-ref refid="bib41">[41]</ce:cross-ref>.</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<thead>
+<row rowsep="1">
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Weight-% Na<inf loc="post">2</inf>O (approx.)</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Compositional range (<italic>x</italic>) for Na<inf loc="post">2<italic>x</italic>
+</inf>Ca<inf loc="post">3<hsp sp="0.12"/>–<hsp sp="0.12"/>
+<italic>x</italic>
+</inf>Al<inf loc="post">2</inf>O<inf loc="post">6</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Designation</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Crystal system</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0.0–1.0</entry>
+<entry align="char" char="–" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0.00–0.04</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">I</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Cubic</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">1.0–2.4</entry>
+<entry align="char" char="–" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0.04–0.10</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">II</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Cubic</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">2.4–3.7</entry>
+<entry align="char" char="–" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0.10–0.16</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">II</inf>
+<hsp sp="0.12"/> +<hsp sp="0.12"/>O</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">3.7–4.6</entry>
+<entry align="char" char="–" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0.16–0.20</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">O</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Orthorhombic</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">4.6–5.7</entry>
+<entry align="char" char="–" valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0.20–0.25</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">M</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Monoclinic</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl4" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 4</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0060" view="all">Suggested mix composition in g for 100 g of final C<ce:inf loc="post">3</ce:inf>S product and the resulting atomic ratios.</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<colspec colname="col5" colnum="5"/>
+<thead>
+<row rowsep="1">
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">CaCO<inf loc="post">3</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">MgO</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S triclinic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">131.506</entry>
+<entry align="char" char="." valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">26.316</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Ca/Si<hsp sp="0.12"/>=<hsp sp="0.12"/>3.000</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S monoclinic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">127.614</entry>
+<entry align="char" char="." valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">25.843</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0.701</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">1.177</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Ca/Si<hsp sp="0.12"/>=<hsp sp="0.12"/>2.964</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Al/Si<hsp sp="0.12"/>=<hsp sp="0.12"/>0.032</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Mg/Si<hsp sp="0.12"/>=<hsp sp="0.12"/>0.068</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="simple-para.0065" view="all">In the case of monoclinic C<ce:inf loc="post">3</ce:inf>S the amounts given correspond to: 98.2 wt.% of stoichiometric mix of CaO and SiO<ce:inf loc="post">2</ce:inf>, 1.1 wt.% of MgO and 0.7 wt.% of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>.</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl5" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 5</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0070" view="all">Suggested mix composition in g for 100 g of final C<ce:inf loc="post">2</ce:inf>S product and the resulting atomic ratios.</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<colspec colname="col5" colnum="5"/>
+<thead>
+<row rowsep="1">
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">CaCO<inf loc="post">3</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">H<inf loc="post">3</inf>BO<inf loc="post">3</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Na<inf loc="post">2</inf>B<inf loc="post">4</inf>O<inf loc="post">7</inf>·10H<inf loc="post">2</inf>O</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">β-C<inf loc="post">2</inf>S</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">115.752</entry>
+<entry align="char" char="." valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">34.745</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0.354</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Ca/Si<hsp sp="0.12"/>=<hsp sp="0.12"/>2.000</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">B/Si<hsp sp="0.12"/>=<hsp sp="0.12"/>0.010</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">α'-C<inf loc="post">2</inf>S</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">111.851</entry>
+<entry align="char" char="." valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">33.574</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">7.108</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Ca/Si<hsp sp="0.12"/>=<hsp sp="0.12"/>2.000</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">B/Si<hsp sp="0.12"/>=<hsp sp="0.12"/>0.133</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Na/Si<hsp sp="0.12"/>=<hsp sp="0.12"/>0.067</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="simple-para.0075" view="all">In the final product the amounts given correspond to: 0.40 wt.% of B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> for β-C<ce:inf loc="post">2</ce:inf>S and for α'-C<ce:inf loc="post">2</ce:inf>S 2.60 wt.% B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and 1.16 wt.% Na<ce:inf loc="post">2</ce:inf>O.</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl6" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 6</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0080" view="all">Suggested mix composition in g for 100 g of final C<ce:inf loc="post">3</ce:inf>A product and the resulting atomic ratios.</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<thead>
+<row rowsep="1">
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">CaCO<inf loc="post">3</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">NaNO<inf loc="post">3</inf>
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>A cubic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">111.124</entry>
+<entry align="char" char="." valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">37.736</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Ca/Al<hsp sp="0.12"/>=<hsp sp="0.12"/>1.500</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>A orthorhombic</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">98.059</entry>
+<entry align="char" char="." valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">34.487</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">14.496</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Ca/Al<hsp sp="0.12"/>=<hsp sp="0.12"/>1.448</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Na/Al<hsp sp="0.12"/>=<hsp sp="0.12"/>0.252</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl7" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 7</ce:label>
+<ce:caption>
+<ce:simple-para id="simple-para.0085" view="all">Suggested mix composition in g for 100 g of final C<ce:inf loc="post">4</ce:inf>AF product and the resulting atomic ratios.</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<thead>
+<row rowsep="1">
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">CaCO<inf loc="post">3</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Fe<inf loc="post">2</inf>O<inf loc="post">3</inf>
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">4</inf>AF idealized</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">82.380</entry>
+<entry align="char" char="." valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">20.982</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">32.861</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Ca/Al<hsp sp="0.12"/>=<hsp sp="0.12"/>2.000</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Fe/Al<hsp sp="0.12"/>=<hsp sp="0.12"/>1.000</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">4</inf>A<inf loc="post">0.5</inf>F<inf loc="post">1.5</inf> iron rich</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">77.762</entry>
+<entry align="char" char="." valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">9.903</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">46.527</entry>
+</row>
+<row>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Ca/Al<hsp sp="0.12"/>=<hsp sp="0.12"/>4.000</entry>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry valign="top" xmlns="http://www.elsevier.com/xml/common/dtd">Fe/Al<hsp sp="0.12"/>=<hsp sp="0.12"/>3.000</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<head>
+<ce:title>Synthesis of pure Portland cement phases</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Wesselsky</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>O.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Lafarge Research Center, St. Quentin Fallavier, France</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Civil Engineering, Technical University of Denmark, Kongens Lyngby, Denmark</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="14" month="3" year="2009"/>
+<ce:date-accepted day="16" month="7" year="2009"/>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para id="simple-para.0090" view="all">Pure clinker phases are often used to test cement hydration behavior in simplified experimental conditions. These phases are in general structurally identical to, but chemically much simpler than their heavily substituted counterparts found in technical clinkers. The synthesis of the pure phases is covered in this paper, starting with a description of phase relations and possible polymorphs of the four main phases in Portland cement, i.e. tricalcium silicate, dicalcium silicate, tricalcium aluminate and tetracalcium alumino ferrite. Details of the process of solid state synthesis are described including practical advice on equipment and techniques. In addition, mix compositions that have been successfully used are given.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Portland cement (D)</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Cement manufacture (E)</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf> (D)</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Ca<ce:inf loc="post">2</ce:inf>SiO<ce:inf loc="post">4</ce:inf> (D)</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Ca<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">6</ce:inf> (D)</ce:text>
+</ce:keyword>
+</ce:keywords>
+</head>
+<body view="all">
+<ce:sections>
+<ce:section id="section.0010" view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para id="para.0010" view="all">Portland cement contains five main components. In their pure form, these so-called phases are tricalcium silicate (Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf> or in cement notation shorthand <ce:cross-ref refid="bib1">[1]</ce:cross-ref> p.3–4: C<ce:inf loc="post">3</ce:inf>S), dicalcium silicate (Ca<ce:inf loc="post">2</ce:inf>SiO<ce:inf loc="post">4</ce:inf> or C<ce:inf loc="post">2</ce:inf>S), tricalcium aluminate (Ca<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">6</ce:inf> or C<ce:inf loc="post">3</ce:inf>A), a tetracalcium alumino ferrite (often given as Ca<ce:inf loc="post">4</ce:inf>Al<ce:inf loc="post">2</ce:inf>Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">10</ce:inf> or C<ce:inf loc="post">4</ce:inf>AF) and a sulfate phase (often gypsum, CaSO<ce:inf loc="post">4</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O or C$H<ce:inf loc="post">2</ce:inf>).</ce:para>
+<ce:para id="para.0015" view="all">The study of cement hydration is complicated by the complex composition of this material. In order to simplify experiments or to evaluate the specific contribution of a cement component, pure and separated cement components may be used. As commercially available Portland cements are a homogenous mix of all components, it is practically impossible to separate specific components. Therefore a need exists to produce these phases in a pure state in a lab environment.</ce:para>
+<ce:para id="para.0020" view="all">Theoretical background on the relevant phases is compiled in this paper from published sources with special focus on parts useful in relation to solid state synthesis. Where applicable, some references to other preparation techniques beside the solid state approach are given. This theoretical section is combined with suggestions on how to perform a solid state synthesis as well as suggestions for sample mix compositions.</ce:para>
+</ce:section>
+<ce:section id="section.0015" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Chemical background</ce:section-title>
+<ce:section id="section.0020" view="all">
+<ce:label>2.1</ce:label>
+<ce:section-title>C<ce:inf loc="post">3</ce:inf>S</ce:section-title>
+<ce:para id="para.0025" view="all">The phase relations in the system CaO–SiO<ce:inf loc="post">2</ce:inf> were described in an early paper by Day, Shepherd and Wright in 1906 <ce:cross-ref refid="bib2">[2]</ce:cross-ref> and later revised by other authors <ce:cross-refs refid="bib3 bib4 bib5 bib6">[3–6]</ce:cross-refs>.</ce:para>
+<ce:para id="para.0030" view="all">The diagram (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"/>) shows the possibility of C<ce:inf loc="post">3</ce:inf>S formation at temperatures in the range 1250–2150 °C. Typically it will form by combination of C<ce:inf loc="post">2</ce:inf>S and CaO when the temperature rises above 1250 °C. In a pure system at room temperature, C<ce:inf loc="post">3</ce:inf>S is metastable and has a triclinic structure. At rising temperature polymorphs show first a monoclinic and later rhombohedral structure. Accurate determination of the transition temperatures is difficult, with different methods like X-ray diffraction and optical microscopy yielding slightly different results (<ce:cross-ref refid="bib7">[7]</ce:cross-ref> p. 111). Commonly agreed data on transition temperatures are given in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"/>.</ce:para>
+<ce:para id="para.0035" view="all">The phases dealt with in this paper are the triclinic and the monoclinic polymorphs. The latter is normally encountered in technical clinkers due to the stabilizing effect of both foreign ions and quenching, although small quantities of triclinic C<ce:inf loc="post">3</ce:inf>S may also be present in some cases. The suggested sintering temperature for pure C<ce:inf loc="post">3</ce:inf>S phases, is 1600 °C. This temperature is considerably higher than the 1450 °C reached in an industrial kiln <ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 55. This is to compensate for the absence of melt in the pure system, since in the technical process the melt facilitates the sintering at the lower temperatures. At 1600 °C, the stable phase is the rhombohedral polymorph.</ce:para>
+<ce:para id="para.0040" view="all">When a pure, stoichiometric C<ce:inf loc="post">3</ce:inf>S sample is quenched from the sintering temperature, it undergoes all the transformations shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, and finally yields the triclinic form T<ce:inf loc="post">1</ce:inf> (<ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 29). The quenching itself is necessary to make sure the C<ce:inf loc="post">3</ce:inf>S does not dissociate back into C<ce:inf loc="post">2</ce:inf>S and CaO, since C<ce:inf loc="post">3</ce:inf>S is only metastable at temperatures below 1250 °C, cf. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. C<ce:inf loc="post">3</ce:inf>S dissociation, however, is a very slow process and can be avoided by rapid cooling.</ce:para>
+<ce:para id="para.0045" view="all">To produce a monoclinic form of C<ce:inf loc="post">3</ce:inf>S stable at room temperature, foreign ions have to be incorporated. A wide range of substituting ions has been identified in industrial clinkers, such as Al<ce:sup loc="post">3+</ce:sup>, Mg<ce:sup loc="post">2+</ce:sup> and Fe<ce:sup loc="post">3+</ce:sup> (<ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 7), and also Mn<ce:sup loc="post">3+</ce:sup> and P<ce:sup loc="post">5+</ce:sup>
+<ce:cross-ref refid="bib8">[8]</ce:cross-ref>. The amount of foreign ion encountered in these clinkers is typically 3–4 wt.% (<ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 7). These ions are readily incorporated into the C<ce:inf loc="post">3</ce:inf>S structure <ce:cross-refs refid="bib9 bib10">[9,10]</ce:cross-refs>. The stabilizing agent will influence the properties of the clinker phases including their reactivity <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. A composition resembling the substituted C<ce:inf loc="post">3</ce:inf>S found in industrial clinker has been published in <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. Also the stabilizer may influence subsequent analysis as is the case for Fe<ce:sup loc="post">3+</ce:sup> in relation to NMR <ce:cross-ref refid="bib13">[13]</ce:cross-ref>.</ce:para>
+<ce:para id="para.0050" view="all">The different polymorphs of C<ce:inf loc="post">3</ce:inf>S can be identified conveniently and accurately with X-ray powder diffraction techniques. A database with patterns used for identification of phases in an X-ray powder diffraction scan is available from <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. As a starting point for analysis, <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"/> gives a selection of reference codes from this PDF2 database for the phases described in this paper. The patterns were selected for good matching with the observed features and their quality assessment in the database. Only patterns that were either rated high quality or ones calculated from existing structures were included. Patterns with a connection to a known structure described in the “Inorganic Crystal Structure Database” ICSD <ce:cross-ref refid="bib15">[15]</ce:cross-ref> were preferred. This is a starting point for subsequent quantitative analysis with the Rietveld method <ce:cross-refs refid="bib16 bib17">[16,17]</ce:cross-refs>.</ce:para>
+<ce:para id="para.0055" view="all">C<ce:inf loc="post">3</ce:inf>S can be produced easily with the solid state sintering process described further on in this paper. Alternative ways of production include microwave sintering <ce:cross-ref refid="bib28">[28]</ce:cross-ref> and a sol-gel process <ce:cross-ref refid="bib29">[29]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section id="section.0025" view="all">
+<ce:label>2.2</ce:label>
+<ce:section-title>C<ce:inf loc="post">2</ce:inf>S</ce:section-title>
+<ce:para id="para.0060" view="all">C<ce:inf loc="post">2</ce:inf>S is a stable phase from room temperature up to its melting point at 2130 °C, see <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. It undergoes several polymorphic phase transitions in this temperature range. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"/> gives information about the reversibility and the temperatures at which these changes occur.</ce:para>
+<ce:para id="para.0065" view="all">The modification encountered in industrial clinkers is typically β-C<ce:inf loc="post">2</ce:inf>S. The modification present during sintering is either α or α', but these high temperature polymorphs normally transform into the β phase upon cooling and are not seen in the final product. A most unwanted transformation is β-C<ce:inf loc="post">2</ce:inf>S into γ-C<ce:inf loc="post">2</ce:inf>S, since γ-C<ce:inf loc="post">2</ce:inf>S is almost non-reactive with water. In addition the β–γ transformation destroys the clinker nodule integrity by volume expansion due to the low density of the γ-phase. The phases discussed in this paper are the common β-modification as well as α'-C<ce:inf loc="post">2</ce:inf>S, which is more reactive than β-C<ce:inf loc="post">2</ce:inf>S and still reasonably easy to stabilize <ce:cross-ref refid="bib30">[30]</ce:cross-ref>. Although α'-C<ce:inf loc="post">2</ce:inf>S is not normally present in Portland cements, its increased reactivity makes it interesting especially for manufacturers of so-called “Belite cement” <ce:cross-ref refid="bib31">[31]</ce:cross-ref>. Being the high temperature polymorph, in the technical process α-C<ce:inf loc="post">2</ce:inf>S is never stable enough to be found in the clinker after cooling down to room temperature. It is therefore not considered further on in this paper.</ce:para>
+<ce:para id="para.0070" view="all">In an industrial clinker C<ce:inf loc="post">2</ce:inf>S can incorporate up to 4–6 wt.% foreign ions. The main substituents are Al<ce:sup loc="post">3+</ce:sup> and Fe<ce:sup loc="post">3+</ce:sup>, with S<ce:sup loc="post">6+</ce:sup>, Mg<ce:sup loc="post">2+</ce:sup> and K<ce:sup loc="post">+</ce:sup> also being common (<ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 18). There is also good miscibility with both P<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf> and B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, and both systems have been studied extensively (e.g. <ce:cross-refs refid="bib32 bib2">[32,2]</ce:cross-refs> for P<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf> and <ce:cross-refs refid="bib33 bib34 bib35">[33–35]</ce:cross-refs> for B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>). Especially boron has proven a very successful stabilizer <ce:cross-ref refid="bib36">[36]</ce:cross-ref>.</ce:para>
+<ce:para id="para.0075" view="all">The identification of β-C<ce:inf loc="post">2</ce:inf>S by XRD with the pattern given in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref> poses no problems. To find a good match for the α'-C<ce:inf loc="post">2</ce:inf>S is much more difficult, as there is no single pattern that covers all encountered peaks. It is therefore necessary to exclude all other possible phases and modifications by trying to match with their corresponding patterns: β-C<ce:inf loc="post">2</ce:inf>S, C<ce:inf loc="post">3</ce:inf>S and CaO, and potentially also γ- and α-C<ce:inf loc="post">2</ce:inf>S.</ce:para>
+<ce:para id="para.0080" view="all">Apart from the solid state sintering process, successful synthesis can be done by a sol-gel method, using calcium nitrate and silicon oxide as starting materials. It is based on chelation in a solution of suitable oxides or salts with the aid of an alpha-hydroxycarboxylic acid, the so-called liquid mix or Pechini process <ce:cross-ref refid="bib37">[37]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section id="section.0030" view="all">
+<ce:label>2.3</ce:label>
+<ce:section-title>C<ce:inf loc="post">3</ce:inf>A</ce:section-title>
+<ce:para id="para.0085" view="all">The binary system CaO–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"/> shows C<ce:inf loc="post">3</ce:inf>A melting incongruently at 1542 °C. In industrial clinkers C<ce:inf loc="post">3</ce:inf>A can incorporate up to 2% of SiO<ce:inf loc="post">2</ce:inf> and 3–4% of Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>
+<ce:cross-ref refid="bib38">[38]</ce:cross-ref>. However, the most critical substituent is Na<ce:sup loc="post">+</ce:sup>, since it induces changes in the crystal structure as detailed in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"/>.</ce:para>
+<ce:para id="para.0090" view="all">The cubic C<ce:inf loc="post">3</ce:inf>A can be easily sintered without any need for stabilization. The orthorhombic form can be stabilized by Na<ce:inf loc="post">2</ce:inf>O as seen from <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>. K<ce:inf loc="post">2</ce:inf>O has been tested as alternative stabilization agent, but without success <ce:cross-refs refid="bib39 bib40">[39,40]</ce:cross-refs>. The cubic form is normally encountered in technical clinkers, but if sodium concentrations in the clinker are high enough, it is not uncommon to have part of the C<ce:inf loc="post">3</ce:inf>A in the orthorhombic modification.</ce:para>
+<ce:para id="para.0095" view="all">XRD identification of C<ce:inf loc="post">3</ce:inf>A is generally easy, as the observed peaks are normally well defined and clearly match the reference pattern. Because the pattern of the cubic and orthorhombic form overlap completely but for a few extra peaks for the orthorhombic form, it is, however, difficult by the XRD technique to rule out the existence of a few percent of cubic C<ce:inf loc="post">3</ce:inf>A in a sample made up from the supposedly orthorhombic form.</ce:para>
+</ce:section>
+<ce:section id="section.0035" view="all">
+<ce:label>2.4</ce:label>
+<ce:section-title>C<ce:inf loc="post">4</ce:inf>AF</ce:section-title>
+<ce:para id="para.0100" view="all">The ferrite phase is found in the ternary system CaO–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. There exists a broad range of possible compositions due to the extended solid solution series between the end members C<ce:inf loc="post">2</ce:inf>F and Ca<ce:inf loc="post">2</ce:inf>(Al<ce:inf loc="post">0.7</ce:inf>Fe<ce:inf loc="post">0.3</ce:inf>)<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf>, see <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"/>. In equilibrium with iron substituted C<ce:inf loc="post">3</ce:inf>A, the C<ce:inf loc="post">4</ce:inf>AF composition can be in the range <ce:italic>x</ce:italic>
+<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>0.48 to 0.7 for Ca<ce:inf loc="post">2</ce:inf>(Al<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>Fe<ce:inf loc="post">1<ce:hsp sp="0.12"/>–<ce:hsp sp="0.12"/>
+<ce:italic>x</ce:italic>
+</ce:inf>)<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf>. The idealized composition C<ce:inf loc="post">4</ce:inf>AF lies at the lower end of this range (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>0.5). Possible foreign ions in the structure include Mg<ce:sup loc="post">2+</ce:sup> and Si<ce:sup loc="post">4+</ce:sup>
+<ce:cross-ref refid="bib42">[42]</ce:cross-ref>, Mn<ce:sup loc="post">3+</ce:sup>
+<ce:cross-ref refid="bib43">[43]</ce:cross-ref>, Ti<ce:sup loc="post">4+</ce:sup>
+<ce:cross-ref refid="bib44">[44]</ce:cross-ref> and small amounts of SO<ce:inf loc="post">3</ce:inf>
+<ce:cross-refs refid="bib45 bib46">[45,46]</ce:cross-refs>.</ce:para>
+<ce:para id="para.0105" view="all">A small amount of Fe<ce:sup loc="post">3+</ce:sup> may be reduced to Fe<ce:sup loc="post">2+</ce:sup> when sintering phases in the range 0.48<ce:hsp sp="0.12"/>&lt;<ce:hsp sp="0.12"/>
+<ce:italic>x</ce:italic>
+<ce:hsp sp="0.12"/>&lt;<ce:hsp sp="0.12"/>0.7 in air <ce:cross-ref refid="bib47">[47]</ce:cross-ref>. This leads to the formation of additional phases, impeding the goal of a pure phase synthesis.</ce:para>
+<ce:para id="para.0110" view="all">The ferrite phase found in technical clinkers is much more complex due to a great degree of substitution of Fe<ce:sup loc="post">3+</ce:sup> (and in some cases also Al<ce:sup loc="post">3+</ce:sup>) with foreign ions like Mg<ce:sup loc="post">2+</ce:sup>, Si<ce:sup loc="post">4+</ce:sup> and Ti<ce:sup loc="post">4+</ce:sup> or Mn<ce:sup loc="post">3+</ce:sup>. The composition can vary significantly in the same clinker batch or even on the micro level for a single clinker grain. Taylor gives as an approximated composition Ca<ce:inf loc="post">2</ce:inf>AlFe<ce:inf loc="post">0.6</ce:inf> Mg<ce:inf loc="post">0.2</ce:inf>Si<ce:inf loc="post">0.15</ce:inf>Ti<ce:inf loc="post">0.05</ce:inf>O<ce:inf loc="post">5</ce:inf> (<ce:cross-ref refid="bib1">[1]</ce:cross-ref> p. 26).</ce:para>
+<ce:para id="para.0115" view="all">XRD identification is complicated by the chemical variability of the phase, so there is seldom a reference pattern exactly reflecting the chemical composition. But the match is normally close enough to allow for an identification based on several reference patterns of different composition and by observing general trends of peak shifts between these. The sample should also be checked for the presence of monocalcium aluminate CA and calcium aluminate sulfate phases like Yeelimite Ca<ce:inf loc="post">4</ce:inf>Al<ce:inf loc="post">6</ce:inf>O<ce:inf loc="post">12</ce:inf>(SO<ce:inf loc="post">4</ce:inf>). The latter might form if there is sulfur introduced into the system by impurities in the iron oxide raw material.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec1" view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Compositions and synthesis conditions</ce:section-title>
+<ce:para id="para.0120" view="all">The following procedures and mixtures are based on the experiences of the authors. They are not the only possible route to a successful synthesis. For most steps of the sintering process there are several alternatives which will be mentioned, but the focus will be on the method preferred by the authors. Differences in available equipment or raw materials may make it necessary to choose a different route of synthesis or modify the one described in the paper. The procedures detailed below may thus be considered a starting point for solid state synthesis.</ce:para>
+<ce:section id="section.0040" view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Sample synthesis</ce:section-title>
+<ce:section id="section.0045" view="all">
+<ce:label>3.1.1</ce:label>
+<ce:section-title>Equipment</ce:section-title>
+<ce:para id="para.0125" view="all">Necessary lab equipment includes a mixing device, platinum crucibles, a high temperature furnace and a grinder.</ce:para>
+<ce:para id="para.0130" view="all">Different types of mixing device can be used. For dry mixing a tumble mixer with a sealed receptacle or a vibratory disc grinder may work well. Wet mixing can be done using a standard 5-l epicyclical lab mixer (often referred to as “Hobart mixer”) or even a kitchen blender.</ce:para>
+<ce:para id="para.0135" view="all">The material of the crucibles should preferably be a platinum alloy containing 10% rhodium, since pure platinum will not withstand well the high temperatures used especially for C<ce:inf loc="post">3</ce:inf>S and C<ce:inf loc="post">2</ce:inf>S synthesis. As the incorporation of iron atoms into the material makes platinum brittle, it would be prudent to use, if available, some older crucibles when doing the synthesis of C<ce:inf loc="post">4</ce:inf>AF phase. Cleaning of the crucibles can be done by soaking for several hours in hot 1:1 diluted hydrochloric acid (a possible setup is shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"/>) or hot 1:10 diluted nitric acid. Afterwards, the crucibles may be gently rubbed with beach sand to remove all residues. Finally, they should be rinsed thoroughly with deionized water to remove any trace of the acid. In cases of severe contamination with silicate material, hydrofluoric acid can be used instead of hydrochloric acid. For removing persistent aluminate material residue, concentrated hydrochloric acid may be useful. Note that in order to handle in particular hot hydrofluoric acid, special laboratory precautions are needed.</ce:para>
+<ce:para id="para.0140" view="all">The furnace should be electrically heated, able to hold a temperature of 1600 °C for several hours and allow for rapid unloading of the crucibles to facilitate quenching. For the synthesis discussed in this paper there is no need for maintaining controlled atmosphere conditions — all experiments are performed at ambient pressure in atmospheric air. Muffle furnaces are common lab equipment and fulfill all requirements. The only drawback is the high thermal stress exerted on the refractory lining when the furnace is opened repeatedly at high temperatures for quenching purposes. Therefore the sample unloading should be done as quickly as possible. Vertical tube furnaces sometimes allow dropping the sample from inside the heating tube without thermal shock to the furnace, but the size of these samples is often quite limited. Another advantage of vertical tube furnaces is the superior temperature accuracy and stability compared to muffle furnaces. The latter often have an accuracy of only ±<ce:hsp sp="0.10"/>50 °C with a significant temperature gradient throughout the sample cavity. This is due to their bigger size and the different position of heating elements and the thermal sensor. Especially when handling samples close to the melting point, this uncertainty should be observed in order to avoid accidental melting.</ce:para>
+<ce:para id="para.0145" view="all">The grinder should have an agate or tungsten carbide liner, since steel, for example, may potentially contaminate the samples. Most types of grinder available for lab use will produce acceptable results, but a vibratory disc mill may be preferred, because it is easy to clean and produce good results even from coarsely crushed hard materials.</ce:para>
+<ce:para id="para.0150" view="all">In addition to the above mentioned equipment it may be helpful to use a molding press to compact the powdered precursor. To assure the purity of the produced substances, an X-ray powder diffraction device is recommended. Other methods to follow the progress of synthesis include the wet chemical determination of free lime content by glycerol–ethanol <ce:cross-ref refid="bib48">[48]</ce:cross-ref> or ethylene glycol extraction <ce:cross-refs refid="bib49 bib50">[49,50]</ce:cross-refs> or a DTA/TG analysis <ce:cross-ref refid="bib51">[51]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section id="section.0050" view="all">
+<ce:label>3.1.2</ce:label>
+<ce:section-title>Raw materials</ce:section-title>
+<ce:para id="para.0155" view="all">The starting point of each synthesis is commercially available lab chemicals in powder form. The purity should exceed 99% whenever possible. Typically encountered impurities below 1% will not severely influence the phase synthesis. On the other hand, attention should be paid to the fact that even small amounts of impurities might lead to an, possibly unwanted, stabilization of certain phases through substitution, cf. <ce:cross-ref refid="sec1">Section 3</ce:cross-ref> above. For example, most iron oxide Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> commercially available in bigger batch sizes will have a purity in the 97–98% range, containing a notable amount of sulfur. This impurity will lead to the formation of a calcium aluminate sulfate phase, e.g. Yeelimite Ca<ce:inf loc="post">4</ce:inf>Al<ce:inf loc="post">6</ce:inf>O<ce:inf loc="post">12</ce:inf>(SO<ce:inf loc="post">4</ce:inf>), when trying to synthesize pure C<ce:inf loc="post">4</ce:inf>AF.</ce:para>
+<ce:para id="para.0160" view="all">The main constituents used for the syntheses discussed in this paper are SiO<ce:inf loc="post">2</ce:inf> (e.g. as ground quartz), Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (corundum), CaCO<ce:inf loc="post">3</ce:inf> (calcite), Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (hematite) and CaSO<ce:inf loc="post">4</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O (gypsum). The used stabilizers are MgO, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (corundum), H<ce:inf loc="post">3</ce:inf>BO<ce:inf loc="post">3</ce:inf> (orthoboric acid), Na<ce:inf loc="post">2</ce:inf>B<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">7</ce:inf>·10H<ce:inf loc="post">2</ce:inf>O (borax) and NaNO<ce:inf loc="post">3</ce:inf>.</ce:para>
+<ce:para id="para.0165" view="all">The materials should be dry, but determination of the loss on ignition (LOI) for each substance is necessary nonetheless. The applied temperature is selected according to the analyzed material. For oxides like SiO<ce:inf loc="post">2</ce:inf> or Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> a temperature of 1050 °C is suitable. CaCO<ce:inf loc="post">3</ce:inf> will decompose to CaO at this temperature, giving a conversion factor. Often CaO is used as component in the calculation of mix designs, so this factor is needed anyway for weighing in the raw materials. Another possibility for CaCO<ce:inf loc="post">3</ce:inf> is to carry out the “LOI” at 105 °C, i.e. below its calcination temperature. In this case the theoretical loss on ignition of 43.97 wt.% derived from the stoichiometric formula is used to determine the mass of CaCO<ce:inf loc="post">3</ce:inf> necessary to yield a certain amount of CaO in the final product. Materials containing water or hydroxide groups in their formula units, like CaSO<ce:inf loc="post">4</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O, NaOH and especially the boron compounds H<ce:inf loc="post">3</ce:inf>BO<ce:inf loc="post">3</ce:inf> and Na<ce:inf loc="post">2</ce:inf>B<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">7</ce:inf>·10H<ce:inf loc="post">2</ce:inf>O, are difficult to treat. They often decompose at temperatures below the 105 °C normally used to assure the removal of all residual moisture. A thermo-gravimetric analysis of these materials may be the best way to determine any moisture in the material.</ce:para>
+<ce:para id="para.0170" view="all">The particle size should preferably correspond to a fine powder, i.e. passing a 63 µm sieve. Standard, commercially available chemicals should already have the desired fineness. The fineness of the raw materials determines both how well compacted the powder will be during sintering and the reactive surface area. Especially for SiO<ce:inf loc="post">2</ce:inf> it is beneficial to use a very small particle size. Further, amorphous SiO<ce:inf loc="post">2</ce:inf> should be preferred since this also increases reactivity during sintering. As a drawback very fine powders pose problems during weighing and homogenization, as they stick easily to tools or get carried away by air drafts. Several manufactures offer fine amorphous SiO<ce:inf loc="post">2</ce:inf>, e.g. Aerosil from Degussa.</ce:para>
+</ce:section>
+<ce:section id="section.0055" view="all">
+<ce:label>3.1.3</ce:label>
+<ce:section-title>Sintering procedure</ce:section-title>
+<ce:para id="para.0175" view="all">The suggested basic procedure for a solid state synthesis is identical for all phases. Using the LOI as a correction factor, the materials are weighed and homogenized according to the desired mix design.</ce:para>
+<ce:para id="para.0180" view="all">This homogenization is best performed in a tumble mixer or other dedicated closed mixing device. A tightly closing small grinder might also be appropriate. Another possibility is to add for example water or acetone to the powdered chemicals and mix the resulting slurry in a standard 5-l epicyclical lab mixer or kitchen blender. For any method it should be assured that all parts of the mix get homogenized by manually scraping the walls and removing possible build-up on the mixing blade itself.</ce:para>
+<ce:para id="para.0185" view="all">The dry, homogenized powder mix can be poured directly into the platinum crucibles. The slurry from the wet homogenization has first to be dried completely at 80 °C–105 °C. The resulting “cake” is broken into small pieces and placed into the crucible. At this stage, no compaction of the material in the crucibles is necessary. The top quarter of the crucible volume should be left empty, or, alternatively, a loosely fitting lid that does not hinder gas exchange with the surroundings may be placed on top of the crucibles to avoid possible projection of material.</ce:para>
+<ce:para id="para.0190" view="all">An initial calcination is performed to remove the carbon dioxide bound in the calcium carbonate that is predominant in all mixtures. This is necessary to avoid the violent CO<ce:inf loc="post">2</ce:inf>-gas evolution that would occur if the CaCO<ce:inf loc="post">3</ce:inf> were exposed directly to e.g. 1600 °C. The calcination is normally performed by placing the filled crucibles into the cold furnace, heating up to 1000 °C at 16 °C/min (i.e. roughly 1 hour to reach 1000 °C). This temperature is held for 1 h. From here two further courses are possible: either 1) cool down the furnace and remove the sample to perform a compaction of the calcined powder before proceeding or 2) increase the temperature and perform a first sintering right away. Case 1 gives a better material contact due to the compaction and should therefore initially improve the sintering progress.</ce:para>
+<ce:para id="para.0195" view="all">However, for the total procedure it is typically more effective to skip the compaction step after the calcination and proceed directly with the first sintering. In this case, a quenching will be performed at the end of the sintering interval, i.e. the crucible is removed from the furnace at sintering temperature and the material poured directly from the crucible into a bigger receptacle made from refractory or even better steel (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"/>). This helps to disseminate the heat quickly and freezes the sample in the desired modification state. The cooling may be further promoted by an air stream. When air cooling is used, the flow of air should be low enough to not carry away particles.</ce:para>
+<ce:para id="para.0200" view="all">The resulting materials subsequently need to be ground. Depending on the amount of material and the available grinder, the material may have to be crushed first. This can be done manually using a mallet or a small scale jaw crusher. A thoroughly clean device should be used to avoid contamination. Manual crushing is more time consuming but may be preferred due to its lower risk of contamination for small batch sizes. The subsequent grinding should be done to a fineness that allows the powder to become “sticky” and facilitates the compaction of the material. Powder that passes a 63 µm sieve is usually fine enough. In order to follow the synthesis progress, a small amount of this powder should be analyzed, e.g. by X-ray powder diffraction.</ce:para>
+<ce:para id="para.0205" view="all">After this, the sintering process is repeated. To facilitate the reaction in the solid state, a good compaction of the material is an advantage. The compaction can be done in several ways. The simplest approach is to pour the powder into the platinum crucible and then compact it by pressing down on it with an appropriately shaped tool. Another way is to produce pressed pellets in a molding press, which gives a much higher compaction. Best results are achieved when the treated material is slightly wet. As the cement phases react with water, it is advisable to use an organic liquid like ethanol or isopropanol. The preparation of pressed pellets is time consuming, so for larger quantities of material the use of some form of nodulizer is advisable. The compacted material should be thoroughly dried before proceeding, especially if organic liquids have been used (dry over night at 80–100 °C).</ce:para>
+<ce:para id="para.0210" view="all">With the compacted material in the crucible, the furnace should be heated up to the specific sintering temperature and maintained at this temperature for a specific time. Quenching should be performed straight after the sintering as described above. Sometimes the material may stick to the crucible, especially for the phases C<ce:inf loc="post">3</ce:inf>A and C<ce:inf loc="post">4</ce:inf>AF. In this case, the cooling of the sample can be promoted by placing the crucible on a steel surface and blowing compressed air onto the outside of the crucible with. Blowing air directly on the sample should be avoided in this case, as it may result in cracking of sintered nodules and spalling of material clinging to the crucible surface and thereby projection of hot material out of the crucible.</ce:para>
+<ce:para id="para.0215" view="all">After cooling to room temperature, the material is crushed and ground as mentioned above. Should the X-ray diffraction analysis show no other phases than those desired, the synthesis is finished. In general, two to five sintering cycles are needed to achieve a sample with phase purity above 99 wt.%.</ce:para>
+</ce:section>
+<ce:section id="section.0060" view="all">
+<ce:label>3.1.4</ce:label>
+<ce:section-title>Grinding and storage</ce:section-title>
+<ce:para id="para.0220" view="all">After satisfactorily achieving purity it may be necessary to grind the sample to a desired fineness. Special attention should be paid to this, as it will influence the reactivity of the product.</ce:para>
+<ce:para id="para.0225" view="all">In the cement industry, the specific surface area is usually determined by Blaine's method <ce:cross-ref refid="bib52">[52]</ce:cross-ref>. This is relatively rapid, so during grinding, intermittent samples can be taken and analyzed and the grinding process can be stopped as soon as the desired fineness has been reached. The resulting powders may be cross-checked by other methods like BET <ce:cross-ref refid="bib53">[53]</ce:cross-ref>, but laser granulometry <ce:cross-ref refid="bib54">[54]</ce:cross-ref> is preferable as it can give the full particle size distribution rather than just an average value.</ce:para>
+<ce:para id="para.0230" view="all">For calcium aluminate phases, the final grinding is also a possibility for intimate mixing with a sulfate carrier like gypsum. The co-grinding of both phases resembles the actual industrial process <ce:cross-ref refid="bib1">[1]</ce:cross-ref> p.84, and the particle size as well as the homogeneity of the resulting powder plays an important role in the reactivity of the C<ce:inf loc="post">3</ce:inf>A-sulphate system.</ce:para>
+<ce:para id="para.0235" view="all">The amount of sulfate to be added to the calcium aluminate should be decided based on the intended use of the mix. To allow complete conversion to monosulfate requires an addition of 63.7 wt.%. For full conversion of the calcium aluminate to ettringite, addition of 191.2 wt.% of gypsum to the C<ce:inf loc="post">3</ce:inf>A is necessary.</ce:para>
+<ce:para id="para.0240" view="all">In general, all cement phases react with moisture and should be stored in a dry atmosphere. Normally this is achieved by storage in a desiccator over silica gel. If gypsum is already mixed with cement phases, this may be an additional problem. Using thermodynamic data from <ce:cross-ref refid="bib56">[56]</ce:cross-ref>, the relative humidity of air in equilibrium with gypsum is calculated <ce:cross-ref refid="bib57">[57]</ce:cross-ref> as being 27%. Experimental data from <ce:cross-ref refid="bib58">[58]</ce:cross-ref> show that practically no hydration of pure phases will occur at levels of relative humidity below 60%, so based on these data no hydration effects of an addition of gypsum to pure phases is to be expected even during storage for several months. However, gypsum mixed with clinker is known to provide enough moisture to alter samples (<ce:cross-ref refid="bib6">[6]</ce:cross-ref> p.84, <ce:cross-ref refid="bib55">[55]</ce:cross-ref>), probably by a small part of gypsum converting to the hemihydrate form in presence of a strongly hygroscopic phase like C<ce:inf loc="post">3</ce:inf>A, thereby releasing some water.</ce:para>
+<ce:para id="para.0245" view="all">Sealed storage can for example be established by placing the sample into evacuated, hot sealed, aluminized polyethylene bags. The sealed bags should be checked periodically for repressurization. In this case, repacking is necessary. Additionally, the storage of the sealed bags over silica gel could minimize the effects of failing vacuum.</ce:para>
+</ce:section>
+<ce:section id="section.0065" view="all">
+<ce:label>3.1.5</ce:label>
+<ce:section-title>Material analysis</ce:section-title>
+<ce:para id="para.0250" view="all">The method of choice to quickly follow the progress of synthesis is X-ray powder diffraction (XRD) analysis. It directly shows impurities and residual raw materials in the product and is therefore more versatile in determining the progress of sintering as compared to another popular method in cement industry, the free lime analysis. XRD makes it easy to check e.g. if the correct polymorph of the desired phase is produced, if additional, non-wanted phases are being formed or if there are unreacted raw materials left in the sample (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"/>). With modern equipment, XRD analysis is a very fast and simple method, able to produce results in 20–30 min.</ce:para>
+<ce:para id="para.0255" view="all">As a drawback, the detection limit for each phase can be relatively high compared to other methods. Depending on the sample it can range between 1 and 2 wt.% in the case of non-overlapping peaks <ce:cross-ref refid="bib59">[59]</ce:cross-ref>. If the peaks of a low-quantity phase are severely overlapped by those of a phase of higher quantity, the detection limit can rise significantly. In order to reliably detect and quantify e.g. a small CaO impurity below a few weight percent in a pure phase sample, the use of another method of quantification, e.g. wet chemical ethylene glycol extraction, should be considered.</ce:para>
+<ce:para id="para.0260" view="all">Nuclear Magnetic Resonance (NMR) is another possible technique to characterize the final synthesis products <ce:cross-ref refid="bib60">[60]</ce:cross-ref>. Whereas X-ray diffraction is based on the ordered position of atoms repeated throughout the whole material, solid state nuclear magnetic resonance (NMR) is based on the interaction of certain nuclei (<ce:sup loc="post">27</ce:sup>Al, <ce:sup loc="pre">29</ce:sup>Si) with high frequency electromagnetic pulses in a constant magnetic field. The interaction allows to distinguish different chemical neighborhoods (i.e. coordination) for the nucleus under investigation and to quantify its occurrence in the different coordination states, but due to its more complex experimental setup it cannot be considered an ad-hoc method. However, especially in the investigation of hydration processes, the NMR method plays an important role <ce:cross-ref refid="bib61">[61]</ce:cross-ref>. A difficulty of the NMR method is its liability to interference from iron atoms <ce:cross-ref refid="bib13">[13]</ce:cross-ref>, which are always present in a Portland cement. Also, only some types of atoms (like Al and Si) are more easily measurable because their predominantly occurring isotopes can be detected by the NMR technique.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="section.0070" view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>C<ce:inf loc="post">3</ce:inf>S</ce:section-title>
+<ce:para id="para.0265" view="all">Both triclinic and monoclinic forms are sintered in the same conditions, they only differ in the composition of the raw material mix. In both cases the stoichiometric ratio of CaO to SiO<ce:inf loc="post">2</ce:inf> is 3:1, but for the monoclinic form, the raw material mix also contains small amounts of MgO and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> to stabilize this crystalline structure (see <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>
+<ce:float-anchor refid="tbl4"/>). The magnesium atoms substitute for calcium in the structure, whereas the aluminum replaces both calcium and silicon atoms in equal proportions. The influence of these ions on the structure is discussed in detail in <ce:cross-ref refid="bib62">[62]</ce:cross-ref>.</ce:para>
+<ce:para id="para.0270" view="all">The sintering protocol for both phases is identical: 2 h of heating ramp to 1600 °C, then holding there for 2 h. Subsequently the sample is quenched.</ce:para>
+</ce:section>
+<ce:section id="section.0075" view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>C<ce:inf loc="post">2</ce:inf>S</ce:section-title>
+<ce:para id="para.0275" view="all">Both the α'- and β-modifications of C<ce:inf loc="post">2</ce:inf>S are sintered in the same conditions, but their composition differ in the amount and type of stabilizer used. Both mixtures are based on the stoichiometric mix of 2 mol CaO and 1 mol SiO<ce:inf loc="post">2</ce:inf>, but the β-form is stabilized with B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (added in the form of H<ce:inf loc="post">3</ce:inf>BO<ce:inf loc="post">3</ce:inf> to the stoichiometric mix).</ce:para>
+<ce:para id="para.0280" view="all">The α'-form is stabilized by B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Na<ce:inf loc="post">2</ce:inf>O in the form of Na<ce:inf loc="post">2</ce:inf>B<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">7</ce:inf>·10H<ce:inf loc="post">2</ce:inf>O added to the stoichiometric mix (see <ce:cross-ref refid="tbl5">Table 5</ce:cross-ref>
+<ce:float-anchor refid="tbl5"/>). The resulting phase is believed to be the α'-form based on X-ray diffraction results, because several patterns for α'-structures fit most of the peaks. But as no available pattern produced a perfect match, some uncertainty about the actual structure produced by this mix remains.</ce:para>
+<ce:para id="para.0285" view="all">In order to reduce the amount of foreign ions in the final product, H<ce:inf loc="post">3</ce:inf>BO<ce:inf loc="post">3</ce:inf> was used as stabilizer instead of the more potent Na<ce:inf loc="post">2</ce:inf>B<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">7</ce:inf>·10H<ce:inf loc="post">2</ce:inf>O for the stabilization of β-C<ce:inf loc="post">2</ce:inf>S. The effectiveness of B<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">2</ce:inf> with no Na<ce:inf loc="post">2</ce:inf>O as a stabilizer for the α'-form remains to be evaluated by further research.</ce:para>
+<ce:para id="para.0290" view="all">The sintering protocol is 1 h 45 min heating ramp to 1450 °C, then holding for 4 h. Subsequently the sample is quenched.</ce:para>
+</ce:section>
+<ce:section id="section.0080" view="all">
+<ce:label>3.4</ce:label>
+<ce:section-title>C<ce:inf loc="post">3</ce:inf>A</ce:section-title>
+<ce:para id="para.0295" view="all">The stoichiometric mix of 3 mol CaO and 1 mol of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> yields the cubic modification of C<ce:inf loc="post">3</ce:inf>A. Stabilization with sodium (added in the form of sodium nitrate) is necessary to acquire the orthorhombic form. The content of Na<ce:inf loc="post">2</ce:inf>O in the raw mix for orthorhombic C<ce:inf loc="post">3</ce:inf>A specified in <ce:cross-ref refid="tbl6">Table 6</ce:cross-ref>
+<ce:float-anchor refid="tbl6"/> is equal to 10.57 wt.% — well above the 3.7–4.6 wt.% Na<ce:inf loc="post">2</ce:inf>O given in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref> for the stabilization of the orthorhombic form. This is due to the relative high volatility of sodium at high temperatures and the resulting loss during sintering. As this loss can be influenced by differences in experimental conditions (size of crucible, size and ventilation of furnace, etc.), it might be necessary to adjust the amount of NaNO<ce:inf loc="post">3</ce:inf> in the mix to suit the different evaporation rates. If cubic C<ce:inf loc="post">3</ce:inf>A is detected, the amount should be increased slightly for further experiments. The presence of monoclinic C<ce:inf loc="post">3</ce:inf>A on the other hand requires a slight reduction in sodium content.</ce:para>
+<ce:para id="para.0300" view="all">The substitution reaction works by Na<ce:sup loc="post">+</ce:sup> replacing Ca<ce:sup loc="post">2+</ce:sup> and another Na<ce:sup loc="post">+</ce:sup>-ion occupying an otherwise vacant site in the centre of rings formed by Al<ce:inf loc="post">6</ce:inf>O<ce:inf loc="post">18</ce:inf>
+<ce:cross-ref refid="bib63">[63]</ce:cross-ref>. According to <ce:cross-ref refid="bib64">[64]</ce:cross-ref>, this gives a solid solution with the general formula Na<ce:inf loc="post">2<ce:italic>x</ce:italic>
+</ce:inf>Ca<ce:inf loc="post">3<ce:hsp sp="0.12"/>–<ce:hsp sp="0.12"/>
+<ce:italic>x</ce:italic>
+</ce:inf>Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">6</ce:inf>.</ce:para>
+<ce:para id="para.0305" view="all">The sintering protocol is 1 h 45 min heating to reach 1450 °C, then holding for 3 h. Subsequently the sample is quenched. For the samples containing sodium nitrate a cover should be used to reduce the evaporation of sodium.</ce:para>
+</ce:section>
+<ce:section id="section.0085" view="all">
+<ce:label>3.5</ce:label>
+<ce:section-title>C<ce:inf loc="post">4</ce:inf>AF</ce:section-title>
+<ce:para id="para.0310" view="all">The so-called ferrite phase can have a wide composition range in real clinkers. As examples, both the stoichiometric, idealized compound C<ce:inf loc="post">4</ce:inf>AF (Brownmillerite) is given here as well as an iron rich variety. The idealized mix contains 4 mol of CaO, 1 mol of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and 1 mol of Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. The iron rich mix has 4 mol of CaO, 0.5 mol of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and 1.5 mol of Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. See <ce:cross-ref refid="tbl7">Table 7</ce:cross-ref>
+<ce:float-anchor refid="tbl7"/>.</ce:para>
+<ce:para id="para.0315" view="all">The sintering protocol is 1 h 30 min heating to reach 1300 °C, then holding for 2 h. If the sample shows severe melting or sticks to the surface of the crucible, sintering at 1250 °C for 3.5 h should be tried. Subsequently the sample is quenched.</ce:para>
+</ce:section>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para id="para.0320" view="all">The exact origin of the sintering procedure described in this paper is unknown to the authors. It is based on procedures generally used for solid state phases synthesis. Though the contents of this paper are entirely the responsibility of the authors, several comments on the procedure were given by F.P. Glasser during the post-doc stay at the University of Aberdeen of the second author in the mid 1990s. This is gratefully acknowledged.</ce:para>
+<ce:para id="para.0325" view="all">We would also like to thank the members of the Lafarge Research Lab for their help and expertise in preparing and testing the pure phase samples.</ce:para>
+</ce:acknowledgment>
+</body>
+<tail view="all">
+<ce:bibliography id="bibliography.0010" view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec id="bibliography-sec.0010">
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.F.W.</ce:given-name>
+<ce:surname>Taylor</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Cement Chemistry</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>2nd ed.</sb:edition>
+<sb:date>1997</sb:date>
+<sb:publisher>
+<sb:name>Thomas Telford</sb:name>
+<sb:location>London</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.L.</ce:given-name>
+<ce:surname>Day</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.S.</ce:given-name>
+<ce:surname>Shepherd</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The lime-silica series of minerals</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am. J. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4th series</sb:issue-nr>
+<sb:date>1906</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>265</sb:first-page>
+<sb:last-page>302</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Gutt</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Manufacture of Portland cement from phosphate raw materials</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Building Research Station Paper CP90/68</sb:maintitle>
+</sb:title>
+<sb:date>1968</sb:date>
+<sb:publisher>
+<sb:name>HMSO</sb:name>
+<sb:location>London</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>5</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.I.</ce:given-name>
+<ce:surname>Ol'shanskii</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Equilibrium of two immiscible liquids in silicate systems of alkali-earth metals</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Doklady Akad. Nauk SSSR</sb:maintitle>
+</sb:title>
+<sb:volume-nr>76</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>1951</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>93</sb:first-page>
+<sb:last-page>96</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.A.</ce:given-name>
+<ce:surname>Rankin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.E.</ce:given-name>
+<ce:surname>Wright</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The ternary system CaO–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–SiO<ce:inf loc="post">2</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am. J. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4th series</sb:issue-nr>
+<sb:date>1915</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>79</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Welch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Gutt</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Tricalcium silicate and its stability within the system CaO–SiO<ce:inf loc="post">2</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:date>1959</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>11</sb:first-page>
+<sb:last-page>15</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Regourd</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Chrystal chemistry of Portland cement phases (Chapter 3)</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Barnes</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Structure and Performance of Cements</sb:maintitle>
+</sb:title>
+<sb:date>1984</sb:date>
+<sb:publisher>
+<sb:name>Applied Science</sb:name>
+<sb:location>Barking (UK)</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>109</sb:first-page>
+<sb:last-page>138</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Diouri</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Boukhari</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Aride</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Puertas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Vazquez</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Stable Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf> solid solution containing manganese and phosphorus</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>8</sb:issue-nr>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1203</sb:first-page>
+<sb:last-page>1212</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Hahn</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Eysel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Woermann</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The crystal chemistry of tricalcium silicate solid solutions</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:book-series>
+<sb:series>
+<sb:title>
+<sb:maintitle>5th ISCC</sb:maintitle>
+</sb:title>
+<sb:volume-nr>vol. 1</sb:volume-nr>
+</sb:series>
+</sb:book-series>
+<sb:date>1969</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>61</sb:first-page>
+<sb:last-page>73</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Mohan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.P.</ce:given-name>
+<ce:surname>Glasser</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Thermal-decomposition of Ca<ce:inf loc="post">3</ce:inf>SiO− at temperatures below 1250 degrees — 2. Influence of Mg, Fe, Al and Na oxides on decomposition</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>1977</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>269</sb:first-page>
+<sb:last-page>276</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Nurse</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The effect of some minor components on cement setting and hardening</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>7th conference on the Silicate Industry, Budapest</sb:maintitle>
+</sb:title>
+<sb:date>1963</sb:date>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Ludwig</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Wolter</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Formation and stability of C<ce:inf loc="post">3</ce:inf>S and alites</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>9th Intern. congress on the chemistry of cement, New Delhi, Vol. 2</sb:maintitle>
+</sb:title>
+<sb:date>1992</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>99</sb:first-page>
+<sb:last-page>103</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Skibsted</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Jakobsen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Hall</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Quantitative aspects of Al-27 MAS NMR of calcium aluminoferrites</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adv. Cem. Based Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>57</sb:first-page>
+<sb:last-page>59</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:surname>JCPDS</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Powder Diffraction File™ (PDF)</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>2007</sb:date>
+<sb:publisher>
+<sb:name>JCPDS — International Centre for Diffraction Data</sb:name>
+<sb:location>Newtown Square (USA)</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:surname>FIZ</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Inorganic crystal structures database (ICSD)</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>2007</sb:date>
+<sb:publisher>
+<sb:name>FIZ Karlsruhe</sb:name>
+<sb:location>Karlsruhe (Germany)</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.M.</ce:given-name>
+<ce:surname>Rietveld</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>A profile refinement method for nuclear and magnetic structures</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Crystallogr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>2</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1969</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>65</sb:first-page>
+<sb:last-page>71</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>Young</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>The Rietveld Method</sb:maintitle>
+</sb:title>
+<sb:date>1995</sb:date>
+<sb:publisher>
+<sb:name>Oxford University Press</sb:name>
+<sb:location>Oxford</sb:location>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Regourd</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Determination of the lattices of microscopic crystals. Application to the different forms of tricalcium silicate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Bull. Soc. Fr. Mineral. Cristallogr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>87</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1964</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>241</sb:first-page>
+<sb:last-page>272</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Nishi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Takeuchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Maki</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Tricalcium silicate Ca<ce:inf loc="post">3</ce:inf>O[SiO<ce:inf loc="post">4</ce:inf>]: the monoclinic superstructure</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Kristallogr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>172</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>297</sb:first-page>
+<sb:last-page>314</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.G.</ce:given-name>
+<ce:surname>Mumme</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal-structure of tricalcium silicate from a Portland-cement clinker and its application to quantitative XRD analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Neues Jahrb. Mineral. Monatsh.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>4</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>145</sb:first-page>
+<sb:last-page>160</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Della Giusta</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Ottonello</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Secco</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Precision estimates of interatomic distances using site occupancies, ionization potentials and polarizability in Pbnm silicate olivines</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Crystallogr. B: Struct. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>46</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>160</sb:first-page>
+<sb:last-page>165</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.H.</ce:given-name>
+<ce:surname>Jost</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Ziemer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Seydel</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Redetermination of the structure of ß-dicalcium silicate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Crystallogr. B: Struct. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:date>1977</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1696</sb:first-page>
+<sb:last-page>1700</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Regourd</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Bigaré</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Forest</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Guinier</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:book-series>
+<sb:series>
+<sb:title>
+<sb:maintitle>5th ISCC</sb:maintitle>
+</sb:title>
+<sb:volume-nr>vol. 1</sb:volume-nr>
+</sb:series>
+</sb:book-series>
+<sb:date>1969</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>44</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib24">
+<ce:label>[24]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:title>
+<sb:maintitle>Reference [14]</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:surname>Smith</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>ICDD Grant-in-Aid</sb:maintitle>
+</sb:title>
+<sb:date>1973</sb:date>
+<sb:publisher>
+<sb:name>Penn State University</sb:name>
+<sb:location>University Park (USA)</sb:location>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib25">
+<ce:label>[25]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:title>
+<sb:maintitle>Reference [14]</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Wong-Ng</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>McMurdie</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Paretzkin</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Hubbard</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Dragoo</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>ICDD Grant-in-Aid</sb:maintitle>
+</sb:title>
+<sb:date>1987</sb:date>
+<sb:publisher>
+<sb:name>NBS</sb:name>
+<sb:location>(USA)</sb:location>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib26">
+<ce:label>[26]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.C.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.P.</ce:given-name>
+<ce:surname>Glasser</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Powder diffraction data for compounds in the series Na<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>(Ca<ce:inf loc="post">3±<ce:italic>x</ce:italic>
+</ce:inf>Na<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>)Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">6</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Crystallogr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:date>1979</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>407</sb:first-page>
+<sb:last-page>410</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib27">
+<ce:label>[27]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.A.</ce:given-name>
+<ce:surname>Colville</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Geller</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Cystal-structures of Ca<ce:inf loc="post">2</ce:inf>Fe<ce:inf loc="post">1.43</ce:inf>Al<ce:inf loc="post">0.57</ce:inf>O<ce:inf loc="post">5</ce:inf> and Ca<ce:inf loc="post">2</ce:inf>Fe<ce:inf loc="post">1.28</ce:inf>Al<ce:inf loc="post">0.72</ce:inf>O<ce:inf loc="post">5</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Crystallogr. B: Struct. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>28</sb:volume-nr>
+</sb:series>
+<sb:date>1972</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3196</sb:first-page>
+<sb:last-page>3260</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib28">
+<ce:label>[28]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.K.</ce:given-name>
+<ce:surname>Agrawal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Cheng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.R.</ce:given-name>
+<ce:surname>Silsbee</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Formation and hydration of C<ce:inf loc="post">3</ce:inf>S prepared by microwave and conventional sintering</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>29</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1611</sb:first-page>
+<sb:last-page>1617</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib29">
+<ce:label>[29]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Stephan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Wilhelm</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Synthesis of pure cementitious phases by sol-gel process as precursor</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Anorg. Allg. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>630</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1477</sb:first-page>
+<sb:last-page>1483</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib30">
+<ce:label>[30]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.Y.</ce:given-name>
+<ce:surname>Benarchid</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Diouri</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Boukhari</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Aride</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Elkhadiri</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Hydration of iron-phosphorus doped dicalcium silicate phase</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>94</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>190</sb:first-page>
+<sb:last-page>194</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib31">
+<ce:label>[31]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.-H.</ce:given-name>
+<ce:surname>Chae</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.-C.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.-H.</ce:given-name>
+<ce:surname>Choi</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Early hydration of modified belite cement prepared by adding borax</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Korean J. Ceram.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>2</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>147</sb:first-page>
+<sb:last-page>151</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib32">
+<ce:label>[32]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Nurse</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Welch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Gutt</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>High temperature phase equilibria in the system dicalcium silicate–tricalcium phosphate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Chem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>220</sb:volume-nr>
+</sb:series>
+<sb:date>1959</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1077</sb:first-page>
+<sb:last-page>1083</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib33">
+<ce:label>[33]</ce:label>
+<ce:other-ref>
+<ce:textref>E.P. Flint and L.S. Wells, The system lime-boric oxide-silica, in : N.B.o.S. US Department of Commerce (Ed.), Journal of Research of the National Bureau of Standards, 1936, p. 727.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib34">
+<ce:label>[34]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.G.</ce:given-name>
+<ce:surname>Fletcher</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.P.</ce:given-name>
+<ce:surname>Glasser</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Phase relations in the system CaO-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-SiO<ce:inf loc="post">2</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>28</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2677</sb:first-page>
+<sb:last-page>2686</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib35">
+<ce:label>[35]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Suzuki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Hira</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Study on the system of 2CaO⁎SiO2-3CaO⁎B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Yogyo-Kyokai-Shi</sb:maintitle>
+</sb:title>
+<sb:volume-nr>78</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>6</sb:issue-nr>
+<sb:date>1970</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>17</sb:first-page>
+<sb:last-page>22</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib36">
+<ce:label>[36]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.-K.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Phase transformation and hydration of dicalcium silicate containing stabilizers</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Ceram. Soc. Jpn.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>109</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>380</sb:first-page>
+<sb:last-page>385</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib37">
+<ce:label>[37]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.-H.</ce:given-name>
+<ce:surname>Hong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Young</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Hydration kinetics and phase stability of dicalcium silicate synthesized by the Pechini process</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>82</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7</sb:issue-nr>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1681</sb:first-page>
+<sb:last-page>1686</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib38">
+<ce:label>[38]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.C.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.M.</ce:given-name>
+<ce:surname>Banda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.P.</ce:given-name>
+<ce:surname>Glasser</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Substitution of Na, Fe and Si in tricalcium aluminate and the polymorphism of solid solutions</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1982</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>237</sb:first-page>
+<sb:last-page>246</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib39">
+<ce:label>[39]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.W.W.</ce:given-name>
+<ce:surname>Pollitt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.W.</ce:given-name>
+<ce:surname>Brown</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:book-series>
+<sb:series>
+<sb:title>
+<sb:maintitle>5th ISCC</sb:maintitle>
+</sb:title>
+<sb:volume-nr>vol. 1</sb:volume-nr>
+</sb:series>
+</sb:book-series>
+<sb:date>1969</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>322</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib40">
+<ce:label>[40]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Maki</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Nature of the prismatic dark interstitial phase in Portland cement clinker</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>3</sb:volume-nr>
+</sb:series>
+<sb:date>1973</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>295</sb:first-page>
+<sb:last-page>313</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib41">
+<ce:label>[41]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Takeuchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Nishi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Maki</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal-chemical characterization of the 3CaO–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–Na<ce:inf loc="post">2</ce:inf>O solid-solution series</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Zeit. Krist</sb:maintitle>
+</sb:title>
+<sb:volume-nr>152</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3–4</sb:issue-nr>
+<sb:date>1980</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>259</sb:first-page>
+<sb:last-page>307</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib42">
+<ce:label>[42]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Neubauer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Mayerhofer</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Solid solution series of ferrate and aluminate phases in OPC: Part I. The ferrate phase</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>22nd International Conference on Cement Microscopy, Montreal (Canada)</sb:maintitle>
+</sb:title>
+<sb:date>2000</sb:date>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib43">
+<ce:label>[43]</ce:label>
+<ce:other-ref>
+<ce:textref>R.-I. Kondo, S. Goto, M. Fukuhara, in: Review of the 32nd General Meeting, Cement Association of Japan, Tokio, 1978, p. 38.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib44">
+<ce:label>[44]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.B.</ce:given-name>
+<ce:surname>Marinho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.P.</ce:given-name>
+<ce:surname>Glasser</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Polymorphism and phase-changes in the ferrite phase of cements induced by titanium substitution</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>360</sb:first-page>
+<sb:last-page>368</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib45">
+<ce:label>[45]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.B.</ce:given-name>
+<ce:surname>Bergstrom</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Hall</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.L.</ce:given-name>
+<ce:surname>Scrivener</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Interstitial material in oil-well cements: Evidence from X-ray microanalysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adv. Cem. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>4</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>141</sb:first-page>
+<sb:last-page>147</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib46">
+<ce:label>[46]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Hall</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.L.</ce:given-name>
+<ce:surname>Scrivener</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Oilwell cement clinkers — X-ray microanalysis and phase composition</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adv. Cem. Based Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>28</sb:first-page>
+<sb:last-page>38</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib47">
+<ce:label>[47]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.J.</ce:given-name>
+<ce:surname>Majumdar</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The ferrite phase in cements</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Trans. Br. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>64</sb:volume-nr>
+</sb:series>
+<sb:date>1965</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>105</sb:first-page>
+<sb:last-page>109</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib48">
+<ce:label>[48]</ce:label>
+<sb:reference>
+<sb:host>
+<sb:book>
+<sb:title>
+<sb:maintitle>ASTM standard C114-07 : Standard Test Methods for Chemical Analysis of Hydraulic Cement</sb:maintitle>
+</sb:title>
+<sb:date>2007</sb:date>
+<sb:publisher>
+<sb:name>ASTM International</sb:name>
+<sb:location>West Conshohocken (USA)</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib49">
+<ce:label>[49]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.P.</ce:given-name>
+<ce:surname>Javellana</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Jawed</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Extraction of free lime in Portland cement and clinker by ethylene glycol</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>R.F.</ce:given-name>
+<ce:surname>Gebhardt</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Rapid Methods for Chemical Analysis of Hydraulic Cement</sb:maintitle>
+</sb:title>
+<sb:date>1988</sb:date>
+<sb:publisher>
+<sb:name>ASTM International</sb:name>
+<sb:location>West Conshohocken (USA)</sb:location>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib50">
+<ce:label>[50]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:title>
+<sb:maintitle>Lafarge chemical method no. 42: Free CaO</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>R.F.</ce:given-name>
+<ce:surname>Gebhardt</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Rapid Methods for Chemical Analysis of Hydraulic Cement</sb:maintitle>
+</sb:title>
+<sb:date>1988</sb:date>
+<sb:publisher>
+<sb:name>ASTM International</sb:name>
+<sb:location>West Conshohocken (USA)</sb:location>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib51">
+<ce:label>[51]</ce:label>
+<sb:reference>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>V.S.</ce:given-name>
+<ce:surname>Ramachandran</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Beaudoin</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Handbook of Analytical Techniques in Concrete Science and Technology: Principles, Techniques, and Applications</sb:maintitle>
+</sb:title>
+<sb:date>2001</sb:date>
+<sb:publisher>
+<sb:name>Noyes Publications</sb:name>
+<sb:location>Norwich (USA)</sb:location>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib52">
+<ce:label>[52]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.P.</ce:given-name>
+<ce:surname>Lees</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Surface area measurements of cements by air permeability methods</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>World Cement</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:date>1982</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>350</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib53">
+<ce:label>[53]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Brunauer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.H.</ce:given-name>
+<ce:surname>Emmett</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Teller</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Adsorption of gases in multimolecular layers</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>60</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1938</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>309</sb:first-page>
+<sb:last-page>319</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib54">
+<ce:label>[54]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.L.</ce:given-name>
+<ce:surname>Weiss</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.N.</ce:given-name>
+<ce:surname>Frock</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Rapid analysis of particle size distributions by laser light scattering</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Powder Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1976</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>287</sb:first-page>
+<sb:last-page>293</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib55">
+<ce:label>[55]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.W.</ce:given-name>
+<ce:surname>Locher</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Influence of burning condition on clinker characteristics</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>World Cem. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1980</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>67</sb:first-page>
+<sb:last-page>73</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib56">
+<ce:label>[56]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.I.</ce:given-name>
+<ce:surname>Babushkin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.M.</ce:given-name>
+<ce:surname>Matveyev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.P.</ce:given-name>
+<ce:surname>Mchedlov-Petrossyan</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Thermodynamics of Silicates</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>4th ed.</sb:edition>
+<sb:date>1985</sb:date>
+<sb:publisher>
+<sb:name>Springer-Verlag</sb:name>
+<sb:location>Berlin</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib57">
+<ce:label>[57]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>O.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Thermodynamic limitation of self desiccation</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>25</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>157</sb:first-page>
+<sb:last-page>164</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib58">
+<ce:label>[58]</ce:label>
+<ce:other-ref>
+<ce:textref>O.M. Jensen, P.F. Hansen, E.E. Lachowski, F.P. Glasser, Clinker mineral hydration at reduced relative humidities, Cem. Concr. Res. 29 (9) (1999) 1505–1512.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib59">
+<ce:label>[59]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.P.</ce:given-name>
+<ce:surname>Klug</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.E.</ce:given-name>
+<ce:surname>Alexander</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>X-ray diffraction procedures</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>2nd ed.</sb:edition>
+<sb:date>1959</sb:date>
+<sb:publisher>
+<sb:name>John Wiley and Sons</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib60">
+<ce:label>[60]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Skibsted</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Jakobsen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Hall</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Quantification of calcium silicate phases in Portland cements by Si-29 MAS NMR spectroscopy</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Chem. Soc.-Faraday Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>91</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>24</sb:issue-nr>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>4423</sb:first-page>
+<sb:last-page>4430</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib61">
+<ce:label>[61]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.D.</ce:given-name>
+<ce:surname>Andersen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Jakobsen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Skibsted</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Incorporation of aluminum in the calcium silicate hydrate (C–S–H) of hydrated Portland cements: a high-field <ce:inf loc="post">27</ce:inf>Al and <ce:inf loc="post">29</ce:inf>Si MAS NMR investigation</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Inorg. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7</sb:issue-nr>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2280</sb:first-page>
+<sb:last-page>2287</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib62">
+<ce:label>[62]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Á.G.</ce:given-name>
+<ce:surname>De la Torre</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.N.</ce:given-name>
+<ce:surname>De Vera</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.J.M.</ce:given-name>
+<ce:surname>Cuberos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.G.</ce:given-name>
+<ce:surname>Aranda</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal structure of low magnesium-content alite: application to Rietveld quantitative phase analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>38</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>11</sb:issue-nr>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1261</sb:first-page>
+<sb:last-page>1269</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib63">
+<ce:label>[63]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Nishi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Takeuchi</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The A1<ce:inf loc="post">6</ce:inf>O<ce:inf loc="post">18</ce:inf> rings of tetrahedra in the structure of Ca<ce:inf loc="post">8.5</ce:inf>NaAl<ce:inf loc="post">6</ce:inf>O<ce:inf loc="post">18</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Crystallogr. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>31</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>1975</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1169</sb:first-page>
+<sb:last-page>1173</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib64">
+<ce:label>[64]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Stephan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Wistuba</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal structure refinement and hydration behaviour of doped tricalcium aluminate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>36</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>11</sb:issue-nr>
+<sb:date>2006</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2011</sb:first-page>
+<sb:last-page>2020</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

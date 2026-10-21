@@ -1,0 +1,3439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S000888461730981X</prism:url><dc:identifier>doi:10.1016/j.cemconres.2018.03.019</dc:identifier><eid>1-s2.0-S000888461730981X</eid><prism:doi>10.1016/j.cemconres.2018.03.019</prism:doi><pii>S0008-8846(17)30981-X</pii><dc:title>Laboratory synthesis of C3S on the kilogram scale </dc:title><prism:publicationName>Cement and Concrete Research</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>00088846</prism:issn><prism:volume>108</prism:volume><prism:startingPage>201</prism:startingPage><prism:endingPage>207</prism:endingPage><prism:pageRange>201-207</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-06-30</prism:coverDate><prism:coverDisplayDate>June 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Li, Xuerun</dc:creator><dc:creator>Ouzia, Alexandre</dc:creator><dc:creator>Scrivener, Karen</dc:creator><dc:description>
+                  An optimized process using amorphous silica for efficient C3S synthesis in the laboratory is reported: an estimated production capacity of ~2 kg C3S within a week is possible. Amorphous silica (fumed silica) was used as raw material and inter-ground with CaCO3 and water for C3S synthesis, the dried raw mixture has sufficient green strength to be self-supporting, which allows large cylinders to be placed in Platinum crucibles. The mineral composition of the sintered sample was quantified with X-ray powder diffraction using Rietveld analysis. C3S with &lt;0.4 wt% of free CaO was sintered at a shortened residence time (≤5 h) when temperatures ≥1550 °C. The efficiency of the C3S synthesis was dramatically enhanced because of 1) increased burnability of the raw mix due to amorphous silica and very fine CaCO3 particles after grinding, 2) simplified sample preparation process avoiding pressing discs and 3) improved capacities of the crucible and furnace.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>C3S</dcterms:subject><dcterms:subject>Synthesis</dcterms:subject><dcterms:subject>Amorphous silica</dcterms:subject><dcterms:subject>Large scale</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S000888461730981X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S000888461730981X" rel="scidir"/></coredata><objects><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="9768" type="IMAGE-THUMBNAIL" width="204">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr1.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="155" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="27345" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr2.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="133" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="6976" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr3.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="87" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="16875" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr4.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="127" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="23306" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr5.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="8471" type="IMAGE-THUMBNAIL" width="208">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr6.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="96" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="8195" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr7.sml?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="162" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="10986" type="IMAGE-THUMBNAIL" width="72">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="310" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="27416" type="IMAGE-DOWNSAMPLED" width="386">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="277" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="36253" type="IMAGE-DOWNSAMPLED" width="391">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="294" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="29567" type="IMAGE-DOWNSAMPLED" width="485">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="155" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="22882" type="IMAGE-DOWNSAMPLED" width="391">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="227" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="33937" type="IMAGE-DOWNSAMPLED" width="391">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="304" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="36520" type="IMAGE-DOWNSAMPLED" width="386">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="208" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="31004" type="IMAGE-DOWNSAMPLED" width="472">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="standard" height="882" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="119894" type="IMAGE-DOWNSAMPLED" width="391">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="824" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="222991" type="IMAGE-HIGH-RES" width="1026">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="736" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="164282" type="IMAGE-HIGH-RES" width="1039">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="782" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="121080" type="IMAGE-HIGH-RES" width="1289">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="411" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="105347" type="IMAGE-HIGH-RES" width="1039">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="602" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="158251" type="IMAGE-HIGH-RES" width="1039">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="809" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="152767" type="IMAGE-HIGH-RES" width="1026">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="920" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="245752" type="IMAGE-HIGH-RES" width="2089">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="high" height="2344" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="481881" type="IMAGE-HIGH-RES" width="1039">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object category="standard" mimetype="video/x-flv" multimediatype="Flash Video file" ref="mmc1" size="112321550" type="VIDEO-FLASH">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-mmc1.flv?httpAccept=%2A%2F%2A</object><object category="standard" mimetype="video/mp4" multimediatype="MPEG-4 movie" ref="mmc1" size="210266659" type="VIDEO">https://api.elsevier.com/content/object/eid/1-s2.0-S000888461730981X-mmc1.mp4?httpAccept=%2A%2F%2A</object></objects><scopus-id>85045391387</scopus-id><scopus-eid>2-s2.0-85045391387</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85045391387" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271509</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291788</xocs:ssid>
+<xocs:ssid type="subj">291885</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Cement and Concrete Research</xocs:srctitle>
+<xocs:normalized-srctitle>CEMENTCONCRETERESEARCH</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20180416">2018-04-16</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20180416">2018-04-16</xocs:available-online-date>
+<xocs:vor-load-date yyyymmdd="20180416">2018-04-16</xocs:vor-load-date>
+<xocs:vor-available-online-date yyyymmdd="20180416">2018-04-16</xocs:vor-available-online-date>
+<xocs:ew-transaction-id>2019-11-28T13:12:05</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S000888461730981X</xocs:eid>
+<xocs:pii-formatted>S0008-8846(17)30981-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S000888461730981X</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.cemconres.2018.03.019</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.2</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0008884618X00052</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20240101">2024-01-01T14:18:22.264648Z</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20180601</xocs:date-search-begin>
+<xocs:date-search-end>20180630</xocs:date-search-end>
+<xocs:year-nav>2018</xocs:year-nav>
+<xocs:indexeddate epoch="1523888203">2018-04-16T14:16:43.337864Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast footnotes primabst pubtype ref</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0008-8846</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>00088846</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+<xocs:vol-first>108</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>108</xocs:volume>
+</xocs:volume-list>
+<xocs:suppl>C</xocs:suppl>
+<xocs:vol-iss-suppl-text>Volume 108</xocs:vol-iss-suppl-text>
+<xocs:sort-order>19</xocs:sort-order>
+<xocs:first-fp>201</xocs:first-fp>
+<xocs:last-lp>207</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>201</xocs:first-page>
+<xocs:last-page>207</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>201806</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>June 2018</xocs:cover-date-text>
+<xocs:cover-date-start>2018-06-01</xocs:cover-date-start>
+<xocs:cover-date-end>2018-06-30</xocs:cover-date-end>
+<xocs:cover-date-year>2018</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>SHORT COMMUNICATIONS</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>sco</xocs:document-subtype>
+<xocs:copyright-line>© 2018 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>LABORATORYSYNTHESISC3SKILOGRAMSCALE</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>LI</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Materials and equipment/tools</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Materials and mix design</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Equipment and tools</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Testing methods</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Method (video can be found in <ce:cross-ref id="cf0205" refid="ec0005">Supplementary material</ce:cross-ref>)</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Preparation of C<ce:inf loc="post">3</ce:inf>S raw mix</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Sintering</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Method (video can be found in Supplementary material)</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Preparation of C<ce:inf loc="post">3</ce:inf>S raw mix</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Sintering</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Safety</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Furnace and high-temperature safety</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Handling fumed silica</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Optimal sintering condition</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>6</xocs:item-toc-label>
+<xocs:item-toc-section-title>Discussion and conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:appendices">
+<xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+<xocs:item-toc-section-title>Annex</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:appendices">
+<xocs:item-toc-label>A.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Demo video of the C<ce:inf loc="post">3</ce:inf>S synthesis</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:appendices">
+<xocs:item-toc-label>A.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>X-ray powder diffraction and Rietveld analysis</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:appendices">
+<xocs:item-toc-label>A.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Particle size distribution</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:appendices">
+<xocs:item-toc-label>A.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Back scattered electron images</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="rf0005">
+<xocs:ref-normalized-surname>BAZZONI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2014</xocs:ref-pub-year>
+<xocs:ref-first-fp>584</xocs:ref-first-fp>
+<xocs:ref-last-lp>591</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0010">
+<xocs:ref-normalized-surname>WESSELSKY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2009</xocs:ref-pub-year>
+<xocs:ref-first-fp>973</xocs:ref-first-fp>
+<xocs:ref-last-lp>980</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0015">
+<xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>97</xocs:ref-first-fp>
+<xocs:ref-last-lp>104</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0020">
+<xocs:ref-normalized-surname>STEVULA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1981</xocs:ref-pub-year>
+<xocs:ref-first-fp>183</xocs:ref-first-fp>
+<xocs:ref-last-lp>190</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0025">
+<xocs:ref-normalized-surname>TENORIO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2008</xocs:ref-pub-year>
+<xocs:ref-first-fp>31</xocs:ref-first-fp>
+<xocs:ref-last-lp>33</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0030">
+<xocs:ref-normalized-surname>STEPHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>545</xocs:ref-first-fp>
+<xocs:ref-last-lp>552</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0035">
+<xocs:ref-normalized-surname>MOHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1977</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-last-lp>7</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0040">
+<xocs:ref-normalized-surname>BAZZONI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2014</xocs:ref-pub-year>
+<xocs:ref-first-fp>3684</xocs:ref-first-fp>
+<xocs:ref-last-lp>3693</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0045">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2007</xocs:ref-pub-year>
+<xocs:ref-first-fp>817</xocs:ref-first-fp>
+<xocs:ref-last-lp>825</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0050">
+<xocs:ref-normalized-surname>ODLER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1983</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-last-lp>04</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0055">
+<xocs:ref-normalized-surname>DELATORRE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2008</xocs:ref-pub-year>
+<xocs:ref-first-fp>1261</xocs:ref-first-fp>
+<xocs:ref-last-lp>1269</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0060">
+<xocs:ref-normalized-surname>DELATORRE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>1347</xocs:ref-first-fp>
+<xocs:ref-last-lp>1356</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0065">
+<xocs:ref-normalized-surname>DENOIRFONTAINE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>s159</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0070">
+<xocs:ref-normalized-surname>ALDOUS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1983</xocs:ref-pub-year>
+<xocs:ref-first-fp>89</xocs:ref-first-fp>
+<xocs:ref-last-lp>96</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0075">
+<xocs:ref-normalized-surname>STEPHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2006</xocs:ref-pub-year>
+<xocs:ref-first-fp>2011</xocs:ref-first-fp>
+<xocs:ref-last-lp>2020</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0080">
+<xocs:ref-normalized-surname>STEPHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>1477</xocs:ref-first-fp>
+<xocs:ref-last-lp>1483</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0085">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>1319</xocs:ref-first-fp>
+<xocs:ref-last-lp>1325</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0090">
+<xocs:ref-normalized-surname>SORRENTINO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2008</xocs:ref-pub-year>
+<xocs:ref-first-fp>177</xocs:ref-first-fp>
+<xocs:ref-last-lp>183</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0095">
+<xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>87</xocs:ref-first-fp>
+<xocs:ref-last-lp>92</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0100">
+<xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>2049</xocs:ref-first-fp>
+<xocs:ref-last-lp>2055</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0105">
+<xocs:ref-normalized-surname>FERNANDEZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2008</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>EFFECTPARTICLESIZEHYDRATIONKINETICSMICROSTRUCTURALDEVELOPMENTTRICALCIUMSILICATE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0110">
+<xocs:ref-normalized-surname>OCCUPATIONALSAFETYANDHEALTHADMINISTRATION</xocs:ref-normalized-surname>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0115">
+<xocs:ref-normalized-surname>MERGET</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>625</xocs:ref-first-fp>
+<xocs:ref-last-lp>634</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0120">
+<xocs:ref-normalized-surname>ARTS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2007</xocs:ref-pub-year>
+<xocs:ref-first-fp>1856</xocs:ref-first-fp>
+<xocs:ref-last-lp>1867</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0125">
+<xocs:ref-normalized-surname>TNIFOSAHNIOSH</xocs:ref-normalized-surname>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0130">
+<xocs:ref-normalized-surname>EU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2011</xocs:ref-pub-year>
+<xocs:ref-first-fp>38</xocs:ref-first-fp>
+<xocs:ref-last-lp>40</xocs:ref-last-lp>
+<xocs:ref-normalized-srctitle>COMMISSIONRECOMMENDATION18OCTOBER2011DEFINITIONNANOMATERIAL2011696EU</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0135">
+<xocs:ref-normalized-surname>GROSO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2016</xocs:ref-pub-year>
+<xocs:ref-first-fp>21</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0140">
+<xocs:ref-normalized-surname>GOLOVASTIKOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1975</xocs:ref-pub-year>
+<xocs:ref-first-fp>721</xocs:ref-first-fp>
+<xocs:ref-last-lp>729</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0145">
+<xocs:ref-normalized-surname>BIGARE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1967</xocs:ref-pub-year>
+<xocs:ref-first-fp>609</xocs:ref-first-fp>
+<xocs:ref-last-lp>619</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0150">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2014</xocs:ref-pub-year>
+<xocs:ref-first-fp>178</xocs:ref-first-fp>
+<xocs:ref-last-lp>182</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0155">
+<xocs:ref-normalized-surname>BOOKSTEIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>567</xocs:ref-first-fp>
+<xocs:ref-last-lp>585</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0160">
+<xocs:ref-normalized-surname>ORIGINLAB</xocs:ref-normalized-surname>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0165">
+<xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2014</xocs:ref-pub-year>
+<xocs:ref-first-fp>79</xocs:ref-first-fp>
+<xocs:ref-last-lp>87</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0170">
+<xocs:ref-normalized-surname>CHEARY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-last-lp>25</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="rf0175">
+<xocs:ref-normalized-surname>MUMME</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>35</xocs:ref-first-fp>
+<xocs:ref-last-lp>68</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>LIX2018X201</xocs:refkey3>
+<xocs:refkey4lp>LIX2018X201X207</xocs:refkey4lp>
+<xocs:refkey4ai>LIX2018X201XX</xocs:refkey4ai>
+<xocs:refkey5>LIX2018X201X207XX</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+</xocs:open-access>
+<xocs:self-archiving>
+<xocs:sa-start-date>2020-04-16T00:00:00.000Z</xocs:sa-start-date>
+<xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+</xocs:self-archiving>
+<xocs:copyright-info>
+<xocs:cp-notices>
+<xocs:cp-notice lang="en">© 2018 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+</xocs:cp-notices>
+</xocs:copyright-info>
+<xocs:funding-list has-funding-info="1">
+<xocs:funding-addon-generated-timestamp>2018-03-28T02:03:07.667Z</xocs:funding-addon-generated-timestamp>
+<xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+</xocs:funding-list>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0008-8846(17)30981-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S000888461730981X</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S000888461730981X</xocs:eid>
+<xocs:doi>10.1016/j.cemconres.2018.03.019</xocs:doi>
+<xocs:cid>271509</xocs:cid>
+<xocs:timestamp>2024-01-01T14:18:22.264648Z</xocs:timestamp>
+<xocs:cover-date-start>2018-06-01</xocs:cover-date-start>
+<xocs:cover-date-end>2018-06-30</xocs:cover-date-end>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/MAIN/application/pdf/6a455802b10c30ba811d9d78efa22573/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>1890214</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/PREVIEW/image/png/78d3ea115beae60e485647ddb1b81ede/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>54992</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr1/THUMBNAIL/image/gif/56c9dfe00bbf091f3f05299ac87d7cc2/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>9768</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>204</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr2/THUMBNAIL/image/gif/0f6b1fcda1c30378fb6a4fc15a4862e8/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>27345</xocs:filesize>
+<xocs:pixel-height>155</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr3/THUMBNAIL/image/gif/7b10c87577c3a3991374f109e3e1354a/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>6976</xocs:filesize>
+<xocs:pixel-height>133</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr4/THUMBNAIL/image/gif/b0cfe9a41ca0dd3df68d3ab05e221853/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>16875</xocs:filesize>
+<xocs:pixel-height>87</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr5/THUMBNAIL/image/gif/f7b0366d976563a84f23db748dab9c5e/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>23306</xocs:filesize>
+<xocs:pixel-height>127</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr6/THUMBNAIL/image/gif/d4f3a534dd436af2d23ae9561577e109/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>8471</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>208</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr7/THUMBNAIL/image/gif/bc624575cb2d543c6c38203c39781fd0/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>8195</xocs:filesize>
+<xocs:pixel-height>96</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr8/THUMBNAIL/image/gif/b70751915038f2ecbb4b5b51771fcf01/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>10986</xocs:filesize>
+<xocs:pixel-height>162</xocs:pixel-height>
+<xocs:pixel-width>72</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr1/DOWNSAMPLED/image/jpeg/59d66f8187b68a9eeadadb4f32d306a5/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>27416</xocs:filesize>
+<xocs:pixel-height>310</xocs:pixel-height>
+<xocs:pixel-width>386</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr2/DOWNSAMPLED/image/jpeg/afef459c832f4f6dbbf848ecc4163f99/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>36253</xocs:filesize>
+<xocs:pixel-height>277</xocs:pixel-height>
+<xocs:pixel-width>391</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr3/DOWNSAMPLED/image/jpeg/4bddf65af09eb844d2407b6d15ffb0b1/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>29567</xocs:filesize>
+<xocs:pixel-height>294</xocs:pixel-height>
+<xocs:pixel-width>485</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr4/DOWNSAMPLED/image/jpeg/97564c6f74fb3c7e5eeb36140c05c866/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>22882</xocs:filesize>
+<xocs:pixel-height>155</xocs:pixel-height>
+<xocs:pixel-width>391</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr5/DOWNSAMPLED/image/jpeg/950cf580e09bd1aae4b05d0e5d54ea20/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>33937</xocs:filesize>
+<xocs:pixel-height>227</xocs:pixel-height>
+<xocs:pixel-width>391</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr6/DOWNSAMPLED/image/jpeg/64197ecb342ceea12d72ed188f6d5d01/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>36520</xocs:filesize>
+<xocs:pixel-height>304</xocs:pixel-height>
+<xocs:pixel-width>386</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr7/DOWNSAMPLED/image/jpeg/b7c9d84aa336248ca1f2ab40ff8b4679/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>31004</xocs:filesize>
+<xocs:pixel-height>208</xocs:pixel-height>
+<xocs:pixel-width>472</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr8/DOWNSAMPLED/image/jpeg/2d092a6464061badc40d7b34402f52cb/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>119894</xocs:filesize>
+<xocs:pixel-height>882</xocs:pixel-height>
+<xocs:pixel-width>391</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr1_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr1/HIGHRES/image/jpeg/0d405a1072bc570aaba08507eda3ca2c/gr1_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>222991</xocs:filesize>
+<xocs:pixel-height>824</xocs:pixel-height>
+<xocs:pixel-width>1026</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr2_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr2/HIGHRES/image/jpeg/1063b9c3813ee8edfa607b927616e9d6/gr2_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>164282</xocs:filesize>
+<xocs:pixel-height>736</xocs:pixel-height>
+<xocs:pixel-width>1039</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr3_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr3/HIGHRES/image/jpeg/e143b2ec838c9ae30e67c2cc7253be02/gr3_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>121080</xocs:filesize>
+<xocs:pixel-height>782</xocs:pixel-height>
+<xocs:pixel-width>1289</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr4_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr4/HIGHRES/image/jpeg/d92ffba08b5c8c4c0b1c8129931860fe/gr4_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>105347</xocs:filesize>
+<xocs:pixel-height>411</xocs:pixel-height>
+<xocs:pixel-width>1039</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr5_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr5/HIGHRES/image/jpeg/b8bbf7ae2aa04beda31593376e31652a/gr5_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>158251</xocs:filesize>
+<xocs:pixel-height>602</xocs:pixel-height>
+<xocs:pixel-width>1039</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr6_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr6/HIGHRES/image/jpeg/cc074207027b21ca71eab981f6f2323f/gr6_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>152767</xocs:filesize>
+<xocs:pixel-height>809</xocs:pixel-height>
+<xocs:pixel-width>1026</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr7_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr7/HIGHRES/image/jpeg/3ab18d7b3d80635cd15f44995564dda3/gr7_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>245752</xocs:filesize>
+<xocs:pixel-height>920</xocs:pixel-height>
+<xocs:pixel-width>2089</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-gr8_lrg.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/gr8/HIGHRES/image/jpeg/b8113213f0575066477b4128d0a2a1ee/gr8_lrg.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8_lrg.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>481881</xocs:filesize>
+<xocs:pixel-height>2344</xocs:pixel-height>
+<xocs:pixel-width>1039</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-mmc1.flv</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/mmc1/OPT-STREAM/video/x-flv/0b6cc2d582a070546309900ed233b3a2/mmc1.flv</xocs:ucs-locator>
+<xocs:file-basename>mmc1</xocs:file-basename>
+<xocs:filename>mmc1.flv</xocs:filename>
+<xocs:extension>flv</xocs:extension>
+<xocs:filesize>112321550</xocs:filesize>
+<xocs:attachment-type>VIDEO-FLASH</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S000888461730981X-mmc1.mp4</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S000888461730981X/mmc1/MAIN/video/mp4/8d53c0570b9d9f52cd194bd2f3a96159/mmc1.mp4</xocs:ucs-locator>
+<xocs:file-basename>mmc1</xocs:file-basename>
+<xocs:filename>mmc1.mp4</xocs:filename>
+<xocs:extension>mp4</xocs:extension>
+<xocs:filesize>210266659</xocs:filesize>
+<xocs:attachment-type>VIDEO</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="sco" version="5.5" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>CEMCON</jid>
+<aid>5522</aid>
+<ce:pii>S0008-8846(17)30981-X</ce:pii>
+<ce:doi>10.1016/j.cemconres.2018.03.019</ce:doi>
+<ce:copyright type="full-transfer" year="2018">Elsevier Ltd</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="f0005">
+<ce:label>Fig. 1</ce:label>
+<ce:caption id="ca0005">
+<ce:simple-para id="sp0005" view="all">XRD pattern of the fumed silica, data collection was done using zero background sample holder.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0005" role="short">Fig. 1</ce:alt-text>
+<ce:link id="lk0005" locator="gr1" xlink:href="pii:S000888461730981X/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0010">
+<ce:label>Fig. 2</ce:label>
+<ce:caption id="ca0010">
+<ce:simple-para id="sp0010" view="all">Tools used for C<ce:inf loc="post">3</ce:inf>S raw mix preparation, jar, ZrO<ce:inf loc="post">2</ce:inf> balls, salad spinner, kitchen tools, and the cylinder moulds.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0010" role="short">Fig. 2</ce:alt-text>
+<ce:link id="lk0010" locator="gr2" xlink:href="pii:S000888461730981X/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0015">
+<ce:label>Fig. 3</ce:label>
+<ce:caption id="ca0015">
+<ce:simple-para id="sp0015" view="all">Schematic drawing of the procedures for C<ce:inf loc="post">3</ce:inf>S synthesis.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0015" role="short">Fig. 3</ce:alt-text>
+<ce:link id="lk0015" locator="gr3" xlink:href="pii:S000888461730981X/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0020">
+<ce:label>Fig. 4</ce:label>
+<ce:caption id="ca0020">
+<ce:simple-para id="sp0020" view="all">Raw mix preparation and sintering using dried green cylinder. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0020" role="short">Fig. 4</ce:alt-text>
+<ce:link id="lk0020" locator="gr4" xlink:href="pii:S000888461730981X/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0025">
+<ce:label>Fig. 5</ce:label>
+<ce:caption id="ca0025">
+<ce:simple-para id="sp0025" view="all">Sample during quenching with proper protection, a mock sampling at room temperature.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0025" role="short">Fig. 5</ce:alt-text>
+<ce:link id="lk0025" locator="gr5" xlink:href="pii:S000888461730981X/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0030">
+<ce:label>Fig. 6</ce:label>
+<ce:caption id="ca0030">
+<ce:simple-para id="sp0030" view="all">Characteristic XRD patterns and the Rietveld fitting with the T1 polymorph of C<ce:inf loc="post">3</ce:inf>S for sample sintered at 1600 °C for 2.5 h.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0030" role="short">Fig. 6</ce:alt-text>
+<ce:link id="lk0030" locator="gr6" xlink:href="pii:S000888461730981X/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0035">
+<ce:label>Fig. 7</ce:label>
+<ce:caption id="ca0035">
+<ce:simple-para id="sp0035" view="all">Contour plot of (a) f-CaO and (b) C<ce:inf loc="post">3</ce:inf>S content (%).</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0035" role="short">Fig. 7</ce:alt-text>
+<ce:link id="lk0035" locator="gr7" xlink:href="pii:S000888461730981X/gr7" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:figure id="f0040">
+<ce:label>Fig. 8</ce:label>
+<ce:caption id="ca0040">
+<ce:simple-para id="sp0040" view="all">Backscatter electron microscopy (BSE) images for the (a) raw mix, (b) C<ce:inf loc="post">3</ce:inf>S blocks and (c) C<ce:inf loc="post">3</ce:inf>S powder. Cc, S and H refer to CaCO<ce:inf loc="post">3</ce:inf>, SiO<ce:inf loc="post">2</ce:inf> and holes, respectively. The C<ce:inf loc="post">3</ce:inf>S was sintered at 1600 °C for 10 h, while the C<ce:inf loc="post">3</ce:inf>S powder was ground using disc mill for 30 s.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0040" role="short">Fig. 8</ce:alt-text>
+<ce:link id="lk0040" locator="gr8" xlink:href="pii:S000888461730981X/gr8" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="t0005" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption id="ca0045">
+<ce:simple-para id="sp0045" view="all">Summary of the reported raw materials and procedures used for C<ce:inf loc="post">3</ce:inf>S/alite synthesis.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0045" role="short">Table 1</ce:alt-text>
+<tgroup cols="9">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<colspec colname="col8"/>
+<colspec colname="col9"/>
+<thead>
+<row rowsep="1" valign="top">
+<entry colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">T (°C)</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Resistance time (h)</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Repetition</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">f-CaO<br/>(%)</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf> source</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">Ions</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">Mixing/grinding</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">Pretreatment</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">Ref.</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1650</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">–<cross-ref id="cf0005" refid="tf0010">
+<sup loc="post">b</sup>
+</cross-ref>
+</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>O<inf loc="post">3</inf>, Fe<inf loc="post">2</inf>O<inf loc="post">3</inf>, and MgO mixed with C<inf loc="post">3</inf>S</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0010" refid="bb0015">3</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1600</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.5</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">silica fumed</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">24 h, wet ball mill</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">φ 70 mm pressed disc</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0015" refid="bb0005">1</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1600</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Invisible in XRD</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">Quartz</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">Mixed by lab mixer</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1000 °C calcination</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0020" refid="bb0010">2</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1600</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">quartz</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">ZnO and La<inf loc="post">2</inf>O<inf loc="post">3</inf> were introduced with C<inf loc="post">3</inf>S</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0025" refid="bb0020">4</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1550<cross-ref id="cf0030" refid="tf0005">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">24</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">&lt;3</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">Gel Silica</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">Milled</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0035" refid="bb0025">5</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" morerows="1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1520</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col3" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="center" colname="col4" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">0.45–1.18</entry>
+<entry align="center" colname="col5" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col6" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">Cr, Ni, and Zn in raw mix</entry>
+<entry align="center" colname="col7" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col8" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col9" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0040" refid="bb0030">6</cross-ref>]</entry>
+</row>
+<row>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">12</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500–1550</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">12–24</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">quartz</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">Mixing in ethanol,</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">in 1000 °C, 1100 °C,</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0045" refid="bb0035">7</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">ZnO, MgO in raw mix</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">3 h dry homogenize</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0050" refid="bb0040">8</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">&gt;1</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">Milled</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0055" refid="bb0045">9</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">≥2</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.5</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">Silica gel</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">ZnO in raw mix</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0060" refid="bb0050">10</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">&gt;1, until no f-CaO detected</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">f-CaO non-detectable by XRD</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">Quartz</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">γ-Al<inf loc="post">2</inf>O<inf loc="post">3</inf> in raw mix</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">30 min, ball mill at 1200 rpm</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1000 °C 6 h, then press discs</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0065" refid="bb0055">11</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1050</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="center" colname="col4" morerows="2" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col5" morerows="2" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col6" morerows="2" xmlns="http://www.elsevier.com/xml/common/dtd">Mg(OH)<inf loc="post">2</inf>·4MgCO<inf loc="post">3</inf>·5H<inf loc="post">2</inf>O, γ-Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+</entry>
+<entry align="center" colname="col7" morerows="2" xmlns="http://www.elsevier.com/xml/common/dtd">30 min ball mill at 200 rpm after each burn</entry>
+<entry align="center" colname="col8" morerows="2" xmlns="http://www.elsevier.com/xml/common/dtd">pressed to disc</entry>
+<entry align="center" colname="col9" morerows="2" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0070" refid="bb0060">12</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1450</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">753</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col3" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="center" colname="col4" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col5" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col6" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col7" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col8" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">φ 10 mm pressed disc</entry>
+<entry align="center" colname="col9" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0075" refid="bb0065">13</cross-ref>]</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1400</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1400</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.5</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">CaF<inf loc="post">2</inf>
+</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">[<cross-ref id="cf0080" refid="bb0070">14</cross-ref>]</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="sp0050" view="all">Notes:</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tf0005">
+<ce:label>a</ce:label>
+<ce:note-para id="np0005" view="all">Tubular furnace.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tf0010">
+<ce:label>b</ce:label>
+<ce:note-para id="np0010" view="all">Details not available.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="t0010" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption id="ca0050">
+<ce:simple-para id="sp0055" view="all">Summary of the detailed procedures and limitations for classic C<ce:inf loc="post">3</ce:inf>S/alite synthesis based on solid reaction.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0050" role="short">Table 2</ce:alt-text>
+<tgroup cols="3">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<thead>
+<row rowsep="1" valign="top">
+<entry colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Detailed procedures</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Limitations</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" morerows="3" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">Raw mix preparation</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Step 1: mix/grind the raw mix in wet/dry grinding</entry>
+<entry colname="col3" morerows="3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<list id="l0005">
+<list-item id="li0005">
+<label>•</label>
+<para id="p0005" view="all">Disc pressing always time-consuming</para>
+</list-item>
+</list>
+</entry>
+</row>
+<row>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Step 2: dry the ground paste</entry>
+</row>
+<row>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Step 3: powder the dried paste</entry>
+</row>
+<row>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Step 4: press raw powder into discs</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" valign="middle" xmlns="http://www.elsevier.com/xml/common/dtd">Sintering</entry>
+<entry colname="col2" valign="middle" xmlns="http://www.elsevier.com/xml/common/dtd">Step 5: sintering</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<list id="l0010">
+<list-item id="li0010">
+<label>•</label>
+<para id="p0010" view="all">Long sintering time required (&gt;10 h)</para>
+</list-item>
+<list-item id="li0015">
+<label>•</label>
+<para id="p0015" view="all">Repeated sintering needed</para>
+</list-item>
+<list-item id="li0020">
+<label>•</label>
+<para id="p0020" view="all">Limited capacity of the Pt crucible and furnace</para>
+</list-item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="t0015" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption id="ca0055">
+<ce:simple-para id="sp0060" view="all">Characteristics of the raw materials and raw mix.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0055" role="short">Table 3</ce:alt-text>
+<tgroup cols="5">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<thead>
+<row rowsep="1" valign="top">
+<entry colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Samples</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">D<inf loc="post">v10</inf> (μm)</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">D<inf loc="post">v50</inf> (μm)</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">D<inf loc="post">v90</inf> (μm)</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">Notes</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" morerows="1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">Fumed silica</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">0.007<cross-ref id="cf0085" refid="tf0015">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry colname="col5" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">Amorphous</entry>
+</row>
+<row>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">0.2–0.3<cross-ref id="cf0090" refid="tf0015">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">CaCO<inf loc="post">3</inf>
+</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">4.41</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">16.11</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">29.55</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">Chemical pure</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">Raw mix (0.007 μm SiO<inf loc="post">2</inf>)</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">1.04</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">3.54</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">8.30</entry>
+<entry colname="col5" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">Wet milled for 24 h</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">Raw mix (0.2 μm SiO<inf loc="post">2</inf>)</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">1.10</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">4.05</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">10.30</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="sp0065" view="all">Notes:</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tf0015">
+<ce:label>a</ce:label>
+<ce:note-para id="np0015" view="all">Reported data from the supplier.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="t0020" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 4</ce:label>
+<ce:caption id="ca0060">
+<ce:simple-para id="sp0070" view="all">Details for mix design and the chemical composition, mineral composition and calcium/silicon ratio.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0060" role="short">Table 4</ce:alt-text>
+<tgroup cols="12">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<colspec colname="col8"/>
+<colspec colname="col9"/>
+<colspec colname="col10"/>
+<colspec colname="col11"/>
+<colspec colname="col12"/>
+<thead>
+<row rowsep="1" valign="top">
+<entry align="center" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Items</entry>
+<entry align="center" nameend="col4" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Weighed (g)</entry>
+<entry align="center" nameend="col6" namest="col5" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Measured, XRF (wt%)</entry>
+<entry align="center" nameend="col9" namest="col7" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Measured, XRD (wt%)</entry>
+<entry align="center" nameend="col12" namest="col10" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Calcium/silicon molar ratio</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">Oxides</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">CaCO<inf loc="post">3</inf>
+</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Fumed silica</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">CaO</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf>
+</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">2</inf>S</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">f-CaO</entry>
+<entry align="center" colname="col10" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">Weighed</entry>
+<entry align="center" colname="col11" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">XRF</entry>
+<entry align="center" colname="col12" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">XRD</entry>
+</row>
+<row>
+<entry align="center" colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">Molar weight<br/>(g/mol)</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">100.00</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">60.80</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">228.8</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">56.00</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">60.80</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">228.32</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">172.24</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">56.08</entry>
+</row>
+<row>
+<entry align="center" colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S_trial_7nm</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">625.00</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">126.67</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">476.67</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">75.16</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">24.84</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">95.3</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1.0</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>3.7</bold>
+</entry>
+<entry align="center" colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>3.00</bold>
+</entry>
+<entry align="center" colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">3.29</entry>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>3.14</bold>
+</entry>
+</row>
+<row>
+<entry align="center" colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S_7nm</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">625.00</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">133.11</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">483.11</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">73.87</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">25.54</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">97.3</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">2.5</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="center" colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>2.85</bold>
+</entry>
+<entry align="center" colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">3.14</entry>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>2.97</bold>
+</entry>
+</row>
+<row>
+<entry align="center" colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S_0.2 μm</entry>
+<entry align="center" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">654.00</entry>
+<entry align="center" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">133.11</entry>
+<entry align="center" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">499.35</entry>
+<entry align="center" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">73.70</entry>
+<entry align="center" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">25.61</entry>
+<entry align="center" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">96.1</entry>
+<entry align="center" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">3.5</entry>
+<entry align="center" colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">0.4</entry>
+<entry align="center" colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>2.98</bold>
+</entry>
+<entry align="center" colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">3.12</entry>
+<entry colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>2.97</bold>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="t0025" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 5</ce:label>
+<ce:caption id="ca0065">
+<ce:simple-para id="sp0075" view="all">Summary of the parameters and the mineral composition using Rietveld method of the test samples.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0065" role="short">Table 5</ce:alt-text>
+<tgroup cols="7">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<thead>
+<row valign="top">
+<entry colname="col1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Temperature</entry>
+<entry colname="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Resistance time</entry>
+<entry colname="col3" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Sample status</entry>
+<entry colname="col4" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Speed, notes</entry>
+<entry colname="col5" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S</entry>
+<entry colname="col6" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">β-C<inf loc="post">2</inf>S</entry>
+<entry colname="col7" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">free-CaO</entry>
+</row>
+<row rowsep="1" valign="top">
+<entry colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<sup loc="post">o</sup>C</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">hours</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+<sup loc="post">o</sup>C/min</entry>
+<entry nameend="col7" namest="col5" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">wt%</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1450</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2.5</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece<cross-ref id="cf0095" refid="tf0020">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">81.8</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">14.5</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">3.7</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1450</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">5.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">94.2</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">4.8</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1450</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">10.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.4</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.5</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1450</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">20.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.5</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.2</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2.5</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">94.3</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">4.9</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.7</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">5.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">95.6</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.8</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.6</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">10.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Cylinder, average<cross-ref id="cf0100" refid="tf0025">
+<sup loc="post">b</sup>
+</cross-ref>
+</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.5 ± 0.4</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.2 ± 0.3</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.3 ± 0.04</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1500</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">15.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Cylinder, average</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.4 ± 0.3</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.3 ± 0.3</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.3 ± 0.01</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1550</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2.5</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">95.0</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">4.5</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.5</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1550</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">5.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.1</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.5</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1550</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">10.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">95.9</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.8</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1550</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">15.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.3</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.3</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.4</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1600</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2.5</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.4</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.2</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.4</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1600</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">5.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.3</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.3</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1600</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">8.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.9</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">2.8</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1600</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">10.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Cylinder, average</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">97.3 ± 0.2</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">2.5 ± 0.4</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.2 ± 0.01</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1550</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">5.0</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Cylinder, average</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.3</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.3</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.4</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1600</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece, C<inf loc="post">3</inf>S_0.2 μm</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.4</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.2</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.4</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">1600</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Piece, C<inf loc="post">3</inf>S_0.2 μm</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">96.5</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">3.2</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="sp0080" view="all">Notes:</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tf0020">
+<ce:label>a</ce:label>
+<ce:note-para id="np0020" view="all">Piece of about ~3 cm.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tf0025">
+<ce:label>b</ce:label>
+<ce:note-para id="np0025" view="all">Average value from 3 samples taken from top, middle and bottom part of the cylinder.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="t0030" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 6</ce:label>
+<ce:caption id="ca0070">
+<ce:simple-para id="sp0085" view="all">Comparison of different protocols used for C<ce:inf loc="post">3</ce:inf>S synthesis, assuming three Pt crucibles were used.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0070" role="short">Table 6</ce:alt-text>
+<tgroup cols="9">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<colspec colname="col8"/>
+<colspec colname="col9"/>
+<thead>
+<row valign="top">
+<entry colname="col1" morerows="1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Method<cross-ref id="cf0105" refid="tf0030">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry colname="col2" morerows="1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Source of SiO<inf loc="post">2</inf>
+</entry>
+<entry colname="col3" morerows="1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Status of raw mix</entry>
+<entry colname="col4" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S per furnace</entry>
+<entry colname="col5" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Work load<cross-ref id="cf0110" refid="tf0035">
+<sup loc="post">b</sup>
+</cross-ref>
+</entry>
+<entry colname="col6" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Sintering time</entry>
+<entry colname="col7" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S content</entry>
+<entry colname="col8" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">f-CaO content</entry>
+<entry colname="col9" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">3</inf>S quantity<cross-ref id="cf0115" refid="tf0045">
+<sup loc="post">d</sup>
+</cross-ref>
+</entry>
+</row>
+<row rowsep="1" valign="top">
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">g</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">h/(400 g C<inf loc="post">3</inf>S)</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">hours</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">wt%</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">Wt%</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">kg/week</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">Traditional routine</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf>
+</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">~25 g pressed discs</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">~95</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">~5.5</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">~30<cross-ref id="cf0120" refid="tf0040">
+<sup loc="post">c</sup>
+</cross-ref>
+</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">≤0.5</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">~0.2</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">Previous protocol [<cross-ref id="cf0125" refid="bb0005">1</cross-ref>]</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Fumed Silica</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">~25 g pressed discs</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">~95</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">~5.5</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">~15</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">~98</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">≤0.5</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">~0.5</entry>
+</row>
+<row>
+<entry colname="col1" role="rowhead" xmlns="http://www.elsevier.com/xml/common/dtd">Protocol reported here</entry>
+<entry colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Fumed Silica</entry>
+<entry colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">~200 g cylinder</entry>
+<entry colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">~400</entry>
+<entry colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">~1.0</entry>
+<entry colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">~7</entry>
+<entry colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">96–98</entry>
+<entry colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">≤0.4</entry>
+<entry colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">~2.0</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="sp0090" view="all">Notes:</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tf0030">
+<ce:label>a</ce:label>
+<ce:note-para id="np0030" view="all">The comparison was done assuming the C<ce:inf loc="post">3</ce:inf>S were synthesized using three φ 80 mm Pt crucibles, each crucible was able to hold two discs or 1 cylinder.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tf0035">
+<ce:label>b</ce:label>
+<ce:note-para id="np0035" view="all">An average time used to press one disc was estimated 10 min including the time used to grind the raw mix after drying.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tf0040">
+<ce:label>c</ce:label>
+<ce:note-para id="np0040" view="all">Typical procedure sintering C<ce:inf loc="post">3</ce:inf>S at 1550 °C for 10 h for twice was considered.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tf0045">
+<ce:label>d</ce:label>
+<ce:note-para id="np0045" view="all">Assuming the sintering process was continually done for all the working days of the week.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+</ce:floats>
+<head>
+<ce:dochead id="dh0005">
+<ce:textfn id="tn0005">Short communication</ce:textfn>
+</ce:dochead>
+<ce:title id="ti0005">Laboratory synthesis of C<ce:inf loc="post">3</ce:inf>S on the kilogram scale</ce:title>
+<ce:author-group id="ag0005">
+<ce:author author-id="S000888461730981X-e89670a978e5010447d942cc73ab22d9" id="au0005">
+<ce:given-name>Xuerun</ce:given-name>
+<ce:surname>Li</ce:surname>
+<ce:cross-ref id="cf0130" refid="cr0005">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author author-id="S000888461730981X-e241947f3cc1033a40a478455ce4d81e" id="au0010">
+<ce:given-name>Alexandre</ce:given-name>
+<ce:surname>Ouzia</ce:surname>
+</ce:author>
+<ce:author author-id="S000888461730981X-ad5dd3a2541eb015bfa70ce8effebcbf" id="au0015">
+<ce:given-name>Karen</ce:given-name>
+<ce:surname>Scrivener</ce:surname>
+</ce:author>
+<ce:affiliation affiliation-id="S000888461730981X-2552ba9f951b8ce0c5cda59dedc6cf18" id="af0005">
+<ce:textfn id="tn0010">Laboratory of Construction Materials, Swiss Federal Institute of Technology in Lausanne (EPFL), Station 12, CH-1015 Lausanne, Switzerland</ce:textfn>
+<sa:affiliation>
+<sa:organization>Laboratory of Construction Materials</sa:organization>
+<sa:organization>Swiss Federal Institute of Technology in Lausanne (EPFL)</sa:organization>
+<sa:address-line>Station 12</sa:address-line>
+<sa:city>Lausanne</sa:city>
+<sa:postal-code>CH-1015</sa:postal-code>
+<sa:country>Switzerland</sa:country>
+</sa:affiliation>
+</ce:affiliation>
+<ce:correspondence id="cr0005">
+<ce:label>⁎</ce:label>
+<ce:text id="tx0005">Corresponding authors at: MXG 234, LMC IMX STI EPFL, Station 12, CH-1015 Lausanne, Switzerland.</ce:text>
+<sa:affiliation>
+<sa:organization>MXG 234</sa:organization>
+<sa:organization>LMC IMX STI EPFL</sa:organization>
+<sa:address-line>Station 12</sa:address-line>
+<sa:city>Lausanne</sa:city>
+<sa:postal-code>CH-1015</sa:postal-code>
+<sa:country>Switzerland</sa:country>
+</sa:affiliation>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="9" month="9" year="2017"/>
+<ce:date-revised day="26" month="3" year="2018"/>
+<ce:date-accepted day="27" month="3" year="2018"/>
+<ce:abstract class="author" id="ab0005" view="all" xml:lang="en"><ce:abstract-sec id="as0005" view="all">
+<ce:simple-para id="sp0095" view="all">An optimized process using amorphous silica for efficient C<ce:inf loc="post">3</ce:inf>S synthesis in the laboratory is reported: an estimated production capacity of ~2 kg C<ce:inf loc="post">3</ce:inf>S within a week is possible. Amorphous silica (fumed silica) was used as raw material and inter-ground with CaCO<ce:inf loc="post">3</ce:inf> and water for C<ce:inf loc="post">3</ce:inf>S synthesis, the dried raw mixture has sufficient green strength to be self-supporting, which allows large cylinders to be placed in Platinum crucibles. The mineral composition of the sintered sample was quantified with X-ray powder diffraction using Rietveld analysis. C<ce:inf loc="post">3</ce:inf>S with &lt;0.4 wt% of free CaO was sintered at a shortened residence time (≤5 h) when temperatures ≥1550 °C. The efficiency of the C<ce:inf loc="post">3</ce:inf>S synthesis was dramatically enhanced because of 1) increased burnability of the raw mix due to amorphous silica and very fine CaCO<ce:inf loc="post">3</ce:inf> particles after grinding, 2) simplified sample preparation process avoiding pressing discs and 3) improved capacities of the crucible and furnace.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword" id="ks0005" view="all">
+<ce:section-title id="st0010">Keywords</ce:section-title>
+<ce:keyword id="kw0005">
+<ce:text id="tx0010">C<ce:inf loc="post">3</ce:inf>S</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0010">
+<ce:text id="tx0015">Synthesis</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0015">
+<ce:text id="tx0020">Amorphous silica</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0020">
+<ce:text id="tx0025">Large scale</ce:text>
+</ce:keyword>
+</ce:keywords>
+</head>
+<body view="all">
+<ce:sections>
+<ce:section id="s0005" view="all">
+<ce:label>1</ce:label>
+<ce:section-title id="st0015">Introduction</ce:section-title>
+<ce:para id="p0025" view="all">C<ce:inf loc="post">3</ce:inf>S (tricalcium silicate) is the major phase in Portland cement, as such many studies have been focused on the reaction of this phase alone. However, more extensive work is hindered by the difficulty in obtaining high quality C<ce:inf loc="post">3</ce:inf>S. It is important to realise that C<ce:inf loc="post">3</ce:inf>S, like Portland cement will tend to age, due to humidity in the atmosphere, if stored for too long. The best quality materials can be obtained if it is synthesized fresh for each study. Furthermore, local synthesis allows adjustment of the minor elements to obtain alite with grain growth similar to alite in Portland cement, which can then be ground to have a particle size distribution resembling Portland cement. However, most of the standard methods for preparing C<ce:inf loc="post">3</ce:inf>S are very time-consuming.</ce:para>
+<ce:para id="p0030" view="all">The methods typically reported for C<ce:inf loc="post">3</ce:inf>S synthesis are: solid reaction [<ce:cross-refs id="cf0135" refid="bb0005 bb0010 bb0015 bb0020 bb0025 bb0030 bb0035 bb0040 bb0045 bb0050 bb0055 bb0060 bb0065 bb0070">1–14</ce:cross-refs>] (summarized in <ce:cross-ref id="cf0140" refid="t0005">Table 1</ce:cross-ref>
+<ce:float-anchor refid="t0005"/>), sol-gel method [<ce:cross-refs id="cf0145" refid="bb0075 bb0080 bb0085">15–17</ce:cross-refs>]. Pechini or modified Pechini process [<ce:cross-ref id="cf0150" refid="bb0090">18</ce:cross-ref>] and the so-called organic steric entrapment method [<ce:cross-ref id="cf0155" refid="bb0095">19</ce:cross-ref>,<ce:cross-ref id="cf0160" refid="bb0100">20</ce:cross-ref>] were also used to synthesize C<ce:inf loc="post">3</ce:inf>S. For massive synthesis, the solid reaction using calcium carbonate and SiO<ce:inf loc="post">2</ce:inf> (quartz or silica) is more practical and widely used. The procedures, as well as the main limitations for C<ce:inf loc="post">3</ce:inf>S synthesis are summarized in <ce:cross-ref id="cf0165" refid="t0010">Table 2</ce:cross-ref>
+<ce:float-anchor refid="t0010"/>. The main factors hindering the C<ce:inf loc="post">3</ce:inf>S synthesis are: 1) disc pressing is time-consuming; 2) long sintering time is required (&gt;10 h); 3) capacity of Pt crucibles and furnaces are limited.</ce:para>
+<ce:para id="p0035" view="all">Here we report the straightforward synthesis of kilogram quantities of C<ce:inf loc="post">3</ce:inf>S which adapts the solid reaction method [<ce:cross-ref id="cf0170" refid="bb0005">1</ce:cross-ref>,<ce:cross-ref id="cf0175" refid="bb0105">21</ce:cross-ref>] and can be used in any laboratory equipped with a high-temperature furnace. The solid reaction routine was modified by changing the raw materials and procedures to maximize the furnace efficiency and decrease the workload of the procedures. The sintering parameters were optimized to maximize the amount of C<ce:inf loc="post">3</ce:inf>S which could be produced within working hours.</ce:para>
+</ce:section>
+<ce:section id="s0010" view="all">
+<ce:label>2</ce:label>
+<ce:section-title id="st0020">Materials and equipment/tools</ce:section-title>
+<ce:section id="s0015" view="all">
+<ce:label>2.1</ce:label>
+<ce:section-title id="st0025">Materials and mix design</ce:section-title>
+<ce:para id="p0040" view="all">Calcium carbonate (VWR) and SiO<ce:inf loc="post">2</ce:inf> (silica fumed, Sigma-Aldrich) were used as raw materials for C<ce:inf loc="post">3</ce:inf>S synthesis. The characteristics of the raw materials and the C<ce:inf loc="post">3</ce:inf>S raw mix are shown in <ce:cross-ref id="cf0180" refid="t0015">Table 3</ce:cross-ref>
+<ce:float-anchor refid="t0015"/>. The source for SiO<ce:inf loc="post">2</ce:inf> was amorphous fumed silicas (see <ce:cross-ref id="cf0185" refid="f0005">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="f0005"/>) with a nominal diameter of 0.007 μm and 0.2–0.3 μm indicated by the supplier. These two fumed silicas with different particle size distribution (PSD) were used to check the feasibility to produce C<ce:inf loc="post">3</ce:inf>S using coarser silica (0.2 μm) instead of using 0.007 μm fumed silica for nano safety reasons. After grinding, both raw mixes made with 0.007 μm and 0.2–0.3 μm fumed silica have similar PSD (see <ce:cross-ref id="cf0190" refid="t0015">Table 3</ce:cross-ref>).</ce:para>
+<ce:para id="p0045" view="all">A correction of the mix design was needed based on actual mineral composition detected by X-ray powder diffraction (XRD) or the actual chemical composition by X-ray fluorescence (XRF) of the trial mix design. The reason for the deviation in chemical composition was moisture/solvent residue in fumed silicas so there was less SiO<ce:inf loc="post">2</ce:inf> than expected in the weighed quantity. Extra amount silica will be needed to react with the excess f-CaO to compensate for this effect. The excess 3.7 wt% of CaO (by mass 476.67 g × 0.037 = 17.80 g) was compensated by 6.44 g of silica in the mix to form C<ce:inf loc="post">3</ce:inf>S, resulting 133.11 g of silica.</ce:para>
+</ce:section>
+<ce:section id="s0020" view="all">
+<ce:label>2.2</ce:label>
+<ce:section-title id="st0030">Equipment and tools</ce:section-title>
+<ce:para id="p0050" view="all">The required equipment/tools are (see <ce:cross-ref id="cf0195" refid="f0010">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="f0010"/>):<ce:list id="l0015">
+<ce:list-item id="li0025">
+<ce:label>•</ce:label>
+<ce:para id="p0055" view="all">ball milling jar up to 3 L</ce:para>
+</ce:list-item>
+<ce:list-item id="li0030">
+<ce:label>•</ce:label>
+<ce:para id="p0060" view="all">milling balls (ZrO<ce:inf loc="post">2</ce:inf>) with diameter ~30 mm</ce:para>
+</ce:list-item>
+<ce:list-item id="li0035">
+<ce:label>•</ce:label>
+<ce:para id="p0065" view="all">rolling machine to grind by rotating the ball milling jar</ce:para>
+</ce:list-item>
+<ce:list-item id="li0040">
+<ce:label>•</ce:label>
+<ce:para id="p0070" view="all">cylinder moulds<ce:cross-ref id="cf0200" refid="fn0005">
+<ce:sup loc="post">1</ce:sup>
+</ce:cross-ref>
+<ce:footnote id="fn0005">
+<ce:label>1</ce:label>
+<ce:note-para id="np0050" view="all">Depend on the size of the platinum crucible and the inside height of the furnace, in this paper the ASTM moulds with the dimension of φ70mm × 140 mm for mortar test was used</ce:note-para>
+</ce:footnote>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0045">
+<ce:label>•</ce:label>
+<ce:para id="p0075" view="all">ladles, filters and containers (i.e. salad spinner) to separate the ball and mixed raw materials</ce:para>
+</ce:list-item>
+<ce:list-item id="li0050">
+<ce:label>•</ce:label>
+<ce:para id="p0080" view="all">high-temperature furnace (up to at least 1600 °C)</ce:para>
+</ce:list-item>
+<ce:list-item id="li0055">
+<ce:label>•</ce:label>
+<ce:para id="p0085" view="all">
+<ce:italic>Pt</ce:italic> crucible</ce:para>
+</ce:list-item>
+<ce:list-item id="li0060">
+<ce:label>•</ce:label>
+<ce:para id="p0090" view="all">strengthened crucible tongs with extra-long handle and a fire proof base</ce:para>
+</ce:list-item>
+<ce:list-item id="li0065">
+<ce:label>•</ce:label>
+<ce:para id="p0095" view="all">fan for cooling process (cleaned compressed air can be used as well)</ce:para>
+</ce:list-item>
+<ce:list-item id="li0070">
+<ce:label>•</ce:label>
+<ce:para id="p0100" view="all">a full set of protection such as heat resistance gloves, welding glasses and heat resistant helmet</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+<ce:section id="s0025" view="all">
+<ce:label>2.3</ce:label>
+<ce:section-title id="st0035">Testing methods</ce:section-title>
+<ce:para id="p0105" view="all">The details of the analytical techniques used: X-ray powder diffraction; Rietveld analysis, particle size distribution and scanning electron microscopy (SEM) are given in the annex.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="s0030" view="extended">
+<ce:label>3</ce:label>
+<ce:section-title id="st0040">Method (video can be found in <ce:cross-ref id="cf0205" refid="ec0005">Supplementary material</ce:cross-ref>)</ce:section-title>
+<ce:section id="s0035" view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title id="st0045">Preparation of C<ce:inf loc="post">3</ce:inf>S raw mix</ce:section-title>
+<ce:para id="p0110" view="all">The raw materials were weighed according to the steps stated previously in the materials section (<ce:cross-ref id="cf0210" refid="s0015">Section 2.1</ce:cross-ref>) as shown in <ce:cross-ref id="cf0215" refid="t0020">Table 4</ce:cross-ref>. A summarized schematic plot of the procedures is shown in <ce:cross-ref id="cf0220" refid="f0015">Fig. 3</ce:cross-ref>. <ce:cross-refs id="cf0225" refid="f0020 f0025">Figs. 4 and 5</ce:cross-refs> shows the pictures for the casting of the raw cylinder, the sintering and the quenching of the samples. More detailed steps for sample preparation are:<ce:list id="l0020">
+<ce:list-item id="li0075">
+<ce:label>•</ce:label>
+<ce:para id="p0115" view="all">Step 1:<ce:list id="l0025">
+<ce:list-item id="li0080">
+<ce:label>◦</ce:label>
+<ce:para id="p0120" view="all">Add grinding balls (2.4 kg of ~5 cm ZrO<ce:inf loc="post">2</ce:inf> ball) into the cleaned jar (volume up to 3 L);</ce:para>
+</ce:list-item>
+<ce:list-item id="li0085">
+<ce:label>◦</ce:label>
+<ce:para id="p0125" view="all">Weigh exact amount of SiO<ce:inf loc="post">2</ce:inf> into the jar; then add CaCO<ce:inf loc="post">3</ce:inf> and other oxides (i.e. Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, MgO and Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> for alite synthesis) when necessary (see <ce:cross-ref id="cf0230" refid="t0020">Table 4</ce:cross-ref>);</ce:para>
+</ce:list-item>
+<ce:list-item id="li0090">
+<ce:label>◦</ce:label>
+<ce:para id="p0130" view="all">Add ~1.5 kg (mass ratio of water/materials ~2.0) of distilled water</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0095">
+<ce:label>•</ce:label>
+<ce:para id="p0135" view="all">Step 2<ce:cross-ref id="cf0235" refid="fn0010">
+<ce:sup loc="post">2</ce:sup>
+</ce:cross-ref>
+<ce:footnote id="fn0010">
+<ce:label>2</ce:label>
+<ce:note-para id="np0055" view="all">Here we provide an example way of grinding. Any other grinding method (i.e. planetary ball mill) which can reduce the PSD of the raw materials can be used.</ce:note-para>
+</ce:footnote>:<ce:list id="l0030">
+<ce:list-item id="li0100">
+<ce:label>◦</ce:label>
+<ce:para id="p0140" view="all">Close the jar before putting it on a rolling machine for 24 h for a homogeneous mixing; remove any material stuck on the lid into the jar by interrupting the milling 2–3 times;</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0105">
+<ce:label>•</ce:label>
+<ce:para id="p0145" view="all">Step 3:<ce:list id="l0035">
+<ce:list-item id="li0110">
+<ce:label>◦</ce:label>
+<ce:para id="p0150" view="all">Filter the paste using salad spinner by manually shaking interior colander</ce:para>
+</ce:list-item>
+<ce:list-item id="li0115">
+<ce:label>◦</ce:label>
+<ce:para id="p0155" view="all">Transfer the paste into cylinder moulds (φ70mm × 140 mm);</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0120">
+<ce:label>•</ce:label>
+<ce:para id="p0160" view="all">Step 4:<ce:list id="l0040">
+<ce:list-item id="li0125">
+<ce:label>◦</ce:label>
+<ce:para id="p0165" view="all">Dry the blends at 105 °C until constant weight (~48 h, maybe longer), make sure the cylinders are completely dried, as the moisture residue in the raw cylinders would cause damage to the furnace;</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0130">
+<ce:label>•</ce:label>
+<ce:para id="p0170" view="all">Step 5:<ce:list id="l0045">
+<ce:list-item id="li0135">
+<ce:label>◦</ce:label>
+<ce:para id="p0175" view="all">Place the dried cylinder into the clean <ce:italic>Pt</ce:italic> crucible carefully;</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0140">
+<ce:label>•</ce:label>
+<ce:para id="p0180" view="all">Step 6:<ce:list id="l0050">
+<ce:list-item id="li0145">
+<ce:label>◦</ce:label>
+<ce:para id="p0185" view="all">Carefully transport the sample together with the Pt crucible into the furnace, make sure there is enough space between the crucibles to take them out of the furnace (see <ce:cross-ref id="cf0240" refid="f0020">Fig. 4</ce:cross-ref>);</ce:para>
+</ce:list-item>
+<ce:list-item id="li0150">
+<ce:label>◦</ce:label>
+<ce:para id="p0190" view="all">After required sintering time, handle the sample with full set of high-temperature protection, quench the sintered C<ce:inf loc="post">3</ce:inf>S using forced air (see <ce:cross-ref id="cf0245" refid="f0025">Fig. 5</ce:cross-ref>).</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+<ce:section id="s0040" view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title id="st0050">Sintering</ce:section-title>
+<ce:para id="p0195" view="all">The sintering temperature of 1450, 1500, 1550 and 1600 °C was used coupled with residence times of 2.5, 5, 10, 15 and 20 h, respectively. A summary of the parameters is shown in <ce:cross-ref id="cf0250" refid="t0025">Table 5</ce:cross-ref>. After sintering, C<ce:inf loc="post">3</ce:inf>S was cooled down in the forced air with a fan.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="s0045" view="compact-standard">
+<ce:label>3</ce:label>
+<ce:section-title id="st0055">Method (video can be found in Supplementary material)</ce:section-title>
+<ce:section id="s0050" view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title id="st0060">Preparation of C<ce:inf loc="post">3</ce:inf>S raw mix</ce:section-title>
+<ce:para id="p0200" view="all">The raw materials were weighed according to the steps stated previously in the materials section (<ce:cross-ref id="cf0255" refid="s0015">Section 2.1</ce:cross-ref>) as shown in <ce:cross-ref id="cf0260" refid="t0020">Table 4</ce:cross-ref>. A summarized schematic plot of the procedures is shown in <ce:cross-ref id="cf0265" refid="f0015">Fig. 3</ce:cross-ref>. <ce:cross-refs id="cf0270" refid="f0020 f0025">Figs. 4 and 5</ce:cross-refs> shows the pictures for the casting of the raw cylinder, the sintering and the quenching of the samples. More detailed steps for sample preparation are:<ce:list id="l0055">
+<ce:list-item id="li0155">
+<ce:label>•</ce:label>
+<ce:para id="p0205" view="all">Step 1:<ce:list id="l0060">
+<ce:list-item id="li0160">
+<ce:label>◦</ce:label>
+<ce:para id="p0210" view="all">Add grinding balls (2.4 kg of ~5 cm ZrO<ce:inf loc="post">2</ce:inf> ball) into the cleaned jar (volume up to 3 L);</ce:para>
+</ce:list-item>
+<ce:list-item id="li0165">
+<ce:label>◦</ce:label>
+<ce:para id="p0215" view="all">Weigh exact amount of SiO<ce:inf loc="post">2</ce:inf> into the jar; then add CaCO<ce:inf loc="post">3</ce:inf> and other oxides (i.e. Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, MgO and Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> for alite synthesis) when necessary (see <ce:cross-ref id="cf0275" refid="t0020">Table 4</ce:cross-ref>);</ce:para>
+</ce:list-item>
+<ce:list-item id="li0170">
+<ce:label>◦</ce:label>
+<ce:para id="p0220" view="all">Add ~1.5 kg (mass ratio of water/materials ~2.0) of distilled water</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0175">
+<ce:label>•</ce:label>
+<ce:para id="p0225" view="all">Step 2<ce:cross-ref id="cf0280" refid="fn0015">
+<ce:sup loc="post">2</ce:sup>
+</ce:cross-ref>
+<ce:footnote id="fn0015">
+<ce:label>2</ce:label>
+<ce:note-para id="np0060" view="all">Here we provide an example way of grinding. Any other grinding method (i.e. planetary ball mill) which can reduce the PSD of the raw materials can be used.</ce:note-para>
+</ce:footnote>:<ce:list id="l0065">
+<ce:list-item id="li0180">
+<ce:label>◦</ce:label>
+<ce:para id="p0230" view="all">Close the jar before putting it on a rolling machine for 24 h for a homogeneous mixing; remove any material stuck on the lid into the jar by interrupting the milling 2–3 times;</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0185">
+<ce:label>•</ce:label>
+<ce:para id="p0235" view="all">Step 3:<ce:list id="l0070">
+<ce:list-item id="li0190">
+<ce:label>◦</ce:label>
+<ce:para id="p0240" view="all">Filter the paste using salad spinner by manually shaking interior colander</ce:para>
+</ce:list-item>
+<ce:list-item id="li0195">
+<ce:label>◦</ce:label>
+<ce:para id="p0245" view="all">Transfer the paste into cylinder moulds (φ70mm × 140 mm);</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0200">
+<ce:label>•</ce:label>
+<ce:para id="p0250" view="all">Step 4:<ce:list id="l0075">
+<ce:list-item id="li0205">
+<ce:label>◦</ce:label>
+<ce:para id="p0255" view="all">Dry the blends at 105 °C until constant weight (~48 h, maybe longer), make sure the cylinders are completely dried, as the moisture residue in the raw cylinders would cause damage to the furnace;</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0210">
+<ce:label>•</ce:label>
+<ce:para id="p0260" view="all">Step 5:<ce:list id="l0080">
+<ce:list-item id="li0215">
+<ce:label>◦</ce:label>
+<ce:para id="p0265" view="all">Place the dried cylinder into the clean <ce:italic>Pt</ce:italic> crucible carefully;</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0220">
+<ce:label>•</ce:label>
+<ce:para id="p0270" view="all">Step 6:<ce:list id="l0085">
+<ce:list-item id="li0225">
+<ce:label>◦</ce:label>
+<ce:para id="p0275" view="all">Carefully transport the sample together with the Pt crucible into the furnace, make sure there is enough space between the crucibles to take them out of the furnace (see <ce:cross-ref id="cf0285" refid="f0020">Fig. 4</ce:cross-ref>);</ce:para>
+</ce:list-item>
+<ce:list-item id="li0230">
+<ce:label>◦</ce:label>
+<ce:para id="p0280" view="all">After required sintering time, handle the sample with full set of high-temperature protection, quench the sintered C<ce:inf loc="post">3</ce:inf>S using forced air (see <ce:cross-ref id="cf0290" refid="f0025">Fig. 5</ce:cross-ref>).</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+<ce:section id="s0055" view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title id="st0065">Sintering</ce:section-title>
+<ce:para id="p0285" view="all">The sintering temperature of 1450, 1500, 1550 and 1600 °C was used coupled with residence times of 2.5, 5, 10, 15 and 20 h, respectively. A summary of the parameters is shown in <ce:cross-ref id="cf0295" refid="t0025">Table 5</ce:cross-ref>. After sintering, C<ce:inf loc="post">3</ce:inf>S was cooled down in the forced air with a fan.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="s0060" view="all">
+<ce:label>4</ce:label>
+<ce:section-title id="st0070">Safety</ce:section-title>
+<ce:section id="s0065" view="all">
+<ce:label>4.1</ce:label>
+<ce:section-title id="st0075">Furnace and high-temperature safety</ce:section-title>
+<ce:para id="p0290" view="all">
+<ce:float-anchor refid="t0020"/>
+<ce:float-anchor refid="f0015"/>
+<ce:float-anchor refid="f0020"/>
+<ce:float-anchor refid="f0025"/>
+<ce:float-anchor refid="t0025"/>Make sure the cylinders are completely dry before putting them into the furnace, otherwise any moisture in the samples risks damaging the heating units and refractory materials inside the furnace. Make sure the green cylinder was standing still in the Pt crucible without any following pieces out of the crucible, open the furnace to check the status of the reacting cylinders once or twice, especially for the first few sintering experiments. Wear welding glasses, heat resistance helmet/head mask, chest protection, lab coat, safety shoes and heat resistance gloves when handling samples at high temperature. Special care must be taken to avoid touching the heating units when taking the sample in and out, which are extremely fragile.</ce:para>
+</ce:section>
+<ce:section id="s0070" view="all">
+<ce:label>4.2</ce:label>
+<ce:section-title id="st0080">Handling fumed silica</ce:section-title>
+<ce:para id="p0295" view="all">The potential danger of fumed silica is inhalation hazardous, skin and/or eye contact according to OSHA (Occupational Safety and Health Administration) [<ce:cross-ref id="cf0300" refid="bb0110">22</ce:cross-ref>]. In inhalation studies, none of the examined synthetic amorphous silica led to durable changes in the lung or to progressive damage comparable to silicosis [<ce:cross-ref id="cf0305" refid="bb0115">23</ce:cross-ref>,<ce:cross-ref id="cf0310" refid="bb0120">24</ce:cross-ref>]. However, when exposed to high concentration (3 mg/m<ce:sup loc="post">3</ce:sup>), there could be a danger to life or health according to NIOSH (The National Institute for Occupational Safety and Health) [<ce:cross-ref id="cf0315" refid="bb0125">25</ce:cross-ref>]. The important steps for the protection are: wear N95 mask (FFP3 mask when nano powders are involved), safety glasses, hygienic cap, lab coat, gloves, and handle the fumed silica in the ventilation hood. The waste powder should be cleaned with a piece of wet cloth or paper.</ce:para>
+<ce:para id="p0300" view="all">Fumed silica (amorphous) with larger particle size (&gt;100 nm, i.e. 0.2 μm) was recommended to avoid handling nano particles. Constituent particles in the size range 1–100 nm was considered nano particles [<ce:cross-ref id="cf0320" refid="bb0130">26</ce:cross-ref>]. As long as SiO<ce:inf loc="post">2</ce:inf> powder was mixed with water, there is no more danger. Principally, the rules for handling nano-particles must be followed according to the specific protocols from the institution/laboratory if nano fumed silica is used, for more details the reader is referred to the paper by Groso et al. [<ce:cross-ref id="cf0325" refid="bb0135">27</ce:cross-ref>].</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="s0075" view="all">
+<ce:label>5</ce:label>
+<ce:section-title id="st0085">Results</ce:section-title>
+<ce:para id="p0305" view="all">The characteristic ranges of the XRD pattern accompanied by the Rietveld fitting (as shown in <ce:cross-ref id="cf0330" refid="f0030">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="f0030"/>) showed the presence of T1 polymorph for C<ce:inf loc="post">3</ce:inf>S [<ce:cross-refs id="cf0335" refid="bb0140 bb0145 bb0150">28–30</ce:cross-refs>].</ce:para>
+<ce:section id="s0080" view="all">
+<ce:label>5.1</ce:label>
+<ce:section-title id="st0090">Optimal sintering condition</ce:section-title>
+<ce:para id="p0310" view="all">The quantitative Rietveld results from the different sintering temperatures and residence times (shown in <ce:cross-ref id="cf0340" refid="t0025">Table 5</ce:cross-ref>) were compiled into contour plots of the C<ce:inf loc="post">3</ce:inf>S and f-CaO (free lime) content as shown in <ce:cross-ref id="cf0345" refid="f0035">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="f0035"/>. These can be used to determine conditions for practical sintering [<ce:cross-refs id="cf0350" refid="bb0155 bb0160 bb0165">31–33</ce:cross-refs>]. For instance, a sample with ~96 wt% C<ce:inf loc="post">3</ce:inf>S and ~0.3 wt% f-CaO can be sintered at point P1, P2 or P3 as shown in <ce:cross-ref id="cf0355" refid="f0035">Fig. 7</ce:cross-ref>. So, the sintering can be done with a short resistance time (≤5 h) for temperatures ≥1550 °C or a longer time (≥10 h) for temperatures ≤1500 °C. The practical choice of the sintering temperature depends on the length of the working day and the model of the furnace available. Near identical results were obtained for both the silicas used (see <ce:cross-ref id="cf0360" refid="t0025">Table 5</ce:cross-ref>).</ce:para>
+<ce:para id="p0315" view="all">Samples from different places of the cylinder were taken to check the homogeneity of the sintered C<ce:inf loc="post">3</ce:inf>S (as shown in <ce:cross-ref id="cf0365" refid="t0025">Table 5</ce:cross-ref>). There was no significant difference in the mineral composition for samples taken from different positions. Micrographs of the raw mix and the sintered C<ce:inf loc="post">3</ce:inf>S (<ce:cross-ref id="cf0370" refid="f0040">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="f0040"/> (a) and (b)) also show good homogeneity.</ce:para>
+<ce:para id="p0320" view="all">For most of the study, a heating speed of 5° per minute was used, but a faster heating speed of 7 °C/min had no negative impact on the quality of the C<ce:inf loc="post">3</ce:inf>S (see <ce:cross-ref id="cf0375" refid="t0025">Table 5</ce:cross-ref>). This faster heating speed decreases the total synthesis time to 6.7 h which can be fitted into a normal working day when C<ce:inf loc="post">3</ce:inf>S is sintered at 1600 °C for 3 h (point P3 in <ce:cross-ref id="cf0380" refid="f0035">Fig. 7</ce:cross-ref>). This avoids using the furnace overnight. For most of high-temperature furnaces (up to 1600–1700 °C), a heating speed of 7 °C /min is practical, as 5–10 °C/min is usually recommended.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="s0085" view="all">
+<ce:label>6</ce:label>
+<ce:section-title id="st0095">Discussion and conclusion</ce:section-title>
+<ce:para id="p0325" view="all">Here, a simplified process for C<ce:inf loc="post">3</ce:inf>S synthesis is reported, using amorphous silica and avoiding pressing raw mix into discs. This greatly increases the efficiency of C<ce:inf loc="post">3</ce:inf>S synthesis at the laboratory scale. The sintering can be done at short resistance times (≤5 h) when temperatures ≥1550 °C are used.</ce:para>
+<ce:para id="p0330" view="all">A detailed comparison of the protocols used for C<ce:inf loc="post">3</ce:inf>S synthesis is summarized in <ce:cross-ref id="cf0385" refid="t0030">Table 6</ce:cross-ref>
+<ce:float-anchor refid="t0030"/>.</ce:para>
+<ce:para id="p0335" view="all">The capacity of the C<ce:inf loc="post">3</ce:inf>S synthesis under these conditions was ~2 kg/week which was 5–10 times more than that from the traditional routine (see <ce:cross-ref id="cf0390" refid="t0030">Table 6</ce:cross-ref>). The quality of the final C<ce:inf loc="post">3</ce:inf>S was good (with 96–98 wt% of C<ce:inf loc="post">3</ce:inf>S and f-CaO &lt;0.4 wt%).</ce:para>
+<ce:para id="p0340" view="all">The dried cast cylinder is porous which promotes the escape of CO<ce:inf loc="post">2</ce:inf> inside of the cylinder during the decomposition of the CaCO<ce:inf loc="post">3</ce:inf>. The resulting C<ce:inf loc="post">3</ce:inf>S blocks were also porous (see <ce:cross-ref id="cf0395" refid="f0040">Fig. 8</ce:cross-ref> (b)) and easy to grind.</ce:para>
+<ce:para id="p0345" view="all">The main aspects of improvement are (see <ce:cross-ref id="cf0400" refid="t0010">Table 2</ce:cross-ref> and <ce:cross-ref id="cf0405" refid="f0015">Fig. 3</ce:cross-ref>):<ce:list id="l0090">
+<ce:list-item id="li0235">
+<ce:label>•</ce:label>
+<ce:para id="p0350" view="all">
+<ce:italic>Raw mix preparation: use cast cylinders instead of pressed discs.</ce:italic>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0240">
+<ce:label>•</ce:label>
+<ce:para id="p0355" view="all">
+<ce:italic>Sintering time: improved burnability as the use of amorphous silica and decreased PSD for calcium carbonate by grinding</ce:italic>
+</ce:para>
+</ce:list-item>
+<ce:list-item id="li0245">
+<ce:label>•</ce:label>
+<ce:para id="p0360" view="all">
+<ce:italic>Capacity of the crucible and furnace</ce:italic>: <ce:italic>increased capacity as the use of cast cylinders.</ce:italic>
+</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+<ce:para id="p0365" view="all">The D<ce:inf loc="post">v50</ce:inf> of the calcite was decreased from 16 μm to ~4 μm after grinding (see <ce:cross-ref id="cf0410" refid="t0015">Table 3</ce:cross-ref>). The simplified process by casting the paste into cylinder contributed to the capacity of the C<ce:inf loc="post">3</ce:inf>S synthesis.</ce:para>
+<ce:para id="p0370" view="all">Alite doped with oxides (i.e. Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, ZnO, MgO etc.) could also be produced using the procedure reported here. The homogeneity of the alite doped with chemicals with high dissolution rates in water (i.e. alkali, gypsum etc.) must be checked before moving to the massive synthesis. This is also the case when using colloidal silica (i.e. Ludox® GRACE, Sigma-Aldrich) as the source of SiO<ce:inf loc="post">2</ce:inf>, as colloidal silica typically contains relative high sodium content. Because the water migration and evaporation during the drying process of the raw mix might cause some inhomogeneity of these samples. The process reported here for alite synthesis could be used for belite at a lowered sintering temperature, typically at 1350 °C.</ce:para>
+<ce:para id="p0375" view="extended">The following is the supplementary data related to this article.<ce:display>
+<ce:e-component id="ec0005">
+<ce:label>Supplementary video 1</ce:label>
+<ce:caption id="ca5000">
+<ce:simple-para id="sp5000" view="all">Demo video of the C<ce:inf loc="post">3</ce:inf>S synthesis</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="al0075" role="short">Supplementary video 1</ce:alt-text>
+<ce:link id="lk0045" locator="mmc1" xlink:href="pii:S000888461730981X/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.2" xlink:type="simple"/>
+</ce:e-component>
+</ce:display>
+</ce:para>
+<ce:para id="p0380" view="compact-standard">Supplementary data to this article can be found online at <ce:inter-ref id="ir0005" xlink:href="https://doi.org/10.1016/j.cemconres.2018.03.019" xlink:type="simple">https://doi.org/10.1016/j.cemconres.2018.03.019</ce:inter-ref>.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment id="ac0005" view="all">
+<ce:section-title id="st0100">Acknowledgement</ce:section-title>
+<ce:para id="p0385" view="all">We appreciate the stimulating comments from the anonymous reviewer. Thanks to Dr. Emmanuelle Boehm Courjault from laboratory of construction materials (LMC) of EPFL for the help on the experiments and discussions, Wioletta Soja and Edgar Smit for the help on taking the pictures. Eric Alvarez Lalana was also acknowledged for the contribution on the demo videos.</ce:para>
+</ce:acknowledgment>
+<ce:appendices view="all">
+<ce:section id="s0090" view="all">
+<ce:label>Appendix A</ce:label>
+<ce:section-title id="st0105">Annex</ce:section-title>
+<ce:section id="s0095" view="all">
+<ce:label>A.1</ce:label>
+<ce:section-title id="st0110">Demo video of the C<ce:inf loc="post">3</ce:inf>S synthesis</ce:section-title>
+<ce:para id="p0390" view="all">The whole process of C<ce:inf loc="post">3</ce:inf>S synthesis reported here is recorded (see supplementary materials).</ce:para>
+</ce:section>
+<ce:section id="s0100" view="all">
+<ce:label>A.2</ce:label>
+<ce:section-title id="st0115">X-ray powder diffraction and Rietveld analysis</ce:section-title>
+<ce:para id="p0395" view="all">Approximately 5 g of powder was ground by hand for XRD analysis using mortar and pestle. X-ray powder diffraction (XRD) data were collected using PANalytical X'pert pro working at 45 kV and 40 mA immediately after the C<ce:inf loc="post">3</ce:inf>S was sintered to avoid hydration. Incident beam Soller slits of 0.04 rad were used and the incident divergence and antiscatter slits were fixed at 0.5°. Air scattering was reduced using a beam knife. The receiving antiscatter slit was fixed at 1° and receiving Soller slits limiting the axial divergence to 0.04 rad were positioned in the diffracted beam path. An X'Celerator linear position-sensitive X-ray detector was used for data acquisition. Powder samples were backloaded and measured with an accumulated time per step of 60 s, resulting in a total measurement time of about 30 min per scan. Samples were scanned on a spinning sample stage between 5 and 65° with 0.017°2θ step size.</ce:para>
+<ce:para id="p0400" view="all">Rietveld analysis was made using TOPAS academic (version 6.0). The refined parameters are background, sample displacement, scale, unit cell and Lorentz crystal size (fundamental profile describing the peak shape [<ce:cross-ref id="cf0415" refid="bb0170">34</ce:cross-ref>]). The crystal structures used were: T1 polymorph for C<ce:inf loc="post">3</ce:inf>S (ICSD No. 4331) [<ce:cross-ref id="cf0420" refid="bb0140">28</ce:cross-ref>], beta C<ce:inf loc="post">2</ce:inf>S (ICSD No. 81096) [<ce:cross-ref id="cf0425" refid="bb0175">35</ce:cross-ref>] and f-CaO (ICSD No. 75786). Average weighed residue R<ce:inf loc="post">wp</ce:inf> was ~10% for the refinements.</ce:para>
+</ce:section>
+<ce:section id="s0105" view="all">
+<ce:label>A.3</ce:label>
+<ce:section-title id="st0120">Particle size distribution</ce:section-title>
+<ce:para id="p0405" view="all">Particle size distribution (PSD) was measured using a Malvern Master Sizer device. Powdered samples were dispersed using ultrasonic horn and magnetic stirrer in isopropanol for 15 min. The reflection index of the CaCO<ce:inf loc="post">3</ce:inf> and the raw mix were set to 1.6.</ce:para>
+</ce:section>
+<ce:section id="s0110" view="all">
+<ce:label>A.4</ce:label>
+<ce:section-title id="st0125">Back scattered electron images</ce:section-title>
+<ce:para id="p0410" view="all">Blocks of samples and pressed discs made with powders were impregnated into the resin under vacuum. The polished section was coated with ~14 nm carbon before the SEM. Backscattered electron images were taken using 15 kV accelerating voltage with a working distance of 10 mm at a spot size of 4.2 on a FEI QUANTA 200 microscopy.</ce:para>
+</ce:section>
+</ce:section>
+</ce:appendices>
+</body>
+<tail view="all">
+<ce:bibliography id="bi0005" view="all">
+<ce:section-title id="st0130">References</ce:section-title>
+<ce:bibliography-sec id="bs0005" view="all">
+<ce:bib-reference id="bb0005">
+<ce:label>[1]</ce:label>
+<sb:reference id="rf0005">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Bazzoni</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Cantoni</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.L.</ce:given-name>
+<ce:surname>Scrivener</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Impact of annealing on the early hydration of tricalcium silicate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>97</sb:volume-nr>
+</sb:series>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>584</sb:first-page>
+<sb:last-page>591</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0010">
+<ce:label>[2]</ce:label>
+<sb:reference id="rf0010">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Wesselsky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Synthesis of pure Portland cement phases</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:date>2009</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>973</sb:first-page>
+<sb:last-page>980</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0015">
+<ce:label>[3]</ce:label>
+<sb:reference id="rf0015">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Ye</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Xue</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal chemistry study on the solid solutions of tricalcium silicate containing fluorine and sulfur</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Guisuanyan Xuebao</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>97</sb:first-page>
+<sb:last-page>104</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0020">
+<ce:label>[4]</ce:label>
+<sb:reference id="rf0020">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Stevula</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Petrovic</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Hydration of polymorphic modification C3S</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:date>1981</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>183</sb:first-page>
+<sb:last-page>190</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0025">
+<ce:label>[5]</ce:label>
+<sb:reference id="rf0025">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.A.S.</ce:given-name>
+<ce:surname>Tenório</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.S.R.</ce:given-name>
+<ce:surname>Pereira</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Ferreira</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.C.R.</ce:given-name>
+<ce:surname>Espinosa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.M.</ce:given-name>
+<ce:surname>Barros</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Araujo</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>CCT diagrams of tricalcium silicate decomposition</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adv. Cem. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>31</sb:first-page>
+<sb:last-page>33</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0030">
+<ce:label>[6]</ce:label>
+<sb:reference id="rf0030">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Stephan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Maleki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Knöfel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Eber</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Härdtl</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Influence of Cr, Ni, and Zn on the properties of pure clinker phases: part I. C3S</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>29</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>545</sb:first-page>
+<sb:last-page>552</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0035">
+<ce:label>[7]</ce:label>
+<sb:reference id="rf0035">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Mohan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.P.</ce:given-name>
+<ce:surname>Glasser</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The thermal decomposition of Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf> at temperatures below 1250 °C: part 1. Pure C<ce:inf loc="post">3</ce:inf>S and the influence of excess CaO or Ca<ce:inf loc="post">2</ce:inf>SiO<ce:inf loc="post">4</ce:inf>
+</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>1977</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>7</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0040">
+<ce:label>[8]</ce:label>
+<sb:reference id="rf0040">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Bazzoni</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Ma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Cantoni</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.L.</ce:given-name>
+<ce:surname>Scrivener</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The effect of magnesium and zinc ions on the hydration kinetics of C3S</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>97</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>11</sb:issue-nr>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3684</sb:first-page>
+<sb:last-page>3693</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0045">
+<ce:label>[9]</ce:label>
+<sb:reference id="rf0045">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Hills</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Tyrer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Slipper</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Brough</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Characterisation of products of tricalcium silicate hydration in the presence of heavy metals</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>147</sb:volume-nr>
+</sb:series>
+<sb:date>2007</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>817</sb:first-page>
+<sb:last-page>825</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0050">
+<ce:label>[10]</ce:label>
+<sb:reference id="rf0050">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Odler</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Abdul-Maula</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Polymorphism and hydration of tricalcium silicate doped with ZnO</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>66</sb:volume-nr>
+</sb:series>
+<sb:date>1983</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>04</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0055">
+<ce:label>[11]</ce:label>
+<sb:reference id="rf0055">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.G.</ce:given-name>
+<ce:surname>De la Torre</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.N.</ce:given-name>
+<ce:surname>De Vera</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.J.M.</ce:given-name>
+<ce:surname>Cuberos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.G.</ce:given-name>
+<ce:surname>Aranda</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal structure of low magnesium-content alite: application to Rietveld quantitative phase analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>38</sb:volume-nr>
+</sb:series>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1261</sb:first-page>
+<sb:last-page>1269</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0060">
+<ce:label>[12]</ce:label>
+<sb:reference id="rf0060">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.G.</ce:given-name>
+<ce:surname>De La Torre</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Bruque</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Campo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.G.</ce:given-name>
+<ce:surname>Aranda</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The superstructure of C3S from synchrotron and neutron powder diffraction and its role in quantitative phase analyses</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1347</sb:first-page>
+<sb:last-page>1356</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0065">
+<ce:label>[13]</ce:label>
+<sb:reference id="rf0065">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.N.</ce:given-name>
+<ce:surname>de Noirfontaine</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Courtial</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Dunstetter</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Gasecki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Signes Frehel</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Tricalcium silicate Ca<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">5</ce:inf>: the major compound of anhydrous Portland cement revisited</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Crystallogr. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>56</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>s159</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0070">
+<ce:label>[14]</ce:label>
+<sb:reference id="rf0070">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.T.H.</ce:given-name>
+<ce:surname>Aldous</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The hydraulic behaviour of rhombohedral alite</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:date>1983</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>89</sb:first-page>
+<sb:last-page>96</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0075">
+<ce:label>[15]</ce:label>
+<sb:reference id="rf0075">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Stephan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Wistuba</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal structure refinement and hydration behaviour of doped tricalcium aluminate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>36</sb:volume-nr>
+</sb:series>
+<sb:date>2006</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2011</sb:first-page>
+<sb:last-page>2020</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0080">
+<ce:label>[16]</ce:label>
+<sb:reference id="rf0080">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Stephan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Wilhelm</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Synthesis of pure cementitious phases by sol-gel process as precursor</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Anorg. Allg. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>630</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1477</sb:first-page>
+<sb:last-page>1483</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0085">
+<ce:label>[17]</ce:label>
+<sb:reference id="rf0085">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Thomson</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Kinetic studies of tricalcium silicate formation from sol-gel precursors</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>31</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1319</sb:first-page>
+<sb:last-page>1325</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0090">
+<ce:label>[18]</ce:label>
+<sb:reference id="rf0090">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Sorrentino</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Upscaling the synthesis of tricalcium silicate and alite</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cement Wapno Beton</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>177</sb:first-page>
+<sb:last-page>183</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0095">
+<ce:label>[19]</ce:label>
+<sb:reference id="rf0095">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.-J.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.M.</ce:given-name>
+<ce:surname>Kriven</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Synthesis and hydration study of Portland cement components prepared by the organic steric entrapment method</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Struct.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>38</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>87</sb:first-page>
+<sb:last-page>92</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0100">
+<ce:label>[20]</ce:label>
+<sb:reference id="rf0100">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.-J.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.A.</ce:given-name>
+<ce:surname>Benson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.M.</ce:given-name>
+<ce:surname>Kriven</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Preparation of Portland cement components by poly(vinyl alcohol) solution polymerization</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>82</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2049</sb:first-page>
+<sb:last-page>2055</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0105">
+<ce:label>[21]</ce:label>
+<sb:reference id="rf0105">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.M.C.</ce:given-name>
+<ce:surname>Fernandez</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effect of Particle Size on the Hydration Kinetics and Microstructural Development of Tricalcium Silicate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>2008</sb:date>
+<sb:publisher>
+<sb:name>École Polytechnique Fédérale de Lausanne</sb:name>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0110">
+<ce:label>[22]</ce:label>
+<sb:reference id="rf0110">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:surname>Occupational safety and health administration</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:e-host>
+<ce:inter-ref id="ir0010" xlink:href="https://www.osha.gov/dts/chemicalsampling/data/CH_266700.html" xlink:type="simple">https://www.osha.gov/dts/chemicalsampling/data/CH_266700.html</ce:inter-ref>
+</sb:e-host>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0115">
+<ce:label>[23]</ce:label>
+<sb:reference id="rf0115">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Merget</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Bauer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Küpper</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Philippou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Bauer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Breitstadt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Bruening</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Health hazards due to the inhalation of amorphous silica</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Arch. Toxicol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>75</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>625</sb:first-page>
+<sb:last-page>634</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0120">
+<ce:label>[24]</ce:label>
+<sb:reference id="rf0120">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.H.E.</ce:given-name>
+<ce:surname>Arts</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Muijser</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Duistermaat</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Junker</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.F.</ce:given-name>
+<ce:surname>Kuper</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Five-day inhalation toxicity study of three types of synthetic amorphous silicas in Wistar rats and post-exposure evaluations for up to 3 months</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Food Chem. Toxicol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>2007</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1856</sb:first-page>
+<sb:last-page>1867</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0125">
+<ce:label>[25]</ce:label>
+<sb:reference id="rf0125">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:surname>T.N.I.f.O.S.a.H. (NIOSH)</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Silica, amorphous</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:e-host>
+<ce:inter-ref id="ir0015" xlink:href="https://www.cdc.gov/niosh/idlh/7631869.html" xlink:type="simple">https://www.cdc.gov/niosh/idlh/7631869.html</ce:inter-ref>
+</sb:e-host>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0130">
+<ce:label>[26]</ce:label>
+<sb:reference id="rf0130">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:surname>EU</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Commission Recommendation of 18 October 2011 on the Definition of Nanomaterial (2011/696/EU)</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>2011</sb:date>
+<sb:publisher>
+<sb:name>European Commission</sb:name>
+</sb:publisher>
+</sb:book>
+<sb:pages>
+<sb:first-page>38</sb:first-page>
+<sb:last-page>40</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0135">
+<ce:label>[27]</ce:label>
+<sb:reference id="rf0135">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Groso</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Petri-Fink</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Rothen-Rutishauser</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Hofmann</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Meyer</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Engineered nanomaterials: toward effective safety management in research laboratories</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Nanobiotechnol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>2016</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>21</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0140">
+<ce:label>[28]</ce:label>
+<sb:reference id="rf0140">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.I.</ce:given-name>
+<ce:surname>Golovastikov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.G.</ce:given-name>
+<ce:surname>Matveeva</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.V.</ce:given-name>
+<ce:surname>Belov</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Crystal structure of the tricalcium silicate (CaO)<ce:inf loc="post">3</ce:inf>SiO<ce:inf loc="post">2</ce:inf> = C<ce:inf loc="post">3</ce:inf>S</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Kristallografiya</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1975</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>721</sb:first-page>
+<sb:last-page>729</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0145">
+<ce:label>[29]</ce:label>
+<sb:reference id="rf0145">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Bigaré</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Guinier</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>MazièRES</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Regourd</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Yannaquis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Eysbl</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Hahn</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Woermann</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Polymorphism of tricalcium silicate and its solid solutions</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>50</sb:volume-nr>
+</sb:series>
+<sb:date>1967</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>609</sb:first-page>
+<sb:last-page>619</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0150">
+<ce:label>[30]</ce:label>
+<sb:reference id="rf0150">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>He</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Pan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Precise characterization of polymorphs of tricalcium silicate using X-ray diffraction</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Chin. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>178</sb:first-page>
+<sb:last-page>182</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0155">
+<ce:label>[31]</ce:label>
+<sb:reference id="rf0155">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.L.</ce:given-name>
+<ce:surname>Bookstein</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Principal warps: thin-plate splines and the decomposition of deformations</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>IEEE Trans. Pattern Anal. Mach. Intell.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>567</sb:first-page>
+<sb:last-page>585</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0160">
+<ce:label>[32]</ce:label>
+<sb:reference id="rf0160">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:surname>OriginLab</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Thin Plane Spline interpolation</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:e-host>
+<ce:inter-ref id="ir0020" xlink:href="http://originlab.com/doc/X-Function/ref/xyz_tps" xlink:type="simple">http://originlab.com/doc/X-Function/ref/xyz_tps</ce:inter-ref>
+</sb:e-host>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0165">
+<ce:label>[33]</ce:label>
+<sb:reference id="rf0165">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Pan</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Kinetics of calcium sulfoaluminate formation from tricalcium aluminate, calcium sulfate and calcium oxide</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cem. Concr. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>55</sb:volume-nr>
+</sb:series>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>79</sb:first-page>
+<sb:last-page>87</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0170">
+<ce:label>[34]</ce:label>
+<sb:reference id="rf0170">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Cheary</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.A.</ce:given-name>
+<ce:surname>Coelho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Cline</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Fundamental parameters line profile fitting in laboratory diffractometers</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Res. Natl. Inst. Stand. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>109</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>25</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bb0175">
+<ce:label>[35]</ce:label>
+<sb:reference id="rf0175">
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Mumme</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Hill</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Bushnell-Wye</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Segnit</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Rietveld crystal structure refinements, crystal chemistry and calculated powder diffraction data for the polymorphs of dicalcium silicate and related phases</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>N. Jb. Mineral. (Abh.)</sb:maintitle>
+</sb:title>
+<sb:volume-nr>169</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>35</sb:first-page>
+<sb:last-page>68</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
