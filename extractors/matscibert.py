@@ -1,8 +1,11 @@
 """MatSciBERT NER, relation classification, and sentence embeddings for PL jsonl records.
 
 The NER and relation models are called from functions in this file. They do not
-import or shell out to the matra package. Embeddings follow the MatSciBERT
-README: normalize, tokenize, then take the last hidden state.
+import or shell out to the matra package. Task checkpoints come from the Zenodo
+archive at https://zenodo.org/records/6413296 (downloaded by ensure_matscibert).
+The base encoder is the Hugging Face id used by that archive's README,
+m3rg-iitd/matscibert. Embeddings follow that README: normalize, tokenize, then
+take the last hidden state.
 """
 
 from __future__ import annotations
@@ -12,6 +15,8 @@ import json
 import os
 import re
 import sys
+import urllib.request
+import zipfile
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
@@ -27,21 +32,11 @@ except ImportError:
     from normalize_text import normalize
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-_DEFAULT_ENCODER = Path(
-    "/home/mzaki4/.cache/huggingface/hub/models--m3rg-iitd--matscibert/snapshots/ced9d8f5f208712c4a90f98a246fe32155b29995"
-)
-_NER_WEIGHTS = Path(
-    os.environ.get(
-        "MATSCIBERT_NER_WEIGHTS",
-        "/home/mzaki4/scr16_mshiel10/mzaki4/mzaki4/zenodo/MatSciBERT/ner/models/matscholar/pytorch_model.bin",
-    )
-)
-_RC_WEIGHTS = Path(
-    os.environ.get(
-        "MATSCIBERT_RC_WEIGHTS",
-        "/home/mzaki4/scr16_mshiel10/mzaki4/mzaki4/zenodo/MatSciBERT/relation_classification/model/pytorch_model.bin",
-    )
-)
+ZENODO_RECORD = "https://zenodo.org/records/6413296"
+ZENODO_ZIP_URL = "https://zenodo.org/records/6413296/files/MatSciBERT.zip?download=1"
+ZENODO_CACHE = REPO_ROOT / "data" / "matscibert_zenodo"
+# The Zenodo scripts load this Hugging Face id for the base encoder. The zip holds the task checkpoints.
+BASE_ENCODER = "m3rg-iitd/matscibert"
 TEXT_KEYS = ("synthesis", "experimental")
 MAX_SEQ_LEN = 512
 NER_LABELS = [
@@ -146,21 +141,81 @@ class BERT_RC(nn.Module):
         return self.linear(self.dropout(joined))
 
 
-def encoder_dir() -> Path:
-    env = os.environ.get("MATSCIBERT_DIR", "").strip()
-    candidates = []
+def _is_matscibert_root(path: Path) -> bool:
+    return (path / "ner" / "models" / "matscholar" / "pytorch_model.bin").is_file() and (
+        path / "relation_classification" / "model" / "pytorch_model.bin"
+    ).is_file()
+
+
+def _find_extracted_root(directory: Path) -> Optional[Path]:
+    if _is_matscibert_root(directory):
+        return directory
+    if not directory.is_dir():
+        return None
+    for child in directory.iterdir():
+        if child.is_dir() and _is_matscibert_root(child):
+            return child
+    return None
+
+
+def _download(url: str, dest: Path) -> None:
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    partial = dest.with_suffix(dest.suffix + ".partial")
+    print(f"Downloading {url} -> {dest}", flush=True)
+    with urllib.request.urlopen(url) as response, partial.open("wb") as handle:
+        while True:
+            chunk = response.read(1024 * 1024)
+            if not chunk:
+                break
+            handle.write(chunk)
+    partial.replace(dest)
+
+
+def ensure_matscibert() -> Path:
+    """Return the extracted MatSciBERT tree from Zenodo record 6413296.
+
+    Uses MATSCIBERT_ROOT when that directory is already extracted. Otherwise
+    downloads MatSciBERT.zip into data/matscibert_zenodo and unzips it.
+    """
+    env = os.environ.get("MATSCIBERT_ROOT", "").strip()
     if env:
-        candidates.append(Path(env))
-    candidates.extend(
-        [
-            Path("/scratch16/mshiel10/mzaki4/github/matra/models/matscibert"),
-            _DEFAULT_ENCODER,
-        ]
-    )
-    for path in candidates:
-        if (path / "pytorch_model.bin").is_file() or (path / "model.safetensors").is_file():
-            return path
-    raise FileNotFoundError("MatSciBERT encoder weights not found. Set MATSCIBERT_DIR.")
+        root = _find_extracted_root(Path(env))
+        if root is None:
+            raise FileNotFoundError(f"MATSCIBERT_ROOT is not a MatSciBERT checkout: {env}")
+        return root
+    cached = _find_extracted_root(ZENODO_CACHE)
+    if cached is not None:
+        return cached
+    ZENODO_CACHE.mkdir(parents=True, exist_ok=True)
+    zip_path = ZENODO_CACHE / "MatSciBERT.zip"
+    if not zip_path.is_file() or zip_path.stat().st_size < 1_000_000:
+        _download(ZENODO_ZIP_URL, zip_path)
+    with zipfile.ZipFile(zip_path) as archive:
+        archive.extractall(ZENODO_CACHE)
+    root = _find_extracted_root(ZENODO_CACHE)
+    if root is None:
+        raise FileNotFoundError(f"MatSciBERT.zip from {ZENODO_RECORD} did not contain the NER and relation checkpoints")
+    return root
+
+
+def model_endpoints(root: Optional[Path] = None) -> dict:
+    """Paths of the task checkpoints inside the Zenodo MatSciBERT tree."""
+    tree = root or ensure_matscibert()
+    return {
+        "root": tree,
+        "encoder": encoder_name(),
+        "ner_weights": tree / "ner" / "models" / "matscholar" / "pytorch_model.bin",
+        "relation_weights": tree / "relation_classification" / "model" / "pytorch_model.bin",
+        "classification_weights": tree / "cls" / "model" / "pytorch_model.bin",
+        "sofc_weights": tree / "ner" / "models" / "sofc" / "pytorch_model.bin",
+        "sofc_slot_weights": tree / "ner" / "models" / "sofc_slot" / "pytorch_model.bin",
+    }
+
+
+def encoder_name() -> str:
+    """Base MatSciBERT id. The Zenodo README loads this from Hugging Face."""
+    override = os.environ.get("MATSCIBERT_DIR", "").strip()
+    return override or BASE_ENCODER
 
 
 def load_documents(path: Optional[os.PathLike] = None) -> List[dict]:
@@ -612,14 +667,15 @@ def _device():
 def _ner_runtime():
     global _NER
     if _NER is None:
-        if not _NER_WEIGHTS.is_file():
-            raise FileNotFoundError(f"NER weights not found: {_NER_WEIGHTS}")
+        weights = model_endpoints()["ner_weights"]
+        if not weights.is_file():
+            raise FileNotFoundError(f"NER weights not found: {weights}")
         device = _device()
-        name = str(encoder_dir())
+        name = encoder_name()
         tokenizer = AutoTokenizer.from_pretrained(name, use_fast=True, model_max_length=MAX_SEQ_LEN)
         config = AutoConfig.from_pretrained(name, num_labels=len(NER_LABELS))
         model = BERT_CRF(name, device, config)
-        state = torch.load(str(_NER_WEIGHTS), map_location="cpu")
+        state = torch.load(str(weights), map_location="cpu")
         model.load_state_dict(state)
         _NER = (tokenizer, model.to(device).eval(), device)
     return _NER
@@ -628,15 +684,16 @@ def _ner_runtime():
 def _rc_runtime():
     global _RC
     if _RC is None:
-        if not _RC_WEIGHTS.is_file():
-            raise FileNotFoundError(f"Relation weights not found: {_RC_WEIGHTS}")
+        weights = model_endpoints()["relation_weights"]
+        if not weights.is_file():
+            raise FileNotFoundError(f"Relation weights not found: {weights}")
         device = _device()
-        name = str(encoder_dir())
+        name = encoder_name()
         tokenizer = AutoTokenizer.from_pretrained(name, use_fast=True, model_max_length=MAX_SEQ_LEN)
         tokenizer.add_tokens(MARKER_TOKENS)
         config = AutoConfig.from_pretrained(name)
         model = BERT_RC(config, len(tokenizer))
-        state = torch.load(str(_RC_WEIGHTS), map_location="cpu")
+        state = torch.load(str(weights), map_location="cpu")
         state.pop("encoder.embeddings.position_ids", None)
         model.load_state_dict(state, strict=False)
         _RC = (tokenizer, model.to(device).eval(), device)
@@ -646,7 +703,7 @@ def _rc_runtime():
 def _embedding_runtime():
     global _ENCODER_TOK, _ENCODER
     if _ENCODER is None:
-        name = str(encoder_dir())
+        name = encoder_name()
         _ENCODER_TOK = AutoTokenizer.from_pretrained(name)
         _ENCODER = AutoModel.from_pretrained(name).to(_device()).eval()
     return _ENCODER_TOK, _ENCODER
@@ -664,7 +721,12 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
     parser.add_argument("--output", default=str(REPO_ROOT / "data" / "matscibert_relations.jsonl"))
     parser.add_argument("--embed-doc", type=int, default=None)
     parser.add_argument("--embed-sent", type=int, default=0)
+    parser.add_argument("--endpoints", action="store_true", help="Download the Zenodo archive if needed and print checkpoint paths")
     args = parser.parse_args(argv)
+    if args.endpoints:
+        ends = model_endpoints()
+        print(json.dumps({key: str(value) for key, value in ends.items()}, indent=2))
+        return
     records = load_documents(args.jsonl)
     if args.embed_doc is not None:
         hidden = sentence_embedding(args.embed_doc, args.embed_sent, records, key=args.key)

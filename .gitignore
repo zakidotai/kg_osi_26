@@ -224,6 +224,7 @@ __marimo__/
 
 # Generated local data
 /data/local/*
+/data/matscibert_zenodo/
 
 # Allow only the selected grouped ground truth to be shared through Git
 !/data/local/pl_ground_truth_10_1016/
