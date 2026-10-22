@@ -1,0 +1,28 @@
+# Python 3.11. ChemDataExtractor must be installed separately with --no-deps;
+# DAWG2 supplies its dawg import without the obsolete DAWG build dependency.
+numpy==1.26.4
+scipy==1.13.1
+gensim==4.3.3
+torch==2.6.0
+transformers==4.46.3
+huggingface-hub==0.26.5
+tokenizers==0.20.3
+safetensors==0.8.0
+pymatgen==2024.11.13
+monty==2024.10.21
+regex==2024.11.6
+Unidecode==1.3.8
+requests==2.34.2
+DAWG2==0.13.0
+beautifulsoup4==4.12.3
+cssselect==1.2.0
+python-crfsuite==0.9.11
+nltk==3.9.1
+appdirs==1.4.4
+snowballstemmer==2.2.0
+PyYAML==6.0.2
+click==8.1.7
+lxml==5.3.0
+six==1.17.0
+python-dateutil==3.0.0
+pytest==8.3.4
