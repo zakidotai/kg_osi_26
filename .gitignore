@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local project data
+/data/PL_descriptions.jsonl
+/data/local/*
+
+# Allow only the selected grouped ground truth to be shared through Git
+!/data/local/pl_ground_truth_10_1016/
+/data/local/pl_ground_truth_10_1016/*
+!/data/local/pl_ground_truth_10_1016/papers.jsonl
