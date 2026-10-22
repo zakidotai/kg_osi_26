@@ -39,6 +39,9 @@ ZENODO_CACHE = REPO_ROOT / "data" / "matscibert_zenodo"
 BASE_ENCODER = "m3rg-iitd/matscibert"
 TEXT_KEYS = ("synthesis", "experimental")
 MAX_SEQ_LEN = 512
+POOL_FLAGS = ("maxpool", "average")
+EMBED_CACHE_PT = Path(".cache/matscibert.pt")
+EMBED_CACHE_NPZ = Path(".cache/matscibert.npz")
 NER_LABELS = [
     "B-APL", "B-CMT", "B-DSC", "B-MAT", "B-PRO", "B-SMT", "B-SPL",
     "I-APL", "I-CMT", "I-DSC", "I-MAT", "I-PRO", "I-SMT", "I-SPL",
@@ -409,31 +412,83 @@ def extract_corpus(
     return rows
 
 
-def sentence_embedding(doc_index: int, sent_index: int, records: Sequence[dict], key: str = "synthesis"):
-    """MatSciBERT last hidden state for one sentence, shape (sequence_length, hidden_size)."""
-    sents = sentences(records[doc_index], key)
-    if sent_index < 0 or sent_index >= len(sents):
-        raise IndexError(
-            f"Sentence {sent_index} is outside 0..{len(sents) - 1} for document {doc_index} key {key!r}"
-        )
+def sentence_embedding(
+    doc_index: int,
+    records: Optional[Sequence[dict]] = None,
+    key: str = "synthesis",
+    flag: str = "average",
+):
+    """MatSciBERT embedding of one document, pooled over the tokens of all its sentences.
+
+    flag is "maxpool" or "average". Returns shape (hidden_size,). Pooled vectors for the
+    whole corpus are computed on the first call and cached in .cache/matscibert.pt
+    (.cache/matscibert.npz when torch is missing).
+    """
+    if flag not in POOL_FLAGS:
+        raise ValueError(f"flag must be one of {POOL_FLAGS}, got {flag!r}")
+    if records is None:
+        records = load_documents()
+    cache = _load_embedding_cache()
+    name = f"{key}-{flag}"
+    if name not in cache or len(cache[name]) != len(records):
+        pooled = _pooled_corpus(records, key)
+        cache.update({f"{key}-{pool}": value for pool, value in pooled.items()})
+        _save_embedding_cache(cache)
+    return cache[name][doc_index]
+
+
+def _pooled_corpus(records: Sequence[dict], key: str) -> Dict[str, torch.Tensor]:
+    """Max and mean pooled last hidden states per document, each of shape (n_docs, hidden_size)."""
     tokenizer, model = _embedding_runtime()
-    tokenized = tokenizer(
-        [normalize(sents[sent_index])],
-        padding=True,
-        truncation=True,
-        max_length=MAX_SEQ_LEN,
-        return_token_type_ids=True,
-    )
-    batch = {
-        name: torch.tensor(values).long()
-        for name, values in tokenized.items()
-        if name in {"input_ids", "attention_mask", "token_type_ids"}
-    }
     device = next(model.parameters()).device
-    batch = {name: value.to(device) for name, value in batch.items()}
-    with torch.no_grad():
-        last_hidden_state = model(**batch)[0]
-    return last_hidden_state[0].cpu()
+    hidden_size = model.config.hidden_size
+    out = {pool: [] for pool in POOL_FLAGS}
+    for record in records:
+        states = []
+        for sent in sentences(record, key):
+            tokenized = tokenizer(
+                [normalize(sent)],
+                truncation=True,
+                max_length=MAX_SEQ_LEN,
+                return_token_type_ids=True,
+                return_tensors="pt",
+            )
+            batch = {
+                name: value.to(device)
+                for name, value in tokenized.items()
+                if name in {"input_ids", "attention_mask", "token_type_ids"}
+            }
+            with torch.no_grad():
+                states.append(model(**batch)[0][0].cpu())
+        tokens = torch.cat(states, dim=0) if states else torch.zeros(1, hidden_size)
+        out["maxpool"].append(tokens.max(dim=0).values)
+        out["average"].append(tokens.mean(dim=0))
+    return {pool: torch.stack(values) for pool, values in out.items()}
+
+
+def _load_embedding_cache() -> dict:
+    try:
+        import torch as _torch
+    except ImportError:
+        import numpy as np
+
+        if not EMBED_CACHE_NPZ.is_file():
+            return {}
+        with np.load(EMBED_CACHE_NPZ) as data:
+            return {name: data[name] for name in data.files}
+    return _torch.load(EMBED_CACHE_PT) if EMBED_CACHE_PT.is_file() else {}
+
+
+def _save_embedding_cache(cache: dict) -> None:
+    EMBED_CACHE_PT.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        import torch as _torch
+    except ImportError:
+        import numpy as np
+
+        np.savez(EMBED_CACHE_NPZ, **{name: np.asarray(value) for name, value in cache.items()})
+        return
+    _torch.save(cache, EMBED_CACHE_PT)
 
 
 def _sentences_from_text(text: str) -> List[str]:
@@ -720,7 +775,7 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
     parser.add_argument("--max-pairs", type=int, default=64)
     parser.add_argument("--output", default=str(REPO_ROOT / "data" / "matscibert_relations.jsonl"))
     parser.add_argument("--embed-doc", type=int, default=None)
-    parser.add_argument("--embed-sent", type=int, default=0)
+    parser.add_argument("--embed-flag", default="average", choices=POOL_FLAGS)
     parser.add_argument("--endpoints", action="store_true", help="Download the Zenodo archive if needed and print checkpoint paths")
     args = parser.parse_args(argv)
     if args.endpoints:
@@ -729,8 +784,8 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
         return
     records = load_documents(args.jsonl)
     if args.embed_doc is not None:
-        hidden = sentence_embedding(args.embed_doc, args.embed_sent, records, key=args.key)
-        print(json.dumps({"doc_index": args.embed_doc, "sent_index": args.embed_sent, "shape": list(hidden.shape)}))
+        hidden = sentence_embedding(args.embed_doc, records, key=args.key, flag=args.embed_flag)
+        print(json.dumps({"doc_index": args.embed_doc, "flag": args.embed_flag, "shape": list(hidden.shape)}))
         return
     rows = extract_corpus(
         records,

@@ -2,6 +2,7 @@
 #------------------------------#
 from extractors.get_pl import get_pl
 from extractors.qa_embedder import QAEmbedder
+from extractors.matscibert import sentence_embedding
 #------------------------------#
 
 from functools import partial
@@ -31,12 +32,17 @@ qa_exp.embed(D, Q_exp)
 
 # NOTE: REGISTER EXTRACTORS HERE #
 #--------------------------------#
+se_max = lambda i,j,d: sentence_embedding(i, D, flag="maxpool").tolist()
+se_avg = lambda i,j,d: sentence_embedding(i, D, flag="average").tolist()
+
 E = [
     get_pl,
     partial(qa_syn.get_f, qid=0),
     partial(qa_syn.get_f, qid=1),
     partial(qa_exp.get_f, qid=0),
-]
+    se_max,
+    se_avg,
+] # documents x features
 #--------------------------------#
 
 def normalize(v):
