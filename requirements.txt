@@ -1,5 +1,7 @@
-torch
-transformers>=5.20
-sentence-transformers>=3.0
+# torch - You probably need a specific torch version that matches your cuda driver
+transformers
+sentence-transformers
 accelerate
+gpytorch
+scikit-learn
 numpy
