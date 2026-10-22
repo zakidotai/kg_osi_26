@@ -1,4 +1,5 @@
 from pathlib import Path
+import hashlib
 import re
 import torch
 from sentence_transformers import SentenceTransformer
@@ -26,7 +27,8 @@ class QAEmbedder:
     
 
     def embed(self, D, questions):
-        cache = Path(f".cache/F-{self.key}.pt")
+        qhash = hashlib.sha1("\n".join(questions).encode()).hexdigest()[:8] # different questions -> different cache
+        cache = Path(f".cache/F-{self.key}-{qhash}.pt")
         print(cache)
         if not self.rerun and Path.exists(cache):
             self.F = torch.load(cache)

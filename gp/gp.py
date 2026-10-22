@@ -53,8 +53,9 @@ def fit_predict(X_train, y_train, X_test):
     return pred * y_std + y_mean
 
 
-def e(F, n_splits=5):
-    """F is data points x [y, *features]; returns mean absolute error averaged over the CV folds"""
+def e(F, blocks=None, n_splits=5, seed=0):
+    """F is data points x [y, *features]; returns mean absolute error averaged over the CV folds.
+    blocks is accepted for the same call signature as gp_blocks / gp_pca and is ignored here."""
     F = np.asarray(F, dtype=float)
     y = F[:, 0]
     X = F[:, 1:]
@@ -67,7 +68,7 @@ def e(F, n_splits=5):
     X = torch.as_tensor(X, dtype=torch.float64, device=DEVICE)
     y = torch.as_tensor(y, dtype=torch.float64, device=DEVICE)
 
-    cv = KFold(n_splits=n_splits, shuffle=True, random_state=0)
+    cv = KFold(n_splits=n_splits, shuffle=True, random_state=seed)
     errors = []
     for train_idx, test_idx in cv.split(X.cpu().numpy()):
         pred = fit_predict(X[train_idx], y[train_idx], X[test_idx])
