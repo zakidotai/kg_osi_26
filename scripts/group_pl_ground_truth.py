@@ -2,6 +2,7 @@
 
 Run from any directory with Python 3; no extra packages are required.
 Formula comparisons use exact source strings, not chemical canonicalization.
+Compound-name comparisons ignore case and repeated whitespace, not punctuation.
 """
 
 import argparse
@@ -23,14 +24,23 @@ def normalize_doi(value):
     return matches[0].lower()
 
 
+def normalize_compound_name(value):
+    """Comparison key, preserving punctuation, numbers, and R/S distinctions."""
+    return " ".join((value or "").split()).casefold()
+
+
 def group_records(rows, prefix):
     papers = defaultdict(list)
     all_dois = set()
     all_formula_counts = Counter()
+    all_name_counts = Counter()
     for row in rows:
         doi = normalize_doi(row["doi_isbn"])
         all_dois.add(doi)
         all_formula_counts[doi, row["formula"]] += 1
+        name = normalize_compound_name(row.get("compound_name"))
+        if name:
+            all_name_counts[doi, name] += 1
         if doi.startswith(prefix):
             papers[doi].append(row)
 
@@ -38,8 +48,12 @@ def group_records(rows, prefix):
     paper_audits = []
     for doi, records in sorted(papers.items()):
         by_formula = defaultdict(list)
+        by_name = defaultdict(list)
         for row in records:
             by_formula[row["formula"]].append(row)
+            name = normalize_compound_name(row.get("compound_name"))
+            if name:
+                by_name[name].append(row)
         collisions = []
         for formula, matches in sorted(by_formula.items()):
             if len(matches) > 1:
@@ -50,6 +64,16 @@ def group_records(rows, prefix):
                     "distinct_synthesis_count": len({row["synthesis"] for row in matches}),
                     "distinct_experimental_count": len({row["experimental"] for row in matches}),
                 })
+        name_collisions = [
+            {
+                "normalized_compound_name": name,
+                "compound_names": sorted({row["compound_name"] for row in matches}),
+                "dataset_ids": [row["dataset_id"] for row in matches],
+                "system_ids": [row["system_id"] for row in matches],
+                "formulas": sorted({row["formula"] for row in matches}),
+            }
+            for name, matches in sorted(by_name.items()) if len(matches) > 1
+        ]
         # Keep every original field, original text, and original row order.
         # A record can be a measurement of a material, so do not deduplicate.
         grouped.append({"doi": doi, "records": records})
@@ -59,23 +83,37 @@ def group_records(rows, prefix):
             "unique_formula_count": len(by_formula),
             "formulas": {formula: len(matches) for formula, matches in sorted(by_formula.items())},
             "formula_collisions": collisions,
+            "unique_compound_name_count": len(by_name),
+            "missing_compound_name_count": sum(
+                not normalize_compound_name(row.get("compound_name")) for row in records
+            ),
+            "compound_name_collisions": name_collisions,
         })
 
     selected = [row for paper in grouped for row in paper["records"]]
     audit = {
         "doi_prefix": prefix,
         "formula_comparison": "Exact source strings; no chemical canonicalization.",
+        "compound_name_comparison": "Case and whitespace normalized; punctuation and stereochemical markers preserved. No synonym resolution.",
         "source_record_count": len(rows),
         "source_paper_count": len(all_dois),
         "source_repeated_doi_formula_groups": sum(n > 1 for n in all_formula_counts.values()),
+        "source_repeated_doi_compound_name_groups": sum(n > 1 for n in all_name_counts.values()),
+        "source_missing_compound_name_count": sum(
+            not normalize_compound_name(row.get("compound_name")) for row in rows
+        ),
         "selected_record_count": len(selected),
         "selected_paper_count": len(grouped),
         "selected_unique_formula_count": len({row["formula"] for row in selected}),
         "selected_unique_system_count": len({row["system_id"] for row in selected}),
         "selected_doi_formula_is_unique": all(not p["formula_collisions"] for p in paper_audits),
+        "selected_doi_compound_name_is_unique": bool(selected) and all(
+            not p["compound_name_collisions"] and not p["missing_compound_name_count"]
+            for p in paper_audits
+        ),
         "selected_missing_or_blank_fields": {
-            field: sum(not row.get(field, "").strip() for row in selected)
-            for field in ("formula", "synthesis", "experimental")
+            field: sum(not (row.get(field) or "").strip() for row in selected)
+            for field in ("compound_name", "formula", "synthesis", "experimental")
         },
         "papers": paper_audits,
     }
@@ -119,6 +157,7 @@ def main():
     audit_path.write_text(json.dumps(audit, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Grouped {audit['selected_record_count']} records into {len(grouped)} papers.")
     print(f"DOI + exact formula unique: {audit['selected_doi_formula_is_unique']}")
+    print(f"DOI + compound name unique: {audit['selected_doi_compound_name_is_unique']}")
     print(f"Grouped records: {grouped_path}")
     print(f"Audit: {audit_path}")
 
