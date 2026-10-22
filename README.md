@@ -34,4 +34,6 @@ with np.load("data/embeddings/matscibert.npz", allow_pickle=False) as data:
 
 Both files contain five fields: formula, compound name, synthesis, experimental and combined. Match rows to source data by dataset/system IDs; always apply `valid` because invalid vectors are zero placeholders. See [embedding setup and usage](docs/embeddings.md) to select other features or regenerate outputs.
 
+`main.py` also uses these saved MatSciBERT combined vectors through `SavedMaterialEmbeddings.get_f`, adding 768 features per record alongside the existing extractors. See [pipeline integration](docs/embeddings.md#connection-to-the-shared-pipeline).
+
 **Coverage:** 217 of 2,110 vector slots are invalid, mostly due to mat2vec formula vocabulary gaps. All 211 records are retained, and both models have valid combined vectors for every record. See the [coverage table and missing-value guidance](docs/embeddings.md#coverage-and-missing-values). Experimental/combined text may reveal PL targets and needs review before prediction.

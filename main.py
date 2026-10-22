@@ -3,6 +3,7 @@
 from extractors.get_pl import get_pl
 from extractors.qa_embedder import QAEmbedder
 from extractors.matscibert import sentence_embedding
+from extractors.saved_material_embeddings import SavedMaterialEmbeddings
 #------------------------------#
 
 from functools import partial
@@ -16,6 +17,10 @@ D = [json.loads(line) for line in Path.read_text(Path("data/PL_descriptions_with
 
 # NOTE: DO PRECOMPUTATIONS HERE #
 #-------------------------------#
+# Loads the shared NPZ once; all 211 combined vectors are valid.
+# Combined includes experimental prose: check PL-target leakage before interpreting scores.
+saved_material = SavedMaterialEmbeddings(D, model="matscibert", field="combined")
+
 Q_syn = [
     "Name one solute:",
     "How was the temperature controlled?",
@@ -42,6 +47,7 @@ E = [
     partial(qa_exp.get_f, qid=0),
     se_max,
     se_avg,
+    saved_material.get_f,
 ] # documents x features
 #--------------------------------#
 

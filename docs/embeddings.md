@@ -196,21 +196,44 @@ the reviewed full snapshot in `data/embeddings/` is tracked.
 
 ## Connection to the shared pipeline
 
-Keep model inference in `pl_embeddings/`. The shared `main.py` scaffold collects
-features through `extractors/`; a future adapter there can load the saved NPZ
-files once, align rows by dataset/system IDs, and return each selected model/field
-vector together with its validity. Never assume row order alone establishes a match.
-The adapter is not implemented yet; the QA extractor interface is still unfinished.
+`main.py` now registers `SavedMaterialEmbeddings` from
+`extractors/saved_material_embeddings.py` alongside the other extractors:
+
+```python
+from extractors.saved_material_embeddings import SavedMaterialEmbeddings
+
+# D is the list of source records loaded by main.py.
+saved_material = SavedMaterialEmbeddings(D, model="matscibert", field="combined")
+# Include saved_material.get_f in E, after get_pl and the other feature extractors.
+vector = saved_material.get_f(0, 0, D[0])  # list of 768 Python floats
+```
+
+The adapter loads the NPZ once and matches dataset/system IDs, even when `D` is
+reordered or contains repeated records. It verifies the source hash and selected
+input text so changed records cannot silently reuse stale embeddings. New PL
+target metadata is allowed. Missing vectors cause a clear error before QA
+precomputation; no rows are silently dropped and no zero placeholders enter the GP.
+
+The default adds 768 combined-text features per record to the existing feature
+list. All 211 records have this vector. Keep `get_pl` first in `E`, since the GP
+uses the first column as its target. To compare this method alone, set
+`E = [get_pl, saved_material.get_f]`; the other precomputation blocks would still
+run unless separately disabled. A single combined vector cannot be split back
+into its constituent fields or have experimental text removed after embedding.
 
 The QA scaffold embeds answers to questions with Qwen; this package embeds the
-four source fields directly. They provide different features. Keep their Python
-environments separate: the shared `requirements.txt` requests `transformers>=5.20`,
-whereas this package was tested with `4.46.3`. Reading the saved arrays only needs
-NumPy and does not require loading either of our models in the QA environment.
+four source fields directly. They provide different features. Keep model
+generation in its tested environment (`transformers==4.46.3`); the shared QA
+pipeline has its own dependencies. The saved-vector adapter only needs NumPy
+and the standard library; it does not load either checkpoint or import PyTorch.
 
 The peak export added in commit `e60442e` has the same 211 record IDs, order and
 embedding inputs as `data/PL_descriptions.jsonl`, so the generated vectors still
 align. Choosing and validating peak targets remains a separate step.
+
+Adapter tests run with `python -m pytest -q tests/test_saved_material_embeddings.py`.
+They exercise the numeric feature-building interface without starting the QA
+models or a full GP training run.
 
 ## Validation and later prediction
 
