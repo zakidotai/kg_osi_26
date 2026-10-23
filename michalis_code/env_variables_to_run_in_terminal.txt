@@ -1,9 +1,0 @@
-RUN POSTGRES DOCKER 
-docker run -d -e POSTGRES_PASSWORD=pw -p 5432:5432 pgvector/pgvector:pg17
-
-+ LOCAL LLM (e.g., I used OLLAMA)
-
-$env:DATABASE_URL = "postgresql://postgres:test@localhost:5432/postgres"
-$env:LLM_BASE_URL = "http://localhost:11434/v1"
-$env:LLM_API_KEY = "ollama"
-$env:LLM_MODEL    = "gemma4:latest"
